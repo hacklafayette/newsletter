@@ -1,44 +1,47 @@
+# HackLafayette newsletter -- 2016-10-15
+
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request at https://github.com/funnelfiasco/hacklafayette-newsletter
 
 All month long is Hacktoberfest. Participate and you get a free t-shirt: https://hacktoberfest.digitalocean.com/
 
-Upcoming HackLafayette events:
+## Upcoming HackLafayette events:
 
-10/23 -- Coffee & Chat -- http://www.meetup.com/hacklafayette/events/234517399/
-11/08 -- Food & Beer & Chat -- https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/
+* 10/23 -- Coffee & Chat -- http://www.meetup.com/hacklafayette/events/234517399/
+* 11/08 -- Food & Beer & Chat -- https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/
 
-Upcoming nearby events:
+## Upcoming nearby events:
 
-10/18 -- Ansible Indianapolis -- Ansible Monthly Meetup https://www.meetup.com/Ansible-Indianapolis/events/234541781/
-10/18 -- Indianapolis PHP Meetup Group -- PHP+Beer DT https://www.meetup.com/indyphp/events/234295391/
-10/19 -- Purdue RCODI Black Iron Hack Award Ceremony -- https://goo.gl/sa06e9
-10/19 -- Indianapolis Ruby Brigade -- Monthly Meetup https://www.meetup.com/indyrb/events/234276509/
-10/20 -- VERGE Lafayette/West Lafayette -- https://www.meetup.com/vergelafayette/events/234123169/
-10/20 -- Indy Javascript Society -- Monthy Meeting https://www.meetup.com/indyjs/events/233035452/
-10/24 -- Indy DevOps -- https://www.meetup.com/IndyDevOps/events/233372016/
-10/24 -- Docker Indianapolis -- https://www.meetup.com/Docker-Indianapolis/events/234463196/
-10/26 -- Indy Big Data Monthly Meetup -- https://www.meetup.com/IndyBigData/events/228228288/
-12/03 -- Indy Hackers Holiday Social -- http://www.indyhackers.org/holiday-social-2016/
+* 10/18 -- Ansible Indianapolis -- Ansible Monthly Meetup https://www.meetup.com/Ansible-Indianapolis/events/234541781/
+* 10/18 -- Indianapolis PHP Meetup Group -- PHP+Beer DT https://www.meetup.com/indyphp/events/234295391/
+* 10/19 -- Purdue RCODI Black Iron Hack Award Ceremony -- https://goo.gl/sa06e9
+* 10/19 -- Indianapolis Ruby Brigade -- Monthly Meetup https://www.meetup.com/indyrb/events/234276509/
+* 10/20 -- VERGE Lafayette/West Lafayette -- https://www.meetup.com/vergelafayette/events/234123169/
+* 10/20 -- Indy Javascript Society -- Monthy Meeting https://www.meetup.com/indyjs/events/233035452/
+* 10/24 -- Indy DevOps -- https://www.meetup.com/IndyDevOps/events/233372016/
+* 10/24 -- Docker Indianapolis -- https://www.meetup.com/Docker-Indianapolis/events/234463196/
+* 10/26 -- Indy Big Data Monthly Meetup -- https://www.meetup.com/IndyBigData/events/228228288/
+* 12/03 -- Indy Hackers Holiday Social -- http://www.indyhackers.org/holiday-social-2016/
 
-Open CfPs:
-Systems We Love -- closes 10/18 -- http://systemswe.love/
-MinneWebCon -- closed 10/26 -- http://minnewebcon.org/call-for-proposals
-Southern California Linux Expo -- closes 11/15 -- https://www.socallinuxexpo.org/scale/15x/cfp
-PyCon -- closes 11/30 (tutorials), 1/2 (talks, posters, education) -- https://us.pycon.org/2017/speaking/
-DrupalCamp NJ -- closes 12/9 -- https://www.drupalcampnj.org/program/sessions/propose
+## Open CfPs:
+* Systems We Love -- closes 10/18 -- http://systemswe.love/
+* MinneWebCon -- closed 10/26 -- http://minnewebcon.org/call-for-proposals
+* Southern California Linux Expo -- closes 11/15 -- https://www.socallinuxexpo.org/scale/15x/cfp
+* PyCon -- closes 11/30 (tutorials), 1/2 (talks, posters, education) -- https://us.pycon.org/2017/speaking/
+* DrupalCamp NJ -- closes 12/9 -- https://www.drupalcampnj.org/program/sessions/propose
 
-Member news:
-Ed Finkler presented a keynote at the DevSpace conference in Huntsville, AL today
-Ed Finkler is presenting "How to be a great developer" at All Things Open (Raleigh, NC) on 10/26
-Ben Cotton is presenting "The impact of licenses on software quality" at All Things Open (Raleigh, NC) on 10/27
-Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
-Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
-(Have news you want to share? Send your speaking gigs, conference attendance, new jobs, new projects, etc to bcotton@funnelfiasco.com.)
+## Member news:
+* Ed Finkler presented a keynote at the DevSpace conference in Huntsville, AL today
+* Ed Finkler is presenting "How to be a great developer" at All Things Open (Raleigh, NC) on 10/26
+* Ben Cotton is presenting "The impact of licenses on software quality" at All Things Open (Raleigh, NC) on 10/27
+* Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
+* Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
 
-Jobs:
+(Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+
+## Jobs:
 IndyHackers Jobs board (local jobs only): http://www.indyhackers.org/jobs
 
-Notes from our sponsors:
+##Notes from our sponsors:
 Check out all of O'ReillyMedia's online data training courses http://oreil.ly/2ccuSJG
 
 HackLafayette thanks MatchBOX, JetBrains, and O'Reilly for their sponsorship.
