@@ -1,6 +1,6 @@
 # HackLafayette newsletter -- 2016-10-21
 
-Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request at https://github.com/funnelfiasco/hacklafayette-newsletter
+Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request at https://github.com/hacklafayette/newsletter
 
 All month long is Hacktoberfest. Participate and you get a free t-shirt: https://hacktoberfest.digitalocean.com/
 
