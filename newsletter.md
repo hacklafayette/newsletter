@@ -6,21 +6,21 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: https:/
 
 ## Upcoming HackLafayette events:
 
-* 10/23 -- Coffee & Chat -- http://www.meetup.com/hacklafayette/events/234517399/
-* 11/08 -- Food & Beer & Chat -- https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/
+* 10/23 -- [Coffee & Chat](http://www.meetup.com/hacklafayette/events/234517399/)
+* 11/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/)
 
 ## Upcoming nearby events:
 
-* 10/24 -- Indy DevOps -- https://www.meetup.com/IndyDevOps/events/233372016/
-* 10/24 -- Docker Indianapolis -- https://www.meetup.com/Docker-Indianapolis/events/234463196/
-* 10/26 -- Indy Big Data Monthly Meetup -- https://www.meetup.com/IndyBigData/events/228228288/
-* 12/03 -- Indy Hackers Holiday Social -- http://www.indyhackers.org/holiday-social-2016/
+* 10/24 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/233372016/)
+* 10/24 -- [Docker Indianapolis](https://www.meetup.com/Docker-Indianapolis/events/234463196/)
+* 10/26 -- [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/228228288/)
+* 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
-* MinneWebCon -- closed 10/26 -- http://minnewebcon.org/call-for-proposals
-* Southern California Linux Expo -- closes 11/15 -- https://www.socallinuxexpo.org/scale/15x/cfp
-* PyCon -- closes 11/30 (tutorials), 1/2 (talks, posters, education) -- https://us.pycon.org/2017/speaking/
-* DrupalCamp NJ -- closes 12/9 -- https://www.drupalcampnj.org/program/sessions/propose
+* [MinneWebCon](http://minnewebcon.org/call-for-proposals) -- closes 10/26
+* [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
+* [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
+* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/9
 
 ## Member news:
 * Ed Finkler is presenting "How to be a great developer" at All Things Open (Raleigh, NC) on 10/26
