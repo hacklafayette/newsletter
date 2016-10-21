@@ -1,19 +1,22 @@
 # HackLafayette newsletter -- 2016-10-21
 
-Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request at https://github.com/hacklafayette/newsletter
+Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter).
 
-All month long is Hacktoberfest. Participate and you get a free t-shirt: https://hacktoberfest.digitalocean.com/
+All month long is Hacktoberfest. Participate and you get a free t-shirt: [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 ## Upcoming HackLafayette events:
 
 * 10/23 -- [Coffee & Chat](http://www.meetup.com/hacklafayette/events/234517399/)
-* 11/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/)
+* 11/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/)
 
 ## Upcoming nearby events:
 
 * 10/24 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/233372016/)
 * 10/24 -- [Docker Indianapolis](https://www.meetup.com/Docker-Indianapolis/events/234463196/)
 * 10/26 -- [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/228228288/)
+* 10/27 -- [Indy Open Tech Study Hall](https://www.meetup.com/Indy-Open-Tech-Study-Hall/events/234885725/)
+* 11/08 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/228228293/)
+* 11/09 -- [Indy Ruby Brigade Monthly Meetup](https://www.meetup.com/indyrb/events/234999290/)
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
@@ -31,9 +34,10 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: https:/
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
-IndyHackers Jobs board (local jobs only): http://www.indyhackers.org/jobs
+* IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
+* Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
 ##Notes from our sponsors:
 Check out all of O'ReillyMedia's online data training courses http://oreil.ly/2ccuSJG
 
-HackLafayette thanks MatchBOX, JetBrains, and O'Reilly for their sponsorship.
+HackLafayette thanks [MatchBOX](http://matchboxstudio.org/), [JetBrains](https://www.jetbrains.com/), and [O'Reilly](http://www.oreilly.com/) for their sponsorship.
