@@ -16,6 +16,7 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: [https:
 
 ## Open CfPs:
 * [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
+* [Midwest PHP](https://cfp.midwestphp.org/) -- closes 11/15
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/9
 
