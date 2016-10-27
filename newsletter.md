@@ -7,11 +7,18 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: [https:
 ## Upcoming HackLafayette events:
 
 * 11/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/)
+* 11/27 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyvpbkc/)
 
 ## Upcoming nearby events:
 
 * 11/08 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/228228293/)
 * 11/09 -- [Indy Ruby Brigade Monthly Meetup](https://www.meetup.com/indyrb/events/234999290/)
+* 11/15 -- [Ansible Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/235016216/)
+* 11/16 -- Indianapolis Java User Group -- [JSON Web Tokens](https://www.meetup.com/Indianapolis-Java-User-Group/events/233401538/)
+* 11/16 -- [indy.js Monthly Meetup](https://www.meetup.com/indyjs/events/233035461/)
+* 11/17 -- [Verge Lafayette/West Lafayette](https://www.meetup.com/vergelafayette/events/235020496/)
+* 11/21 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/228227571/)
+* 11/23 -- Node.Indy -- [Learn about Node.js and its awesomeness](https://www.meetup.com/Node-indy/events/234668931/)
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
