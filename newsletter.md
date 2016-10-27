@@ -15,10 +15,17 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: [https:
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
+* [CD Summit & Jenkins Days Seattle](https://www.papercall.io/cd-summit-seattle-16) -- closes 11/04
+* [Code4Lib](https://docs.google.com/forms/d/e/1FAIpQLSfO29jPWzxt_eAJpZGegcfqRdkiSGRq9131E1rHylDkQZi9cg/viewform) -- closed 11/08
+* [CD Summit & Jenkins Days Los Angeles](https://www.papercall.io/cd-summit-socal-16) -- closes 11/11
+* [Libre Planet](https://my.fsf.org/lp-call-for-sessions) -- closes 11/14
 * [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
 * [Midwest PHP](https://cfp.midwestphp.org/) -- closes 11/15
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
-* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/9
+* [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
+* [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
+* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
+* [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 
 ## Member news:
 * Ed Finkler presented "How to be a great developer" at All Things Open (Raleigh, NC) on 10/26
