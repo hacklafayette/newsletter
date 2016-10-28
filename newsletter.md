@@ -1,8 +1,6 @@
-# HackLafayette newsletter -- 2016-10-28
+# HackLafayette newsletter -- 2016-11-04
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter).
-
-All month long is Hacktoberfest. Participate and you get a free t-shirt: [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 ## Upcoming HackLafayette events:
 
@@ -35,9 +33,7 @@ All month long is Hacktoberfest. Participate and you get a free t-shirt: [https:
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 
 ## Member news:
-* Ed Finkler presented "How to be a great developer" at All Things Open (Raleigh, NC) on 10/26
-* Ben Cotton presented "The impact of licenses on software quality" at All Things Open (Raleigh, NC) on 10/27
-* Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
+* Ed Finkler presented "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
