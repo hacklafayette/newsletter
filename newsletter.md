@@ -21,7 +21,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Open CfPs:
 * [CD Summit & Jenkins Days Seattle](https://www.papercall.io/cd-summit-seattle-16) -- closes 11/04
-* [Code4Lib](https://docs.google.com/forms/d/e/1FAIpQLSfO29jPWzxt_eAJpZGegcfqRdkiSGRq9131E1rHylDkQZi9cg/viewform) -- closed 11/08
+* [Code4Lib](https://docs.google.com/forms/d/e/1FAIpQLSfO29jPWzxt_eAJpZGegcfqRdkiSGRq9131E1rHylDkQZi9cg/viewform) -- closes 11/08
 * [CD Summit & Jenkins Days Los Angeles](https://www.papercall.io/cd-summit-socal-16) -- closes 11/11
 * [Libre Planet](https://my.fsf.org/lp-call-for-sessions) -- closes 11/14
 * [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
@@ -31,6 +31,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
+* [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
 * Ed Finkler presented "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
