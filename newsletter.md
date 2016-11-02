@@ -31,6 +31,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
+* [ng-cruise](https://ngcruise.com/#/) -- closes 01/15
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
