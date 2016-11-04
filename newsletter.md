@@ -1,16 +1,13 @@
-# HackLafayette newsletter -- 2016-11-04
+# HackLafayette newsletter -- 2016-11-11
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter).
 
 ## Upcoming HackLafayette events:
 
-* 11/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvpbmb/)
 * 11/27 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyvpbkc/)
 
 ## Upcoming nearby events:
 
-* 11/08 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/228228293/)
-* 11/09 -- [Indy Ruby Brigade Monthly Meetup](https://www.meetup.com/indyrb/events/234999290/)
 * 11/15 -- [Ansible Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/235016216/)
 * 11/16 -- Indianapolis Java User Group -- [JSON Web Tokens](https://www.meetup.com/Indianapolis-Java-User-Group/events/233401538/)
 * 11/16 -- [indy.js Monthly Meetup](https://www.meetup.com/indyjs/events/233035461/)
@@ -20,8 +17,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
-* [CD Summit & Jenkins Days Seattle](https://www.papercall.io/cd-summit-seattle-16) -- closes 11/04
-* [Code4Lib](https://docs.google.com/forms/d/e/1FAIpQLSfO29jPWzxt_eAJpZGegcfqRdkiSGRq9131E1rHylDkQZi9cg/viewform) -- closes 11/08
 * [CD Summit & Jenkins Days Los Angeles](https://www.papercall.io/cd-summit-socal-16) -- closes 11/11
 * [Libre Planet](https://my.fsf.org/lp-call-for-sessions) -- closes 11/14
 * [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
@@ -35,9 +30,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
-* Ed Finkler presented "Grumpy and Funky Change the World" at True North PHP (Toronto, CA) Nov 4
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
-* Ben Cotton began writing for *[The Next Platform](https://www.nextplatform.com)* as a Contributing Author.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
