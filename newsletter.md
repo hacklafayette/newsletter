@@ -37,6 +37,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Member news:
 * Ed Finkler presented "Grumpy and Funky Change the World" at True North PHP (Toronto, CA) Nov 4
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
+* Ben Cotton began writing for *[The Next Platform](https://www.nextplatform.com)* as a Contributing Author.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
