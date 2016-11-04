@@ -31,6 +31,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Member news:
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
+* Ben Cotton will be attending the [Supercomputing](http://sc16.supercomputing.org) conference (Salt Lake City, UT) Nov 14-17
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
