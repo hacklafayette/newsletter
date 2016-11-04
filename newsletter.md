@@ -35,7 +35,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
-* Ed Finkler presented "Stronger Than Fear: Mental Health in the Developer Community" at True North PHP Conference (Toronto, ON) Nov 3-5
+* Ed Finkler presented "Grumpy and Funky Change the World" at True North PHP (Toronto, CA) Nov 4
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
