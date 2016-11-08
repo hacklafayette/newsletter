@@ -23,6 +23,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Libre Planet](https://my.fsf.org/lp-call-for-sessions) -- closes 11/14
 * [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/15x/cfp) -- closes 11/15
 * [Midwest PHP](https://cfp.midwestphp.org/) -- closes 11/15
+* [OpenVis](https://openvisconf.com/call-for-speakers/#cfp-call) -- close 11/20
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
 * [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
