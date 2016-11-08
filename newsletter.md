@@ -2,6 +2,8 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter).
 
+Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
+
 ## Upcoming HackLafayette events:
 
 * 11/27 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyvpbkc/)
