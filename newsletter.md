@@ -35,6 +35,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 ## Member news:
 * Ed Finkler presented "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
 * Ben Cotton attended the [Supercomputing](http://sc16.supercomputing.org) conference (Salt Lake City, UT) Nov 14-17
+* Ben Cotton is co-chairing the Invited Talks track at the [LISA](https://www.usenix.org/conference/lisa16) conference (Boston, MA) Dec 4-9
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
