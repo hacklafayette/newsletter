@@ -25,15 +25,24 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Midwest PHP](https://cfp.midwestphp.org/) -- closes 11/15
 * [OpenVis](https://openvisconf.com/call-for-speakers/#cfp-call) -- close 11/20
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
+* [Fiatech](http://fiatech.org/index.php?option=com_rsform&formId=10) -- closes 11/28
 * [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
+* [Red Hat Summit](http://verticalindustriesblog.redhat.com/red-hat-summit-call-for-proposals-closes-december-2/) -- closes 12/02
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
+* [Data Summit](http://www.dbta.com/DataSummit/2017/CallForSpeakers.aspx) -- closes 12/09
+* [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
+* [Ignite UX Michigan](http://www.igniteuxmi.com/submit-a-talk/) -- closes 01/06
+* [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
 * [ng-cruise](https://ngcruise.com/#/) -- closes 01/15
+* [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
+* [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
 * Ed Finkler is presenting "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
+* Ben Cotton has an article in the latest issue of HPC Source: ["Scale in a Cloudy World"](http://digital.scientificcomputing.com/scientificcomputing/hp_source_november_2016?pg=14#pg14)
 * Ben Cotton will be attending the [Supercomputing](http://sc16.supercomputing.org) conference (Salt Lake City, UT) Nov 14-17
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
