@@ -43,7 +43,11 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
-##Notes from our sponsors:
-Check out all of O'ReillyMedia's online data training courses http://oreil.ly/2ccuSJG
+## Notes from our sponsors:
+*Strata + Hadoop World | March 13–16, 2017 | San Jose, CA*
+
+"One of the most valuable events to advance my career." 
+
+Strata + Hadoop World is a rich learning experience at the intersection of data science and business. Thousands of innovators, leaders, and practitioners gather to develop new skills, share best practices, and discover how tools and technologies are evolving to meet new challenges. Find out how big data, machine learning, and analytics are changing not only business, but society itself at Strata + Hadoop World. Save 20% on most passes with discount code USRG. [http://www.oreilly.com/pub/cpc/35801](http://www.oreilly.com/pub/cpc/35801)
 
 HackLafayette thanks [MatchBOX](http://matchboxstudio.org/), [JetBrains](https://www.jetbrains.com/), and [O'Reilly](http://www.oreilly.com/) for their sponsorship.
