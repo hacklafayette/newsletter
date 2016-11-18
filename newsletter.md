@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2016-11-18
+# HackLafayette newsletter -- 2016-11-25
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -13,12 +13,9 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming nearby events:
 
-* 11/21 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/228227571/)
-* 11/23 -- Node.Indy -- [Learn about Node.js and its awesomeness](https://www.meetup.com/Node-indy/events/234668931/)
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
-* [OpenVis](https://openvisconf.com/call-for-speakers/#cfp-call) -- close 11/20
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
 * [Fiatech](http://fiatech.org/index.php?option=com_rsform&formId=10) -- closes 11/28
 * [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
@@ -36,8 +33,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
-* Ed Finkler presented "Stronger Than Fear: Mental Health in the Developer Community" at php[world] Conference (Washington, D.C.) Nov 14-18
-* Ben Cotton attended the [Supercomputing](http://sc16.supercomputing.org) conference (Salt Lake City, UT) Nov 14-17
 * Ben Cotton is co-chairing the Invited Talks track at the [LISA](https://www.usenix.org/conference/lisa16) conference (Boston, MA) Dec 4-9
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
