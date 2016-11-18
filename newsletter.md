@@ -8,6 +8,8 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 * 11/27 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyvpbkc/)
 * 12/14 -- "Starship Mongers" [Perl SIG](https://www.meetup.com/hacklafayette/events/235576089/)
+* 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
+
 
 ## Upcoming nearby events:
 
