@@ -1,6 +1,6 @@
 # HackLafayette newsletter -- 2016-11-18
 
-Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #glossy channel on Freenode IRC.
+Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
 
