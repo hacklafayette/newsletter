@@ -20,6 +20,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Fiatech](http://fiatech.org/index.php?option=com_rsform&formId=10) -- closes 11/28
 * [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
+* [Syntax Code & Craft](2017.syntaxcon.com/speakers/proposal) -- closes 12/02
 * [Red Hat Summit](http://verticalindustriesblog.redhat.com/red-hat-summit-call-for-proposals-closes-december-2/) -- closes 12/02
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
 * [Data Summit](http://www.dbta.com/DataSummit/2017/CallForSpeakers.aspx) -- closes 12/09
