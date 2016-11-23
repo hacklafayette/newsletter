@@ -22,13 +22,14 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
 * [Syntax Code & Craft](2017.syntaxcon.com/speakers/proposal) -- closes 12/02
 * [Red Hat Summit](http://verticalindustriesblog.redhat.com/red-hat-summit-call-for-proposals-closes-december-2/) -- closes 12/02
-* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) -- closes 12/09
+* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) (Princeton, NJ) -- closes 12/09
 * [Data Summit](http://www.dbta.com/DataSummit/2017/CallForSpeakers.aspx) -- closes 12/09
 * [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
+* [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 * [Ignite UX Michigan](http://www.igniteuxmi.com/submit-a-talk/) -- closes 01/06
 * [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
-* [ng-cruise](https://ngcruise.com/#/) -- closes 01/15
+* [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
 * [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
 * [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
