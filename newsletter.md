@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2016-11-25
+# HackLafayette newsletter -- 2016-12-02
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -6,7 +6,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming HackLafayette events:
 
-* 11/27 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyvpbkc/)
 * 12/14 -- "Starship Mongers" [Perl SIG](https://www.meetup.com/hacklafayette/events/235576089/)
 * 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
 
@@ -16,10 +15,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * 12/03 -- [Indy Hackers Holiday Social](http://www.indyhackers.org/holiday-social-2016/)
 
 ## Open CfPs:
-* [PyCon](https://us.pycon.org/2017/speaking/) -- closes 11/30 (tutorials), 1/2 (talks, posters, education)
-* [Fiatech](http://fiatech.org/index.php?option=com_rsform&formId=10) -- closes 11/28
-* [BSides SF](https://bsidessf.com/cfp.html) -- closes 11/30
-* [Designing for Digital](http://designingfordigital.com/speaking-opportunities/) -- closes 12/01
 * [Syntax Code & Craft](2017.syntaxcon.com/speakers/proposal) -- closes 12/02
 * [Red Hat Summit](http://verticalindustriesblog.redhat.com/red-hat-summit-call-for-proposals-closes-december-2/) -- closes 12/02
 * [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) (Princeton, NJ) -- closes 12/09
@@ -27,6 +22,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
 * [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
+* [PyCon](https://us.pycon.org/2017/speaking/) -- closes 01/02 (talks, posters, education)
 * [Ignite UX Michigan](http://www.igniteuxmi.com/submit-a-talk/) -- closes 01/06
 * [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
 * [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
