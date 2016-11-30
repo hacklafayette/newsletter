@@ -31,6 +31,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 
 ## Member news:
+* Ed Finkler spoke at the IUPUI School of Informatics and Computing [Research Colloquium](http://soic.iupui.edu/research/colloquia/edward-finkler/)
 * Ben Cotton is co-chairing the Invited Talks track at the [LISA](https://www.usenix.org/conference/lisa16) conference (Boston, MA) Dec 4-9
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
