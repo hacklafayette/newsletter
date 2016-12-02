@@ -2,13 +2,15 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
+We're looking for speakers for January's [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/). Please let us know if you have something you'd like to present.
+
 Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
 
 ## Upcoming HackLafayette events:
 
 * 12/14 -- "Starship Mongers" [Perl SIG](https://www.meetup.com/hacklafayette/events/235576089/)
 * 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
-
+* 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
 
 ## Upcoming nearby events:
 
