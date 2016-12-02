@@ -30,6 +30,8 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
 * [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
+* [Big Apple Scrum Day](https://www.papercall.io/basd2017) (New York, NY) -- closes 02/14
+* [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 
 ## Member news:
 * Ed Finkler spoke at the IUPUI School of Informatics and Computing [Research Colloquium](http://soic.iupui.edu/research/colloquia/edward-finkler/)
