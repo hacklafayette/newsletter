@@ -27,6 +27,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 01/02 (talks, posters, education)
 * [Ignite UX Michigan](http://www.igniteuxmi.com/submit-a-talk/) -- closes 01/06
+* [CoderCruise](https://www.codercruise.com/call-for-speakers/) (departs New Orleans, LA) -- closes 01/06
 * [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
 * [Codeland](http://codelandconf.com/) (New York, NY) -- closes 01/08
 * [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
