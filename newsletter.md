@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2016-12-09
+# HackLafayette newsletter -- 2016-12-16
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,8 +8,9 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming HackLafayette events:
 
-* 12/14 -- "Starship Mongers" [Perl SIG](https://www.meetup.com/hacklafayette/events/235576089/)
 * 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
+* 01/11 -- [Google Test (Perl SIG)](https://www.meetup.com/hacklafayette/events/235576112/)
+* 01/11 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywcbpb/)
 * 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
 
 ## Upcoming nearby events:
@@ -19,9 +20,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * 12/20 -- [PHP+Beer DT](https://www.meetup.com/indyphp/events/235750840/)
 
 ## Open CfPs:
-* [DrupalCamp NJ](https://www.drupalcampnj.org/program/sessions/propose) (Princeton, NJ) -- closes 12/09
-* [Data Summit](http://www.dbta.com/DataSummit/2017/CallForSpeakers.aspx) -- closes 12/09
-* [Open Leadership Summit](http://events.linuxfoundation.org/events/open-source-leadership-summit/program/cfp) (Lake Tahoe, CA) -- closes 12/14
 * [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
 * [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
