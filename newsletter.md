@@ -40,6 +40,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
+* The Purdue Research Center for Open Digital Innovation is looking for a part-time full-stack web developer. See [https://www.purdue.edu/opendigital/getinvolved/students/](https://www.purdue.edu/opendigital/getinvolved/students/) for more information
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
