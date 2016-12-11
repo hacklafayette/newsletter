@@ -15,7 +15,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming nearby events:
 
-* 12/13 -- [How to Choose a Programming Language](https://www.meetup.com/The-Iron-Yard-Indianapolis/events/235329569/)
 * 12/20 -- [Ansible Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/235623222/)
 * 12/20 -- [PHP+Beer DT](https://www.meetup.com/indyphp/events/235750840/)
 
