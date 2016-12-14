@@ -6,6 +6,8 @@ We're looking for speakers for January's [Thunder Talks](https://www.meetup.com/
 
 Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
 
+Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitlab.com/handbook/marketing/blog/community-writers/](https://about.gitlab.com/handbook/marketing/blog/community-writers/)
+
 ## Upcoming HackLafayette events:
 
 * 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
