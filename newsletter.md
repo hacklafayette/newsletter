@@ -20,6 +20,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Open CfPs:
 * [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
+* [Open Source 101](http://opensource101.com/call-for-speakers/) (Raleigh, NC) -- closes 12/20
 * [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 01/02 (talks, posters, education)
