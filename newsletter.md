@@ -44,7 +44,7 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 
 ## Member news:
-* Ben Cotton co-chaired the Invited Talks track at the [LISA](https://www.usenix.org/conference/lisa16) conference (Boston, MA) Dec 4-9
+* Austin Kasso is preparing to launch a fundraiser for a [nonprofit vertical (food) farm](https://www.linkedin.com/pulse/tower-farms-campaign-austin-kasso?trk=prof-post) in downtown Lafayette.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
