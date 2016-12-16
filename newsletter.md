@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2016-12-16
+# HackLafayette newsletter -- 2016-12-23
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,19 +12,23 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 
 ## Upcoming HackLafayette events:
 
-* 12/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyvqbsb/)
 * 01/11 -- [Google Test (Perl SIG)](https://www.meetup.com/hacklafayette/events/235576112/)
 * 01/11 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywcbpb/)
+* 01/22 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/236047950/)
 * 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
 
 ## Upcoming nearby events:
 
-* 12/20 -- [Ansible Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/235623222/)
-* 12/20 -- [PHP+Beer DT](https://www.meetup.com/indyphp/events/235750840/)
+* 12/27 -- [Docker Indy December Meetup](https://www.meetup.com/Docker-Indianapolis/events/236262176/)
+* 01/02 -- [Indy CocoaHeads January](https://www.meetup.com/IndyCocoaHeads/events/236043274/)
+* 01/02 -- [Indy Scala Monthly Meetup](https://www.meetup.com/IndyScala/events/236241514/)
+* 01/03 -- [vimindy](https://www.meetup.com/vimindy/events/236141971/)
+* 01/10 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/228228310/)
+* 01/11 -- [indy.rb Montly Meetup](https://www.meetup.com/indyrb/events/236061744/)
+* 01/18 -- [indy.js Monthly Meeting](https://www.meetup.com/indyjs/events/234855847/)
+* 01/19 -- [Verge Lafayette/West Lafayette](https://www.meetup.com/vergelafayette/events/235887137/)
 
 ## Open CfPs:
-* [ElixirDaze](https://www.papercall.io/elixirdaze17) -- closes 12/16
-* [Open Source 101](http://opensource101.com/call-for-speakers/) (Raleigh, NC) -- closes 12/20
 * [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
 * [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
 * [PyCon](https://us.pycon.org/2017/speaking/) -- closes 01/02 (talks, posters, education)
