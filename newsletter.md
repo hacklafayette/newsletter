@@ -1,10 +1,8 @@
-# HackLafayette newsletter -- 2016-12-23
+# HackLafayette newsletter -- 2016-12-30
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 We're looking for speakers for January's [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/). Please let us know if you have something you'd like to present.
-
-**Enter our holiday giveaway!** Fill out the [prize form](https://goo.gl/forms/TQRPKalvbEREgPa42) to enter.
 
 Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
 
@@ -19,7 +17,6 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 
 ## Upcoming nearby events:
 
-* 12/27 -- [Docker Indy December Meetup](https://www.meetup.com/Docker-Indianapolis/events/236262176/)
 * 01/02 -- [Indy CocoaHeads January](https://www.meetup.com/IndyCocoaHeads/events/236043274/)
 * 01/02 -- [Indy Scala Monthly Meetup](https://www.meetup.com/IndyScala/events/236241514/)
 * 01/03 -- [vimindy](https://www.meetup.com/vimindy/events/236141971/)
