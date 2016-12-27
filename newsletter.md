@@ -4,6 +4,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 We're looking for speakers for January's [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/). Please let us know if you have something you'd like to present.
 
+HackIllinois is looking for help with their [Open Source College Hackathon](https://medium.com/@HackIllinois/open-source-2017-b322ad688471#.fec1m1hrz) in late February. Supporters, mentors, and attendees are all welcome.
+
 Want to get started in open source, but don't know where to start? [Stop searching for projects and start searching for bugs](https://opensource.com/life/16/11/guide-beginner-contributors).
 
 Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitlab.com/handbook/marketing/blog/community-writers/](https://about.gitlab.com/handbook/marketing/blog/community-writers/)
