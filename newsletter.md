@@ -33,10 +33,13 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [CoderCruise](https://www.codercruise.com/call-for-speakers/) (departs New Orleans, LA) -- closes 01/06
 * [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
 * [Codeland](http://codelandconf.com/) (New York, NY) -- closes 01/08
+* [Fluent](http://conferences.oreilly.com/fluent/fl-ca/public/cfp/522) (San Jose, CA) -- closes 01/10
+* [Velocity](http://conferences.oreilly.com/velocity/vl-ca/public/cfp/511) (San Jose, CA) -- closes 01/10
 * [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
 * [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
 * [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
+* [Monitorama](https://monitorama.com/#cfp) (Portland, OR) -- closes 02/01
 * [Big Apple Scrum Day](https://www.papercall.io/basd2017) (New York, NY) -- closes 02/14
 * [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 
