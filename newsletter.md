@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2016-12-30
+# HackLafayette newsletter -- 2017-01-06
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -19,18 +19,12 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 
 ## Upcoming nearby events:
 
-* 01/02 -- [Indy CocoaHeads January](https://www.meetup.com/IndyCocoaHeads/events/236043274/)
-* 01/02 -- [Indy Scala Monthly Meetup](https://www.meetup.com/IndyScala/events/236241514/)
-* 01/03 -- [vimindy](https://www.meetup.com/vimindy/events/236141971/)
 * 01/10 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/228228310/)
 * 01/11 -- [indy.rb Montly Meetup](https://www.meetup.com/indyrb/events/236061744/)
 * 01/18 -- [indy.js Monthly Meeting](https://www.meetup.com/indyjs/events/234855847/)
 * 01/19 -- [Verge Lafayette/West Lafayette](https://www.meetup.com/vergelafayette/events/235887137/)
 
 ## Open CfPs:
-* [PHPtek](https://tek.phparch.com/) (Atlanta, GA) -- closes 12/30
-* [THOTCON](http://www.thotcon.org/cfp.html) -- closes 01/01
-* [PyCon](https://us.pycon.org/2017/speaking/) -- closes 01/02 (talks, posters, education)
 * [Ignite UX Michigan](http://www.igniteuxmi.com/submit-a-talk/) -- closes 01/06
 * [CoderCruise](https://www.codercruise.com/call-for-speakers/) (departs New Orleans, LA) -- closes 01/06
 * [ng-conf](https://docs.google.com/forms/d/e/1FAIpQLSczS80cXgTPVyUckda6fRjwiJNZsQUtg0o52gLMGa9l_q5qgw/viewform?c=0&w=1) -- closes 01/08
