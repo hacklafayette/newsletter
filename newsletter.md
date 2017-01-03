@@ -42,6 +42,7 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 
 ## Member news:
+* Ed Finkler is prestenting "Stronger than fear: mental health in the developer community" at the [Software Craftmanship McHenry County](https://www.meetup.com/Software-Craftsmanship-McHenry-County/events/236477117) meetup (McHenry, IL) on January 17.
 * Austin Kasso is preparing to launch a fundraiser for a [nonprofit vertical (food) farm](https://www.linkedin.com/pulse/tower-farms-campaign-austin-kasso?trk=prof-post) in downtown Lafayette.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
