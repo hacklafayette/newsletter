@@ -36,6 +36,7 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
 * [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
+* [Open Networking Summit](http://events.linuxfoundation.org/events/open-networking-summit/program/cfp?utm_source=email&utm_campaign=ons17) (Santa Clara, CA) -- closes 01/21
 * [Monitorama](https://monitorama.com/#cfp) (Portland, OR) -- closes 02/01
 * [Drupalcon Baltimore](https://events.drupal.org/baltimore2017/) (Baltimore, MD) -- closes 02/01
 * [Big Apple Scrum Day](https://www.papercall.io/basd2017) (New York, NY) -- closes 02/14
