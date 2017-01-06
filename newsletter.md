@@ -39,6 +39,7 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [Open Networking Summit](http://events.linuxfoundation.org/events/open-networking-summit/program/cfp?utm_source=email&utm_campaign=ons17) (Santa Clara, CA) -- closes 01/21
 * [Monitorama](https://monitorama.com/#cfp) (Portland, OR) -- closes 02/01
 * [Drupalcon Baltimore](https://events.drupal.org/baltimore2017/) (Baltimore, MD) -- closes 02/01
+* [Write the Docs](http://www.writethedocs.org/conf/na/2017/cfp/) (Portland, OR) -- closes 02/10
 * [Big Apple Scrum Day](https://www.papercall.io/basd2017) (New York, NY) -- closes 02/14
 * [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 * [LinuxFest Northwest](http://www.linuxfestnorthwest.org/2017/submit-session) (Bellingham, WA) -- closes 03/01
