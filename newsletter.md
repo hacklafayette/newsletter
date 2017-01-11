@@ -24,6 +24,7 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 * [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
 * [Jazzcon.Tech](http://jazzcon.tech/) (New Orleans, LA) -- closes 01/15
 * [Twilio SIGNAL](https://www.papercall.io/twilio-signal) -- closes 01/11
+* [Lone Star PHP](http://lonestarphp.com/) (Dallas, TX) -- closes 01/15
 * [SATURN](https://www.papercall.io/saturn-2017) -- closes 01/16
 * [ChefConf](https://chefconf.chef.io/call-for-presentations/) -- closes 01/18
 * [Open Networking Summit](http://events.linuxfoundation.org/events/open-networking-summit/program/cfp?utm_source=email&utm_campaign=ons17) (Santa Clara, CA) -- closes 01/21
