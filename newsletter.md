@@ -13,12 +13,21 @@ Earn money by sharing your Git knowledge on the GitLab blog: [https://about.gitl
 ## Upcoming HackLafayette events:
 
 * 01/22 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/236047950/)
+* 01/27 -- [Introduction to R](https://www.meetup.com/hacklafayette/events/236905193/)
 * 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
+* 02/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywdblb/)
 
 ## Upcoming nearby events:
 
 * 01/18 -- [indy.js Monthly Meeting](https://www.meetup.com/indyjs/events/234855847/)
 * 01/19 -- [Verge Lafayette/West Lafayette](https://www.meetup.com/vergelafayette/events/235887137/)
+* 01/25 -- Node.Indy: [Breaking Into Bots](https://www.meetup.com/Node-indy/events/235015558/)
+* 01/31 -- IndyAWS [Meetup](https://www.meetup.com/IndyAWS/events/236826548/)
+* 02/06 -- Indy Cocoaheads [Monthly Meetup](https://www.meetup.com/IndyCocoaHeads/events/236764989/)
+* 02/08 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/235574244/)
+* 02/14 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/231706173/)
+* 02/15 -- Indy Java [Meetup](https://www.meetup.com/Indianapolis-Java-User-Group/events/235377360/)
+
 
 ## Open CfPs:
 * [ng-cruise](https://ngcruise.com/#/) (Miami, FL) -- closes 01/15
