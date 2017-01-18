@@ -11,8 +11,8 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 ## Upcoming HackLafayette events:
 
 * 01/22 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/236047950/)
-* 01/27 -- [Introduction to R](https://www.meetup.com/hacklafayette/events/236905193/)
 * 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
+* 02/08 -- [Introduction to R](https://www.meetup.com/hacklafayette/events/236905193/)
 * 02/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywdblb/)
 
 ## Upcoming nearby events:
