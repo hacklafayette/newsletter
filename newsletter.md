@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-01-20
+# HackLafayette newsletter -- 2017-01-27
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,14 +10,12 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming HackLafayette events:
 
-* 01/22 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/236047950/)
 * 01/28 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/235985955/)
 * 02/08 -- [Introduction to R](https://www.meetup.com/hacklafayette/events/236905193/)
 * 02/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywdblb/)
 
 ## Upcoming nearby events:
 
-* 01/25 -- Node.Indy: [Breaking Into Bots](https://www.meetup.com/Node-indy/events/235015558/)
 * 01/31 -- IndyAWS [Meetup](https://www.meetup.com/IndyAWS/events/236826548/)
 * 02/06 -- Indy Cocoaheads [Monthly Meetup](https://www.meetup.com/IndyCocoaHeads/events/236764989/)
 * 02/08 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/235574244/)
@@ -34,7 +32,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [LinuxFest Northwest](http://www.linuxfestnorthwest.org/2017/submit-session) (Bellingham, WA) -- closes 03/01
 
 ## Member news:
-* Ed Finkler prestented "Stronger than fear: mental health in the developer community" at the [Software Craftmanship McHenry County](https://www.meetup.com/Software-Craftsmanship-McHenry-County/events/236477117) meetup (McHenry, IL) on January 17.
 * Austin Kasso is preparing to launch a fundraiser for a [nonprofit vertical (food) farm](https://www.linkedin.com/pulse/tower-farms-campaign-austin-kasso?trk=prof-post) in downtown Lafayette.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
