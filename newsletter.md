@@ -34,6 +34,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Big Apple Scrum Day](https://www.papercall.io/basd2017) (New York, NY) -- closes 02/14
 * [SLC DevOps Days](https://www.papercall.io/slc-dev-ops-days) (Salt Lake City, UT) -- closes 02/15
 * [LinuxFest Northwest](http://www.linuxfestnorthwest.org/2017/submit-session) (Bellingham, WA) -- closes 03/01
+* [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/cfp/) (D.C.) -- closes 03/06
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
 
 ## Member news:
