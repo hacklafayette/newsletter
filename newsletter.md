@@ -9,7 +9,11 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 ## Upcoming HackLafayette events:
 
 * 02/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywdbjc/)
-
+* 03/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/237482855/)
+* 03/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywfbjc/)
+* 04/12 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywgbqb/)
+* 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
+* 04/29 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/)
 
 ## Upcoming nearby events:
 
