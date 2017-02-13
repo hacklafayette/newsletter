@@ -33,6 +33,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
 
 ## Member news:
+* Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
