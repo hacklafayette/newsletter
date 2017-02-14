@@ -33,6 +33,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * [Kansas City Developer Conference](https://www.papercall.io/kcdc2017) (Kansas City, MO) -- closes 03/05
 * [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/cfp/) (D.C.) -- closes 03/06
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
+* [All Things Open](https://allthingsopen.org/call-for-speakers/) (Raleigh, NC) -- closes 03/28
 
 ## Member news:
 * Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
