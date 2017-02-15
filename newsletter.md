@@ -17,6 +17,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming nearby events:
 
+* 02/20 -- Purdue Hackers [Neural Network Workshop](https://www.facebook.com/events/108896926298232/)
 * 02/21 -- Indianapolis PHP [PHP+Beer DT](https://www.meetup.com/indyphp/events/237005623/)
 * 02/22 -- node.indy [Learn about Node.js and Its Awesomeness](https://www.meetup.com/Node-indy/events/229113196/)
 * 02/22 -- Indy Big Data [Monthly Meetup](https://www.meetup.com/IndyBigData/events/231706180/)
