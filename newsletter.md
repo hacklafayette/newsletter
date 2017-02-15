@@ -27,6 +27,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * 03/16 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
 
 ## Open CfPs:
+* [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- early proposals closes 02/27, closes 04/24
 * [swampUP 2017](http://swampup.jfrog.com/) (Napa Valley, CA) -- closes 02/28
 * [LinuxFest Northwest](http://www.linuxfestnorthwest.org/2017/submit-session) (Bellingham, WA) -- closes 03/01
 * [Music City Code](https://www.papercall.io/musiccitycode) (Nashville, TN) -- closes 03/02
