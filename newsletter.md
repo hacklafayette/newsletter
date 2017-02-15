@@ -9,6 +9,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 ## Upcoming HackLafayette events:
 
 * 02/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywdbjc/)
+* 03/08 -- [Gizmo on Asynchronous Perl](https://www.meetup.com/hacklafayette/events/237728498/)
 * 03/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/237482855/)
 * 03/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywfbjc/)
 * 04/12 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywgbqb/)
