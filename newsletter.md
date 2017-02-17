@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-02-17
+# HackLafayette newsletter -- 2017-02-24
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -18,10 +18,6 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 
 ## Upcoming nearby events:
 
-* 02/20 -- Purdue Hackers [Neural Network Workshop](https://www.facebook.com/events/108896926298232/)
-* 02/21 -- Indianapolis PHP [PHP+Beer DT](https://www.meetup.com/indyphp/events/237005623/)
-* 02/22 -- node.indy [Learn about Node.js and Its Awesomeness](https://www.meetup.com/Node-indy/events/229113196/)
-* 02/22 -- Indy Big Data [Monthly Meetup](https://www.meetup.com/IndyBigData/events/231706180/)
 * 02/27 -- Indy DevOps [Monthly Meetup](https://www.meetup.com/IndyDevOps/events/235438892/)
 * 02/28 -- IndyAWS [Monthly Meeting](https://www.meetup.com/IndyAWS/events/236864015/)
 * 03/10 -- IndyPy [Pythology Lecture Series](https://www.eventbrite.com/d/in--fishers/pythology/)
