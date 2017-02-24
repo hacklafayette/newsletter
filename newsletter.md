@@ -21,7 +21,7 @@ Want to get started in open source, but don't know where to start? [Stop searchi
 * 02/27 -- Indy DevOps [Monthly Meetup](https://www.meetup.com/IndyDevOps/events/235438892/)
 * 02/28 -- IndyAWS [Monthly Meeting](https://www.meetup.com/IndyAWS/events/236864015/)
 * 03/10 -- IndyPy [Pythology Lecture Series](https://www.eventbrite.com/d/in--fishers/pythology/)
-* 03/16 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
+* 03/23 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
 
 ## Open CfPs:
 * [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- early proposals closes 02/27, closes 04/24
