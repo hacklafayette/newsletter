@@ -28,6 +28,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 ## Member news:
 * Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
