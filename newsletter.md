@@ -23,6 +23,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/cfp/) (D.C.) -- closes 03/06
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
 * [All Things Open](https://allthingsopen.org/call-for-speakers/) (Raleigh, NC) -- closes 03/28
+* [DJangoCon US](https://www.djangoproject.com/weblog/2017/feb/13/djangocon-us-2017-update-call-proposals-mentorship/) (Spokane, WA) -- closes 04/10
 * [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- closes 04/24
 
 ## Member news:
