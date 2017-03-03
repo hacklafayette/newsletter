@@ -17,6 +17,8 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 * 03/10 -- IndyPy [Pythology Lecture Series](https://www.eventbrite.com/d/in--fishers/pythology/)
 * 03/23 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
+* 03/29-31 -- [Indy.Code()](https://indycode.amegala.com/)
+* 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
 * [Kansas City Developer Conference](https://www.papercall.io/kcdc2017) (Kansas City, MO) -- closes 03/05
