@@ -24,9 +24,15 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * [Kansas City Developer Conference](https://www.papercall.io/kcdc2017) (Kansas City, MO) -- closes 03/05
 * [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/cfp/) (D.C.) -- closes 03/06
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
+* [BeerCityCode](https://www.papercall.io/beercitycode) (Grand Rapids, MI) -- closes 03/15
+* [DevNet Create 2017](https://www.papercall.io/devnetcreate2017) (San Francisco, CA) -- closes 03/23
 * [All Things Open](https://allthingsopen.org/call-for-speakers/) (Raleigh, NC) -- closes 03/28
+* [DevXCon 2017](https://www.papercall.io/devxcon-2017) (San Francisco, CA) -- closes 03/31
+* [We RISE Women in Tech Conference](https://www.papercall.io/werise) (Atlanta, GA) -- closes 04/01
 * [DJangoCon US](https://www.djangoproject.com/weblog/2017/feb/13/djangocon-us-2017-update-call-proposals-mentorship/) (Spokane, WA) -- closes 04/10
+* [Surge 2017](https://www.papercall.io/surge-2017-cfp) (Washington, D.C.) -- closes 04/19
 * [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- closes 04/24
+* [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 
 ## Member news:
 * Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
