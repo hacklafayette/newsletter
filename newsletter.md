@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-03-03
+# HackLafayette newsletter -- 2017-03-10
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -6,8 +6,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming HackLafayette events:
 
-* 03/08 -- [Gizmo on Asynchronous Perl](https://www.meetup.com/hacklafayette/events/237728498/)
-* 03/08 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/237482855/)
 * 03/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywfbjc/)
 * 04/12 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywgbqb/)
 * 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
@@ -21,8 +19,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
-* [Kansas City Developer Conference](https://www.papercall.io/kcdc2017) (Kansas City, MO) -- closes 03/05
-* [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/cfp/) (D.C.) -- closes 03/06
 * [CakeFest](https://cakefest.org/) (New York, NY) -- closes 03/15
 * [BeerCityCode](https://www.papercall.io/beercitycode) (Grand Rapids, MI) -- closes 03/15
 * [DevNet Create 2017](https://www.papercall.io/devnetcreate2017) (San Francisco, CA) -- closes 03/23
