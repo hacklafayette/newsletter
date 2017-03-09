@@ -14,6 +14,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 ## Upcoming nearby events:
 
 * 03/10 -- IndyPy [Pythology Lecture Series](https://www.eventbrite.com/d/in--fishers/pythology/)
+* 03/11 -- OSMI [Prioritize Your Mental Health](http://blog.osmihelp.org/post/158193428259/osmi-founder-ed-finkler-is-co-teaching-a-free)
 * 03/23 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
 * 03/29-31 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
@@ -33,6 +34,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 
 ## Member news:
+* Ed Finkler will be co-teaching a [free workshop on mental health](http://blog.osmihelp.org/post/158193428259/osmi-founder-ed-finkler-is-co-teaching-a-free) at MatchBOX on March 11.
 * Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 * Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
