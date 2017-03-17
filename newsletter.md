@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-03-17
+# HackLafayette newsletter -- 2017-03-24
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -13,13 +13,10 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming nearby events:
 
-* 03/23 -- Verge Lafayette [March meeting](https://www.meetup.com/vergelafayette/events/237674846/)
 * 03/29-31 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
-* [!!Con](http://bangbangcon.com/give-a-talk.html) (New York City) -- closes 03/20
-* [DevNet Create 2017](https://www.papercall.io/devnetcreate2017) (San Francisco, CA) -- closes 03/23
 * [All Things Open](https://allthingsopen.org/call-for-speakers/) (Raleigh, NC) -- closes 03/28
 * [DevXCon 2017](https://www.papercall.io/devxcon-2017) (San Francisco, CA) -- closes 03/31
 * [We RISE Women in Tech Conference](https://www.papercall.io/werise) (Atlanta, GA) -- closes 04/01
@@ -30,9 +27,8 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 
 ## Member news:
-* Ed Finkler co-taught a [free workshop on mental health](http://blog.osmihelp.org/post/158193428259/osmi-founder-ed-finkler-is-co-teaching-a-free) at MatchBOX on March 11.
-* Ed Finkler will be presenting ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ed Finkler presented ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 * Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
 
 ## Jobs:
