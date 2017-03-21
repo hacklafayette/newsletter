@@ -13,6 +13,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming nearby events:
 
+* 03/29 -- [Purdue Women in HPC](https://purdue.qualtrics.com/jfe/form/SV_0la4qHzaEWdZHWB)
 * 03/29-31 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
