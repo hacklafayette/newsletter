@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-03-24
+# HackLafayette newsletter -- 2017-03-31
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -6,7 +6,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming HackLafayette events:
 
-* 03/26 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywfbjc/)
 * 04/08 -- [Time Management for Grumpy Programmers](https://www.meetup.com/__ms79898842/hacklafayette/events/238629010/)
 * 04/12 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywgbqb/)
 * 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
@@ -14,13 +13,9 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming nearby events:
 
-* 03/29 -- [Purdue Women in HPC](https://purdue.qualtrics.com/jfe/form/SV_0la4qHzaEWdZHWB)
-* 03/29-31 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
-* [CSS Dev Conf](http://2017.cssdevconf.com/) (New Orleans, LA) -- closes 03/27
-* [All Things Open](https://allthingsopen.org/call-for-speakers/) (Raleigh, NC) -- closes 03/28
 * [DevXCon 2017](https://www.papercall.io/devxcon-2017) (San Francisco, CA) -- closes 03/31
 * [We RISE Women in Tech Conference](https://www.papercall.io/werise) (Atlanta, GA) -- closes 04/01
 * [360|AnDev](http://360andev.com/call-for-papers/) (Denver, CO) -- closes 04/07
@@ -32,7 +27,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ed Finkler presented ["Graph Databases will change your freakin life"](https://2017.midwestphp.org/sessions.html#graph-databases-will-change-your-freakin-life) at MidwestPHP (Minneapolis, MN) on March 17.
 * Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
 
 ## Jobs:
