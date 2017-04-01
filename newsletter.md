@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-03-31
+# HackLafayette newsletter -- 2017-04-07
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -14,17 +14,12 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Upcoming nearby events:
 
-* 04/03 -- Indy Scala [Hack Night](https://www.meetup.com/IndyScala/events/238558940/)
-* 04/05 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyScala/events/238558940/)
-* 04/05 -- [Building Cross-Platform Apps with C# and Xamarin](https://www.meetup.com/Indy-NET-Consortium/events/238437152/)
 * 04/11 -- [Panel Discussion on Developing for iOS and Android](https://www.meetup.com/indy-gdg/events/236638315/)
 * 04/11 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/231706230/)
 * 04/12 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/238561569/)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
-* [DevXCon 2017](https://www.papercall.io/devxcon-2017) (San Francisco, CA) -- closes 03/31
-* [We RISE Women in Tech Conference](https://www.papercall.io/werise) (Atlanta, GA) -- closes 04/01
 * [360|AnDev](http://360andev.com/call-for-papers/) (Denver, CO) -- closes 04/07
 * [DJangoCon US](https://www.djangoproject.com/weblog/2017/feb/13/djangocon-us-2017-update-call-proposals-mentorship/) (Spokane, WA) -- closes 04/10
 * [Surge 2017](https://www.papercall.io/surge-2017-cfp) (Washington, D.C.) -- closes 04/19
