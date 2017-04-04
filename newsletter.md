@@ -2,6 +2,8 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
+Join IndyPy for their [10th anniversary celebration](https://www.meetup.com/indypy/events/231706230/) on April 11 in Indy. Free cake, beer, music, and a real-life python!
+
 We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on April 29th. Have a project, language, framework, etc you'd like to share? Let us know!
 
 ## Upcoming HackLafayette events:
