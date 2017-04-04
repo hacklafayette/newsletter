@@ -17,6 +17,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * 04/11 -- [Panel Discussion on Developing for iOS and Android](https://www.meetup.com/indy-gdg/events/236638315/)
 * 04/11 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/231706230/)
 * 04/12 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/238561569/)
+* 04/18 -- IndyAWS [monthly meetup](https://www.meetup.com/IndyAWS/events/238249900)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 
 ## Open CfPs:
