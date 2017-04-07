@@ -4,7 +4,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 Join IndyPy for their [10th anniversary celebration](https://www.meetup.com/indypy/events/231706230/) on April 11 in Indy. Free cake, beer, music, and a real-life python!
 
-We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on April 29th. Have a project, language, framework, etc you'd like to share? Let us know!
+We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on August 26th. Have a project, language, framework, etc you'd like to share? Let us know!
 
 ## Upcoming HackLafayette events:
 
@@ -13,6 +13,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * 04/12 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplywgbqb/)
 * 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
 * 04/29 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/)
+* 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
 
