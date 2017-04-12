@@ -24,6 +24,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ed Finkler was the featured guest on episode 111 of the [ZenFounder podcast](http://zenfounder.com/episodes/episode-111-open-sourcing-mental-illness/)
 * Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
 
 ## Jobs:
