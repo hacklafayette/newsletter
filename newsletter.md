@@ -14,6 +14,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 * 04/18 -- IndyAWS [monthly meetup](https://www.meetup.com/IndyAWS/events/238249900)
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
+* 05/04 -- Software Stir [monthy meetup](https://twitter.com/SoftwareStir) at the Anvil
 
 ## Open CfPs:
 * [Surge 2017](https://www.papercall.io/surge-2017-cfp) (Washington, D.C.) -- closes 04/19
