@@ -20,6 +20,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 ## Open CfPs:
 * [Write/Speak/Code](https://www.papercall.io/writespeakcode) (Portland, OR) -- closes 04/23
+* [PuppetConf](https://puppet.com/puppetconf/cfp-registration) (San Francisco, CA) -- closes 04/23
 * [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- closes 04/24
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 * [Connect JS](http://connect-js.com/cfp.html) (Atlanta, GA) -- closes 04/30
