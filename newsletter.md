@@ -14,6 +14,9 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
 * 05/04 -- Software Stir [monthy meetup](https://twitter.com/SoftwareStir) at the Anvil
+* 05/09 -- [IndyPy monthly meetup](https://www.meetup.com/indypy/events/231706241/)
+* 05/11 -- [Indianapolis Big Data on AWS Learning Day](https://reluscloud.com/events/indianapolis-aws-big-data-event/?utm_medium=email&utm_source=marketo&mkt_tok=eyJpIjoiTUdZMVpUQmxaVGc1TlRZMyIsInQiOiJCRFhaWEYwckNHRU51R25ycHo4RGdRYmpNT1NseWZ5aE4ySGhSNFN6eGlsY0FPN3ljVzk1a3NON0IxemJEbXZ1WlV2eStYNG4xeENjNEZYc1dHRlFKSXB5Q0ZDeWtSTnFFRytRUEVoMGRJcnFzMEZ2eGF2VVwvalBzWTI4N0dmbHUifQ%3D%3D)
+
 
 ## Open CfPs:
 * [Write/Speak/Code](https://www.papercall.io/writespeakcode) (Portland, OR) -- closes 04/23
@@ -24,6 +27,9 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 * Ed Finkler will be presenting ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
+* Andy Howard will be presenting "Using Docker, HTCondor, and AWS for EDA Model Development" at [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
+* Ben Cotton will be attending [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
+* Ed Finkler will be presenting on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
