@@ -4,15 +4,26 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on August 26th. Have a project, language, framework, etc you'd like to share? Let us know!
 
+There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
+
 ## Upcoming HackLafayette events:
 
 * 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
 * 04/29 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/)
+* 05/10 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239220684/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
 
 * 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
+* 04/25 -- Open Indy Brigade [Civic UX Weekly Meeting](https://www.meetup.com/Open-Indy-Brigade/events/238993787/)
+* 04/26 -- Node.Indy [Thunderball an Application Framework](https://www.meetup.com/Node-indy/events/238647531/)
+* 05/01 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239316417/)
+* 05/02 -- Open Indy Brigade [Civic UX Weekly Meeting](https://www.meetup.com/Open-Indy-Brigade/events/239167947/)
+* 05/02 -- Docker Indianapolis [Docker Container Visibility with Sysdig](https://www.meetup.com/Docker-Indianapolis/events/238249691/)
+* 05/03 -- Indy .Net Consortium [TypeScript - JavaScript's future](https://www.meetup.com/Indy-NET-Consortium/events/238437209/)
+* 05/03 -- Indy Goland [Monthly Indy Golang Meetup](https://www.meetup.com/Indy-Golang/events/238794080/)
+* 05/03 -- Central Indiana LUG [Rule the Cloud with Python and Lambda](https://www.meetup.com/CINLUG/events/238931680/)
 * 05/04 -- Software Stir [monthy meetup](https://twitter.com/SoftwareStir) at the Anvil
 * 05/09 -- [IndyPy monthly meetup](https://www.meetup.com/indypy/events/231706241/)
 * 05/11 -- [Indianapolis Big Data on AWS Learning Day](https://reluscloud.com/events/indianapolis-aws-big-data-event/?utm_medium=email&utm_source=marketo&mkt_tok=eyJpIjoiTUdZMVpUQmxaVGc1TlRZMyIsInQiOiJCRFhaWEYwckNHRU51R25ycHo4RGdRYmpNT1NseWZ5aE4ySGhSNFN6eGlsY0FPN3ljVzk1a3NON0IxemJEbXZ1WlV2eStYNG4xeENjNEZYc1dHRlFKSXB5Q0ZDeWtSTnFFRytRUEVoMGRJcnFzMEZ2eGF2VVwvalBzWTI4N0dmbHUifQ%3D%3D)
@@ -24,6 +35,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 * [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- closes 04/24
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 * [Connect JS](http://connect-js.com/cfp.html) (Atlanta, GA) -- closes 04/30
+* [Stange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
