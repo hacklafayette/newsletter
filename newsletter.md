@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-04-21
+# HackLafayette newsletter -- 2017-04-28
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,16 +8,12 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 
-* 04/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywgbfc/)
 * 04/29 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/)
 * 05/10 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239220684/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
 
-* 04/21-22 -- [IoT and Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-31618485742)
-* 04/25 -- Open Indy Brigade [Civic UX Weekly Meeting](https://www.meetup.com/Open-Indy-Brigade/events/238993787/)
-* 04/26 -- Node.Indy [Thunderball an Application Framework](https://www.meetup.com/Node-indy/events/238647531/)
 * 05/01 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239316417/)
 * 05/02 -- Open Indy Brigade [Civic UX Weekly Meeting](https://www.meetup.com/Open-Indy-Brigade/events/239167947/)
 * 05/02 -- Docker Indianapolis [Docker Container Visibility with Sysdig](https://www.meetup.com/Docker-Indianapolis/events/238249691/)
@@ -30,9 +26,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 
 ## Open CfPs:
-* [Write/Speak/Code](https://www.papercall.io/writespeakcode) (Portland, OR) -- closes 04/23
-* [PuppetConf](https://puppet.com/puppetconf/cfp-registration) (San Francisco, CA) -- closes 04/23
-* [LISA](https://www.usenix.org/conference/lisa17/call-for-participation) (San Francisco, CA) -- closes 04/24
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 * [Connect JS](http://connect-js.com/cfp.html) (Atlanta, GA) -- closes 04/30
 * [Stange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
