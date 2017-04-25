@@ -26,6 +26,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 
 ## Open CfPs:
+* [iOSDevCampDC](http://iosdevcampdc.com/) (Washington, DC) -- closes 04/28
 * [Scenic City Summit 2017](https://www.papercall.io/sceniccitysummit2017) (Chattanooga, TN) -- closes 04/30
 * [Connect JS](http://connect-js.com/cfp.html) (Atlanta, GA) -- closes 04/30
 * [Stange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
