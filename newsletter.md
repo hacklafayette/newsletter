@@ -26,6 +26,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * Andy Howard will be presenting "Using Docker, HTCondor, and AWS for EDA Model Development" at [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
 * Ben Cotton will be attending [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
 * Ed Finkler will be presenting on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
+* Open Sourcing Mental Illness (led by Ed Finkler) has kicked off its [2017 fundraising campaign](https://osmihelp.org/2017-campaign).
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
