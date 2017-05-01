@@ -8,7 +8,8 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 
-* 05/10 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239220684/)
+* 05/09 -- [Perl Mongers](https://www.meetup.com/hacklafayette/events/239515115/) - Faster Regular Expressions
+* 05/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239220684/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
@@ -18,7 +19,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 
 ## Open CfPs:
-* [Stange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
+* [Strange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
