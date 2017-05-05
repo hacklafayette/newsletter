@@ -23,9 +23,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ed Finkler presented ["Stronger Than Fear: Mental Health in the Developer Community"](http://blog.osmihelp.org/post/157824606617/just-announced-osmi-founder-ed-finkler-will-be) at DrupalCon Baltimore (Baltimore, MD) April 24-28.
-* Andy Howard will be presenting "Using Docker, HTCondor, and AWS for EDA Model Development" at [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
-* Ben Cotton will be attending [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
+* Andy Howard presented "Using Docker, HTCondor, and AWS for EDA Model Development" at [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
 * Ed Finkler will be presenting on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
 * Open Sourcing Mental Illness (led by Ed Finkler) has kicked off its [2017 fundraising campaign](https://osmihelp.org/2017-campaign).
 
