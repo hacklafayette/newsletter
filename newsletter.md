@@ -1,6 +1,8 @@
-# HackLafayette newsletter -- 2017-05-05
+# HackLafayette newsletter -- 2017-05-12
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
+
+Want to win a free year of O'Reilly online? Register to win at [Opensource.com](https://opensource.com/article/17/5/2017-oreilly-safari-giveaway).
 
 We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on August 26th. Have a project, language, framework, etc you'd like to share? Let us know!
 
@@ -8,23 +10,17 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 
-* 05/09 -- [Perl Mongers](https://www.meetup.com/hacklafayette/events/239515115/) - Faster Regular Expressions
-* 05/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239220684/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
 
-* 05/09 -- [IndyPy monthly meetup](https://www.meetup.com/indypy/events/231706241/)
-* 05/11 -- [Indianapolis Big Data on AWS Learning Day](https://reluscloud.com/events/indianapolis-aws-big-data-event/?utm_medium=email&utm_source=marketo&mkt_tok=eyJpIjoiTUdZMVpUQmxaVGc1TlRZMyIsInQiOiJCRFhaWEYwckNHRU51R25ycHo4RGdRYmpNT1NseWZ5aE4ySGhSNFN6eGlsY0FPN3ljVzk1a3NON0IxemJEbXZ1WlV2eStYNG4xeENjNEZYc1dHRlFKSXB5Q0ZDeWtSTnFFRytRUEVoMGRJcnFzMEZ2eGF2VVwvalBzWTI4N0dmbHUifQ%3D%3D)
 
 
 ## Open CfPs:
-* [Strange Loop](http://thestrangeloop.com/cfp.html) (St. Louis, MO) -- close 05/08
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Andy Howard presented "Using Docker, HTCondor, and AWS for EDA Model Development" at [HTCondor Week](http://research.cs.wisc.edu/htcondor/HTCondorWeek2017/) (Madison, WI) May 2-5.
-* Ed Finkler will be presenting on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
+* Ed Finkler presented on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
 * Open Sourcing Mental Illness (led by Ed Finkler) has kicked off its [2017 fundraising campaign](https://osmihelp.org/2017-campaign).
 
 ## Jobs:
