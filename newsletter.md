@@ -17,6 +17,9 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 
 ## Open CfPs:
+* [MKE DOT NET](https://www.papercall.io/mkedotnet2017) (Milwaukee, WI) -- closes 06/01
+* [devopsdays Philly](https://www.devopsdays.org/events/2017-philadelphia/propose/) (Philadelphia, PA) -- closes 06/02
+
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
