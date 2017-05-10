@@ -10,6 +10,12 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 
+* 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
+* 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
+* 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
+* 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
+* 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
+* 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
