@@ -20,6 +20,13 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming nearby events:
 
+* 05/16 -- IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/238585384/)
+* 05/16 -- Ansible Indianapolis [Ansible MegaCloud Series - Azure](https://www.meetup.com/Ansible-Indianapolis/events/238087626/)
+* 05/16 -- vimIndy [meetup](https://www.meetup.com/vimindy/events/239797446/)
+* 05/17 -- indy.js [monthly meeting](https://www.meetup.com/indyjs/events/239326006/)
+* 05/18 -- Verge Greater Lafayette [Maker Showcase and VERGE!](https://www.meetup.com/vergelafayette/events/239011627/)
+* 05/22 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/239456922/)
+* 05/24 -- node.indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/238887233/)
 
 
 ## Open CfPs:
