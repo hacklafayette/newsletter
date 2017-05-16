@@ -1,8 +1,6 @@
-# HackLafayette newsletter -- 2017-05-12
+# HackLafayette newsletter -- 2017-05-19
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
-
-Want to win a free year of O'Reilly online? Register to win at [Opensource.com](https://opensource.com/article/17/5/2017-oreilly-safari-giveaway).
 
 We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on August 26th. Have a project, language, framework, etc you'd like to share? Let us know!
 
@@ -20,11 +18,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming nearby events:
 
-* 05/16 -- IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/238585384/)
-* 05/16 -- Ansible Indianapolis [Ansible MegaCloud Series - Azure](https://www.meetup.com/Ansible-Indianapolis/events/238087626/)
-* 05/16 -- vimIndy [meetup](https://www.meetup.com/vimindy/events/239797446/)
-* 05/17 -- indy.js [monthly meeting](https://www.meetup.com/indyjs/events/239326006/)
-* 05/18 -- Verge Greater Lafayette [Maker Showcase and VERGE!](https://www.meetup.com/vergelafayette/events/239011627/)
 * 05/22 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/239456922/)
 * 05/24 -- node.indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/238887233/)
 
@@ -36,7 +29,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ed Finkler presented on Mental Health in the Developer Community at the [IndyPY monthly meetup](https://www.meetup.com/indypy/events/231706241/) in Indianapolis on May 9.
 * Open Sourcing Mental Illness (led by Ed Finkler) has kicked off its [2017 fundraising campaign](https://osmihelp.org/2017-campaign).
 
 ## Jobs:
