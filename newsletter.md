@@ -7,9 +7,10 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
 
 ## Upcoming HackLafayette events:
-
+* 05/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/240029970/)
 * 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
 * 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
+* 06/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywjbhc/)
 * 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
 * 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
@@ -20,12 +21,19 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 * 05/22 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/239456922/)
 * 05/24 -- node.indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/238887233/)
-
+* 06/05 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239990131/)
+* 06/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/239713425/)
+* 06/12 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
+* 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
+* 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
+* 06/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/239326198/)
+* 06/26 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/qlswtjywjbjc/)
+* 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
 * [MKE DOT NET](https://www.papercall.io/mkedotnet2017) (Milwaukee, WI) -- closes 06/01
 * [devopsdays Philly](https://www.devopsdays.org/events/2017-philadelphia/propose/) (Philadelphia, PA) -- closes 06/02
-
+* [DevOps Days Chicago](https://www.papercall.io/devopsdays-chicago-2017) (Chicago, IL) -- closes 06/17
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
