@@ -8,6 +8,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 * 05/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/240029970/)
+* 06/03 -- [Cross-Platform Mobile Apps with NativeScript](https://www.meetup.com/hacklafayette/events/240057063/)
 * 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
 * 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
 * 06/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywjbhc/)
