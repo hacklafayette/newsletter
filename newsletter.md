@@ -44,4 +44,4 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Notes from our sponsors:
 
-HackLafayette thanks [MatchBOX](http://matchboxstudio.org/), [JetBrains](https://www.jetbrains.com/), and [O'Reilly](http://www.oreilly.com/) for their sponsorship.
+HackLafayette thanks [MatchBOX](http://matchboxstudio.org/) and [O'Reilly](http://www.oreilly.com/) for their sponsorship.
