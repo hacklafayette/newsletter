@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-05-19
+# HackLafayette newsletter -- 2017-05-26
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -20,8 +20,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming nearby events:
 
-* 05/22 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/239456922/)
-* 05/24 -- node.indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/238887233/)
 * 06/05 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239990131/)
 * 06/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/239713425/)
 * 06/12 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
