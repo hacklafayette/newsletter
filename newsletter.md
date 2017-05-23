@@ -22,6 +22,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 * 06/05 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239990131/)
 * 06/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/239713425/)
+* 06/09-11 -- [Circle City Con 4.0](https://circlecitycon.com/)
 * 06/12 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
 * 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
 * 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
