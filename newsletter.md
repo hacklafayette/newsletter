@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-05-26
+# HackLafayette newsletter -- 2017-06-03
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,7 +7,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
 
 ## Upcoming HackLafayette events:
-* 05/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/240029970/)
 * 06/03 -- [Cross-Platform Mobile Apps with NativeScript](https://www.meetup.com/hacklafayette/events/240057063/)
 * 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
 * 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
@@ -31,8 +30,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
-* [MKE DOT NET](https://www.papercall.io/mkedotnet2017) (Milwaukee, WI) -- closes 06/01
-* [devopsdays Philly](https://www.devopsdays.org/events/2017-philadelphia/propose/) (Philadelphia, PA) -- closes 06/02
 * [DevOps Days Chicago](https://www.papercall.io/devopsdays-chicago-2017) (Chicago, IL) -- closes 06/17
 
 ## Member news:
