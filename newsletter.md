@@ -26,6 +26,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
 * 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
 * 06/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/239326198/)
+* 06/23 -- IndyPy [Pythonology Lecture Series: Python Web Frameworks](https://www.eventbrite.com/e/pythology-lecture-series-web-framework-shootout-tickets-32697463995)
 * 06/26 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/qlswtjywjbjc/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
