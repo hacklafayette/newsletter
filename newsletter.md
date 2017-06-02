@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-06-02
+# HackLafayette newsletter -- 2017-06-09
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,7 +7,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
 
 ## Upcoming HackLafayette events:
-* 06/03 -- [Cross-Platform Mobile Apps with NativeScript](https://www.meetup.com/hacklafayette/events/240057063/)
 * 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
 * 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
 * 06/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywjbhc/)
@@ -18,9 +17,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-
-* 06/05 -- Indy Scala [Monthly Meetup](https://www.meetup.com/IndyScala/events/239990131/)
-* 06/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/239713425/)
 * 06/09-11 -- [Circle City Con 4.0](https://circlecitycon.com/)
 * 06/12 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
 * 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
