@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-06-09
+# HackLafayette newsletter -- 2017-06-16
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,8 +7,6 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
 
 ## Upcoming HackLafayette events:
-* 06/14 -- [Purdue Perl Mongers - To Serve Humans, plus](https://www.meetup.com/hacklafayette/events/239878754/)
-* 06/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878923/)
 * 06/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywjbhc/)
 * 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
 * 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
@@ -17,10 +15,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-* 06/09-11 -- [Circle City Con 4.0](https://circlecitycon.com/)
-* 06/13 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
-* 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
-* 06/15 -- [Verge Lafayette](https://www.meetup.com/vergelafayette/events/240386671/)
 * 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
 * 06/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/239326198/)
 * 06/23 -- IndyPy [Pythonology Lecture Series: Python Web Frameworks](https://www.eventbrite.com/e/pythology-lecture-series-web-framework-shootout-tickets-32697463995)
