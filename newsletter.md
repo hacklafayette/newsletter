@@ -18,8 +18,9 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming nearby events:
 * 06/09-11 -- [Circle City Con 4.0](https://circlecitycon.com/)
-* 06/12 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
+* 06/13 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239042788/)
 * 06/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/239711890/)
+* 06/15 -- [Verge Lafayette](https://www.meetup.com/vergelafayette/events/240386671/)
 * 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
 * 06/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/239326198/)
 * 06/23 -- IndyPy [Pythonology Lecture Series: Python Web Frameworks](https://www.eventbrite.com/e/pythology-lecture-series-web-framework-shootout-tickets-32697463995)
@@ -31,7 +32,6 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Open Sourcing Mental Illness (led by Ed Finkler) has kicked off its [2017 fundraising campaign](https://osmihelp.org/2017-campaign).
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
