@@ -8,6 +8,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Upcoming HackLafayette events:
 * 06/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywjbhc/)
+* 07/06 -- [Software Stir in the Anvil](https://twitter.com/softwarestir)
 * 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
 * 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
