@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-06-16
+# HackLafayette newsletter -- 2017-06-23
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -16,14 +16,11 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-* 06/20 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/238585383/)
-* 06/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/239326198/)
 * 06/23 -- IndyPy [Pythonology Lecture Series: Python Web Frameworks](https://www.eventbrite.com/e/pythology-lecture-series-web-framework-shootout-tickets-32697463995)
 * 06/26 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/qlswtjywjbjc/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
-* [DevOps Days Chicago](https://www.papercall.io/devopsdays-chicago-2017) (Chicago, IL) -- closes 06/17
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
