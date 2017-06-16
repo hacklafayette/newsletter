@@ -27,6 +27,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ed Finkler will speak about Open Sourcing Mental Illness at [Free Code Camp Indy](https://www.meetup.com/Free-Code-Camp-Indy/events/240842101/) on July 5.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
