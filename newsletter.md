@@ -21,6 +21,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
+* [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
