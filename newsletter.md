@@ -15,6 +15,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
+* 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
