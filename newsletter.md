@@ -18,6 +18,7 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 ## Upcoming nearby events:
 * 06/23 -- IndyPy [Pythonology Lecture Series: Python Web Frameworks](https://www.eventbrite.com/e/pythology-lecture-series-web-framework-shootout-tickets-32697463995)
 * 06/26 -- Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/qlswtjywjbjc/)
+* 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
