@@ -1,13 +1,10 @@
-# HackLafayette newsletter -- 2017-06-30
+# HackLafayette newsletter -- 2017-07-07
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hacklafayette/events/237527854/) on August 26th. Have a project, language, framework, etc you'd like to share? Let us know!
 
-There's a new Meetup group in Lafayette focused on [Google development](https://www.meetup.com/GDGLafayette/).
-
 ## Upcoming HackLafayette events:
-* 07/06 -- [Software Stir in the Anvil](https://twitter.com/softwarestir)
 * 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
 * 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
@@ -20,12 +17,14 @@ There's a new Meetup group in Lafayette focused on [Google development](https://
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
+* [TechSummit Washington, D.C.](http://www.techsummit.io/cfp/) (Washington, D.C.) -- closes 07/14
+* [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ed Finkler will speak about Open Sourcing Mental Illness at [Free Code Camp Indy](https://www.meetup.com/Free-Code-Camp-Indy/events/240842101/) on July 5.
+* Ed Finkler spoke about Open Sourcing Mental Illness at [Free Code Camp Indy](https://www.meetup.com/Free-Code-Camp-Indy/events/240842101/) on July 5.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
