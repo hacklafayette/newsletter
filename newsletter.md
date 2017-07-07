@@ -9,11 +9,19 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 ## Upcoming HackLafayette events:
 * 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
 * 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
+* 07/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywkbfc/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
 * 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
+* 07/08 -- [Hackster Live Meetup](https://www.meetup.com/Hackster-Hardware-Meetup-Indianapolis/events/240697156/)
+* 07/11 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239881564/)
+* 07/12 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240638003/)
+* 07/14 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/240696620/)
+* 07/18 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027528/)
+* 07/18 -- Ansible Indianapolis [Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/241337302/)
+* 07/24 -- Indy DevOps [Meeting](https://www.meetup.com/IndyDevOps/events/241125509/)
 * 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
