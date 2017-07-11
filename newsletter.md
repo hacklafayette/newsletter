@@ -17,6 +17,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 07/18 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027528/)
 * 07/18 -- Ansible Indianapolis [Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/241337302/)
 * 07/24 -- Indy DevOps [Meeting](https://www.meetup.com/IndyDevOps/events/241125509/)
+* 07/24 -- Lafayette Code Artisans on [MeteorJS](https://www.meetup.com/Lafayette-Code-Artisans/events/241553761/)
 * 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
