@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-07-07
+# HackLafayette newsletter -- 2017-07-14
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,17 +7,12 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
-* 07/12 -- [Purdue Perl Mongers - Perl Conference Recap](https://www.meetup.com/hacklafayette/events/239878787/)
-* 07/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878940/)
 * 07/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywkbfc/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
 * 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-* 07/08 -- [Hackster Live Meetup](https://www.meetup.com/Hackster-Hardware-Meetup-Indianapolis/events/240697156/)
-* 07/11 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/239881564/)
-* 07/12 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240638003/)
 * 07/14 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/240696620/)
 * 07/18 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027528/)
 * 07/18 -- Ansible Indianapolis [Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/241337302/)
@@ -28,13 +23,13 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 
 ## Open CfPs:
 * [TechSummit Washington, D.C.](http://www.techsummit.io/cfp/) (Washington, D.C.) -- closes 07/14
+* [Ela Conf](https://docs.google.com/forms/d/e/1FAIpQLSd3k_xlsUtzgvQBksGYUZFX-viD02yTIPfmyfG_7KVFb0cRbQ/viewform) (Philadelphia, PA) -- closes 07/22
 * [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ed Finkler spoke about Open Sourcing Mental Illness at [Free Code Camp Indy](https://www.meetup.com/Free-Code-Camp-Indy/events/240842101/) on July 5.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
