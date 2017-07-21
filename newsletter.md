@@ -17,10 +17,10 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 07/24 -- Lafayette Code Artisans on [MeteorJS](https://www.meetup.com/Lafayette-Code-Artisans/events/241553761/)
 * 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
+* 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
-* [TechSummit Washington, D.C.](http://www.techsummit.io/cfp/) (Washington, D.C.) -- closes 07/14
 * [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
 * [React Boston](https://docs.google.com/forms/d/e/1FAIpQLSfXvvARf4V8I8mZSmIxPAoRfGrxVgQAfNmZBOyPsOJCJxALYQ/viewform) (Boston, MA) -- closes 07/31
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
