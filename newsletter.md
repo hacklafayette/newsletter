@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-07-14
+# HackLafayette newsletter -- 2017-07-21
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -13,19 +13,17 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-* 07/14 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/240696620/)
-* 07/18 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027528/)
-* 07/18 -- Ansible Indianapolis [Monthly Meetup](https://www.meetup.com/Ansible-Indianapolis/events/241337302/)
 * 07/24 -- Indy DevOps [Meeting](https://www.meetup.com/IndyDevOps/events/241125509/)
 * 07/24 -- Lafayette Code Artisans on [MeteorJS](https://www.meetup.com/Lafayette-Code-Artisans/events/241553761/)
 * 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
+* 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 
 ## Open CfPs:
-* [TechSummit Washington, D.C.](http://www.techsummit.io/cfp/) (Washington, D.C.) -- closes 07/14
 * [Ela Conf](https://docs.google.com/forms/d/e/1FAIpQLSd3k_xlsUtzgvQBksGYUZFX-viD02yTIPfmyfG_7KVFb0cRbQ/viewform) (Philadelphia, PA) -- closes 07/22
 * [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
+* [React Boston](https://docs.google.com/forms/d/e/1FAIpQLSfXvvARf4V8I8mZSmIxPAoRfGrxVgQAfNmZBOyPsOJCJxALYQ/viewform) (Boston, MA) -- closes 07/31
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
