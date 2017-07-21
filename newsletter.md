@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-07-21
+# HackLafayette newsletter -- 2017-07-28
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,14 +7,11 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
-* 07/23 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklywkbfc/)
 * 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
 * 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
 ## Upcoming nearby events:
-* 07/24 -- Indy DevOps [Meeting](https://www.meetup.com/IndyDevOps/events/241125509/)
-* 07/24 -- Lafayette Code Artisans on [MeteorJS](https://www.meetup.com/Lafayette-Code-Artisans/events/241553761/)
 * 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
 * 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
 * 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
