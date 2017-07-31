@@ -7,7 +7,7 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
-* 08/09 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
+* 08/09 -- JavaScript and SharePoint at [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
 * 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 
