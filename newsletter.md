@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-07-28
+# HackLafayette newsletter -- 2017-08-04
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,12 +10,21 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 08/09 -- JavaScript and SharePoint at [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
 * 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
+* 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywlbkc/)
 
 ## Upcoming nearby events:
-* 07/28-30 -- Chicago [Code for the Kingdom Hackathon](https://www.chic4tk.tech/)
-* 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/)
+* 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/) (Indianapolis, IN)
+* 08/09 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240814313/) (Indianapolis, IN)
+* 08/11 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/241020172/) (Indianapolis, IN)
 * 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
+* 08/14 -- Girl Develop It [Intro to Java](https://www.meetup.com/Girl-Develop-It-Indianapolis/events/242077375/) (Indianapolis, IN)
+* 08/15 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027553/) (Indianapolis, IN)
+* 08/17 -- Verge [August 2017](https://www.meetup.com/vergelafayette/events/241334609/) (Lafayette, IN)
+* 08/23 -- Node.Indy [Meetup](https://www.meetup.com/Node-indy/events/241156300/) (Indianapolis, IN)
+* 08/28 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/242060944/) (Carmel, IN)
+* 08/30 -- Cloud Native Indy [Exploring Data Science Use Cases with Graph Databases](https://www.meetup.com/Cloud-Native-Indy/events/241967312/) (Indianapolis, IN)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
+* 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 
 ## Open CfPs:
 * [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
