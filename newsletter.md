@@ -27,8 +27,6 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 
 ## Open CfPs:
-* [Clojure/Conj](http://2017.clojure-conj.org/cfp/) (Baltimore, MD) -- closes 07/28
-* [React Boston](https://docs.google.com/forms/d/e/1FAIpQLSfXvvARf4V8I8mZSmIxPAoRfGrxVgQAfNmZBOyPsOJCJxALYQ/viewform) (Boston, MA) -- closes 07/31
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
