@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-08-04
+# HackLafayette newsletter -- 2017-08-11
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,14 +7,10 @@ We're looking for speakers for the [Thunder Talks](https://www.meetup.com/hackla
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
-* 08/09 -- JavaScript and SharePoint at [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/239878854/)
-* 08/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/239878972/)
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
 * 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywlbkc/)
 
 ## Upcoming nearby events:
-* 08/06 -- [IndyHackers Summer Slam 2017](http://www.indyhackers.org/summer-slam-2017/) (Indianapolis, IN)
-* 08/09 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240814313/) (Indianapolis, IN)
 * 08/11 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/241020172/) (Indianapolis, IN)
 * 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
 * 08/14 -- Girl Develop It [Intro to Java](https://www.meetup.com/Girl-Develop-It-Indianapolis/events/242077375/) (Indianapolis, IN)
@@ -27,8 +23,6 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 
 ## Open CfPs:
-* [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
-* [Rust Belt Rust](http://cfp.rust-belt-rust.com/) (Columbus, OH) -- closes 08/07
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
