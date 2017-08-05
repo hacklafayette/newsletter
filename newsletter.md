@@ -28,6 +28,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 
 ## Open CfPs:
 * [SeaGL](http://seagl.org/news/2017/06/19/CFP-open.html) (Seattle, WA) -- closes 08/06
+* [Rust Belt Rust](http://cfp.rust-belt-rust.com/) (Columbus, OH) -- closes 08/07
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
