@@ -29,6 +29,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
+* Engineering Innovation, Inc. is hiring a [Software Engineer](https://www.eii-online.com/software-engineer) in Lafayette.
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
