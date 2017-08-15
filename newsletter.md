@@ -23,6 +23,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ben Cotton's company [has been acquired by Microsoft](https://cyclecomputing.com/cycle-computing-joining-microsoft/).
 
 ## Jobs:
 * Engineering Innovation, Inc. is hiring a [Software Engineer](https://www.eii-online.com/software-engineer) in Lafayette.
