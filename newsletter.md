@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-08-11
+# HackLafayette newsletter -- 2017-08-18
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,11 +11,6 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywlbkc/)
 
 ## Upcoming nearby events:
-* 08/11 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/241020172/) (Indianapolis, IN)
-* 08/12-16 -- [Open Help Conference](https://conf.openhelp.cc/) (Cincinnati, OH)
-* 08/14 -- Girl Develop It [Intro to Java](https://www.meetup.com/Girl-Develop-It-Indianapolis/events/242077375/) (Indianapolis, IN)
-* 08/15 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027553/) (Indianapolis, IN)
-* 08/17 -- Verge [August 2017](https://www.meetup.com/vergelafayette/events/241334609/) (Lafayette, IN)
 * 08/23 -- Node.Indy [Meetup](https://www.meetup.com/Node-indy/events/241156300/) (Indianapolis, IN)
 * 08/28 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/242060944/) (Carmel, IN)
 * 08/30 -- Cloud Native Indy [Exploring Data Science Use Cases with Graph Databases](https://www.meetup.com/Cloud-Native-Indy/events/241967312/) (Indianapolis, IN)
@@ -23,6 +18,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 
 ## Open CfPs:
+* [Empire Conf](https://speak.empireconf.org/) (New York, NY) -- closes 08/24
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
