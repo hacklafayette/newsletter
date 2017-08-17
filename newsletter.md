@@ -19,6 +19,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 08/23 -- Node.Indy [Meetup](https://www.meetup.com/Node-indy/events/241156300/) (Indianapolis, IN)
 * 08/28 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/242060944/) (Carmel, IN)
 * 08/30 -- Cloud Native Indy [Exploring Data Science Use Cases with Graph Databases](https://www.meetup.com/Cloud-Native-Indy/events/241967312/) (Indianapolis, IN)
+* 09/07 -- [Software Stir](https://twitter.com/softwarestir)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 
