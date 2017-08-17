@@ -8,7 +8,9 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 
 ## Upcoming HackLafayette events:
 * 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
-* 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywlbkc/)
+* 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/242280322/)
+* 09/13 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/242626635/)
+* 09/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/242626548/)
 
 ## Upcoming nearby events:
 * 08/11 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/241020172/) (Indianapolis, IN)
