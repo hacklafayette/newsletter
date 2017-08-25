@@ -2,6 +2,8 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
+Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? Volunteers needed!
+
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
@@ -9,6 +11,7 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 * 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/242280322/)
 * 09/13 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/242626635/)
 * 09/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/242626548/)
+* 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
 * 08/28 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/242060944/) (Carmel, IN)
