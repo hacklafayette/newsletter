@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-08-25
+# HackLafayette newsletter -- 2017-09-01
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,15 +7,11 @@ Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? Volunteers need
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
 ## Upcoming HackLafayette events:
-* 08/26 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/239012244/)
-* 08/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/242280322/)
 * 09/13 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/242626635/)
 * 09/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/242626548/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
-* 08/28 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/242060944/) (Carmel, IN)
-* 08/30 -- Cloud Native Indy [Exploring Data Science Use Cases with Graph Databases](https://www.meetup.com/Cloud-Native-Indy/events/241967312/) (Indianapolis, IN)
 * 09/07 -- [Software Stir](https://twitter.com/softwarestir)
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
