@@ -29,6 +29,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
+* [Serverless](https://nyc.serverlessconf.io/) (New York, NY) -- closes 09/01
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
