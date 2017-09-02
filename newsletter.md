@@ -2,7 +2,7 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
-Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? Volunteers needed!
+Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? **Volunteers needed!**
 
 Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
 
