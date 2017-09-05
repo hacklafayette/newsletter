@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-09-01
+# HackLafayette newsletter -- 2017-09-08
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -29,7 +29,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
-* [Serverless](https://nyc.serverlessconf.io/) (New York, NY) -- closes 09/01
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
