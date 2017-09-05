@@ -20,6 +20,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
 * 09/13 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240814315/)
 * 09/13 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/242155395/)
+* 09/15-17 -- [Greater Lafayette Startup Weekend](http://communities.techstars.com/usa/greaterlala/startup-weekend/11076) *(discount code available)*
 * 09/19 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027558/)
 * 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 * 09/25 -- IndyDevOps [Monthly Meetup](https://www.meetup.com/IndyDevOps/events/242610540/)
@@ -29,6 +30,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
+* [North Bay Python](https://2017.northbaypython.org/program/call-for-proposals) (Petaluma, CA) -- closes 09/29
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
 
 ## Member news:
