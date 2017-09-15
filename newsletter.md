@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-09-08
+# HackLafayette newsletter -- 2017-09-15
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -9,16 +9,12 @@ Are you an early-career or newcomer tech person? Join [Office Hours](https://www
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
+* 09/24 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklywmbgc/)
 * 10/11 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/243393803/)
 * 10/11 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/243393811/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
-* 09/09 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
-* 09/12 -- [IndyPy Monthly Meetup](https://www.meetup.com/indypy/events/241996030/)
-* 09/12-13 -- [DevOps Days Chicago](https://www.devopsdays.org/events/2017-chicago/)
-* 09/13 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/240814315/)
-* 09/13 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/242155395/)
 * 09/15-17 -- [Greater Lafayette Startup Weekend](http://communities.techstars.com/usa/greaterlala/startup-weekend/11076) *(discount code available)*
 * 09/19 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027558/)
 * 09/22 -- Women IN: [The Human Side of IT ft. Chantal Forster](https://www.facebook.com/events/279960309169193/)
