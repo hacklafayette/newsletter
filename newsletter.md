@@ -29,6 +29,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 ## Open CfPs:
 * [North Bay Python](https://2017.northbaypython.org/program/call-for-proposals) (Petaluma, CA) -- closes 09/29
 * [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
+* [Perfmatters Conference](https://www.perfmattersconf.com/speak/) (Redwood City, CA) -- closes 10/01
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
