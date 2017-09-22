@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-09-15
+# HackLafayette newsletter -- 2017-09-22
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -15,10 +15,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
-* 09/15-17 -- [Greater Lafayette Startup Weekend](http://communities.techstars.com/usa/greaterlala/startup-weekend/11076) *(discount code available)*
-* 09/19 -- IndyAWS [Meeting](https://www.meetup.com/IndyAWS/events/240027558/)
-* 09/22 -- Women IN: [The Human Side of IT ft. Chantal Forster](https://www.facebook.com/events/279960309169193/)
-* 09/22 -- Pythonology Lecture Series: [Machine Learning, AI, and Genetic Programming](https://www.eventbrite.com/e/pythology-lecture-series-machine-learning-ai-and-genetic-programming-tickets-35583817155?aff=erelexpmlt) (Fishers, IN)
 * 09/25 -- IndyDevOps [Monthly Meetup](https://www.meetup.com/IndyDevOps/events/242610540/)
 * 09/27 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/242064416/)
 * 09/28 -- Verge [September 2017](https://www.meetup.com/vergelafayette/events/242361092/)
