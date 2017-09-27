@@ -14,6 +14,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
+* 10/01 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
 * 10/05 -- [Software Stir](https://twitter.com/softwarestir)
 * 10/14 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
