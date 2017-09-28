@@ -15,6 +15,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Upcoming nearby events:
 * 10/01 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
+* 10/03 -- Reshma Saujani of [Girls Who Code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj906eloMjWAhUol1QKHUuwBmsQFggoMAA&url=https%3A%2F%2Fgirlswhocode.com%2F&usg=AFQjCNF3AF3Y7-TXUmqzjtmnqIIVJ29Yyg) 7pm in Loeb Playhouse
 * 10/05 -- [Software Stir](https://twitter.com/softwarestir)
 * 10/14 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
