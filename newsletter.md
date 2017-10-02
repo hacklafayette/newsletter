@@ -24,7 +24,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Jobs:
 * [SDI Innovations](http://sdiinnovations.com) is looking for developers to create a couple apps with a quick turnaround. Contact [Jon Sautter](mailto:jon@sdiinnovations.com ) for more information.
-* Engineering Innovation, Inc. is hiring a [Software Engineer](https://www.eii-online.com/software-engineer) in Lafayette.
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
