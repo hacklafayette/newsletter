@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-09-29
+# HackLafayette newsletter -- 2017-10-06
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -14,16 +14,11 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
-* 10/01 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
-* 10/03 -- Reshma Saujani of [Girls Who Code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj906eloMjWAhUol1QKHUuwBmsQFggoMAA&url=https%3A%2F%2Fgirlswhocode.com%2F&usg=AFQjCNF3AF3Y7-TXUmqzjtmnqIIVJ29Yyg) 7pm in Loeb Playhouse
-* 10/05 -- [Software Stir](https://twitter.com/softwarestir)
+* 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
 * 10/14 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
-* [North Bay Python](https://2017.northbaypython.org/program/call-for-proposals) (Petaluma, CA) -- closes 09/29
-* [Elixir with Love](http://www.elixir-with-love.com/#cfp) (Providence, RI) -- closes 10/01
-* [Perfmatters Conference](https://www.perfmattersconf.com/speak/) (Redwood City, CA) -- closes 10/01
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
