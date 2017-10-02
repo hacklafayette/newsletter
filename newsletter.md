@@ -4,8 +4,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? **Volunteers needed!**
 
-Are you an early-career or newcomer tech person? Join [Office Hours](https://www.linkedin.com/pulse/office-hours-community-driven-mentorship-program-scott-williams), a community-driver mentorship program based out of Indianapolis. 
-
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
@@ -29,9 +27,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * Engineering Innovation, Inc. is hiring a [Software Engineer](https://www.eii-online.com/software-engineer) in Lafayette.
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
-
-### Job Seekers
-* [Devan Peetz](https://drive.google.com/file/d/0BytBnQoypD1xNTd1Y25kM1hJeGc/view) is looking for a job in web frontend development (.NET, JavaScript, PHP)
 
 ## Notes from our sponsors:
 
