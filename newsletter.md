@@ -24,6 +24,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Jobs:
 * [SDI Innovations](http://sdiinnovations.com) is looking for developers to create a couple apps with a quick turnaround. Contact [Jon Sautter](mailto:jon@sdiinnovations.com ) for more information.
+* DelMar Software Development is looking for [software developers, UI designers, and project managers](http://www.delmarsd.com/join).
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
