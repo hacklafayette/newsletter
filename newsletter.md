@@ -17,6 +17,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
+* 10/31 -- [Elastic{ON}](https://www.elastic.co/elasticon/speak) (San Fransciso, CA) -- some expenses covered
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
