@@ -7,7 +7,7 @@ Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? **Volunteers ne
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 10/11 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/243393803/)
+* 10/11 -- [Purdue Perl Mongers - Building Maintainable Software](https://www.meetup.com/hacklafayette/events/243393803/)
 * 10/11 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/243393811/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
