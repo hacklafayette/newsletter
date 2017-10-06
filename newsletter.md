@@ -14,6 +14,9 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 ## Upcoming nearby events:
 * 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
 * 10/14 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
+* 10/21 -- [Indiana Medicaid Data Challenge](https://www.eventbrite.com/e/2017-indiana-medicaid-data-challenge-registration-37715215224) (Indianapolis)
+* 10/21 -- [Hoosier Women in STEM Wikipedia Edit-a-Thon](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
+* 10/25 -- [IndyIoT 2017](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
 ## Open CfPs:
