@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-10-06
+# HackLafayette newsletter -- 2017-10-13
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,8 +7,6 @@ Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? **Volunteers ne
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 10/11 -- [Purdue Perl Mongers - Building Maintainable Software](https://www.meetup.com/hacklafayette/events/243393803/)
-* 10/11 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/243393811/)
 * 10/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/243711819/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
