@@ -9,13 +9,17 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 ## Upcoming HackLafayette events:
 * 10/11 -- [Purdue Perl Mongers - Building Maintainable Software](https://www.meetup.com/hacklafayette/events/243393803/)
 * 10/11 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/243393811/)
+* 10/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/243711819/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 
 ## Upcoming nearby events:
 * 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
 * 10/14 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
+* 10/17 -- IndyAWS [Monthly Meeting](https://www.meetup.com/IndyAWS/events/240027569/) (Indianapolis)
+* 10/19 -- Powderkeg [October 2017](https://www.meetup.com/powderkeg-greaterlala/events/243924742/) (Lafayette)
 * 10/21 -- [Indiana Medicaid Data Challenge](https://www.eventbrite.com/e/2017-indiana-medicaid-data-challenge-registration-37715215224) (Indianapolis)
 * 10/21 -- [Hoosier Women in STEM Wikipedia Edit-a-Thon](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
+* 10/23 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/241988798/) (Carmel)
 * 10/25 -- [IndyIoT 2017](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
 
