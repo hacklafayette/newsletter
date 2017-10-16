@@ -11,6 +11,8 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 10/11 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/243393811/)
 * 10/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/243711819/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
+* 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
+* 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 
 ## Upcoming nearby events:
 * 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
