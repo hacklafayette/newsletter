@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-10-20
+# HackLafayette newsletter -- 2017-10-27
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,17 +7,12 @@ Want to take over [BeerJS/lala](https://github.com/beerjs/lala)? **Volunteers ne
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 10/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/243711819/)
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
 * 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 
 ## Upcoming nearby events:
 * 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
-* 10/21 -- [Indiana Medicaid Data Challenge](https://www.eventbrite.com/e/2017-indiana-medicaid-data-challenge-registration-37715215224) (Indianapolis)
-* 10/21 -- [Hoosier Women in STEM Wikipedia Edit-a-Thon](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
-* 10/23 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/241988798/) (Carmel)
-* 10/25 -- [IndyIoT 2017](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
 * 11/02 -- [Software Stir](https://www.facebook.com/events/277508122756795/)
 * 11/08 -- [6:45](https://www.facebook.com/events/1764944957138608/)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
