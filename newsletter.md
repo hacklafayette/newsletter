@@ -18,6 +18,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 10/21 -- [Hoosier Women in STEM Wikipedia Edit-a-Thon](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
 * 10/23 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/241988798/) (Carmel)
 * 10/25 -- [IndyIoT 2017](https://www.eventbrite.com/e/hoosier-women-in-stem-wikipedia-edit-a-thon-tickets-32965968098?aff=es2) (Indianapolis)
+* 11/01 -- [Women in HPC](https://purdue.qualtrics.com/jfe/form/SV_eKdoZZvlcRGZzCZ) 
 * 11/02 -- [Software Stir](https://www.facebook.com/events/277508122756795/)
 * 11/08 -- [6:45](https://www.facebook.com/events/1764944957138608/)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
