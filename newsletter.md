@@ -13,6 +13,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Upcoming nearby events:
 * 10/01-10/31 -- [Hacktoberfest](https://blog.digitalocean.com/hacktoberfest-2017/)
+* 11/01 -- [Women in HPC](https://purdue.qualtrics.com/jfe/form/SV_eKdoZZvlcRGZzCZ) 
 * 11/02 -- [Software Stir](https://www.facebook.com/events/277508122756795/)
 * 11/08 -- [6:45](https://www.facebook.com/events/1764944957138608/)
 * 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
