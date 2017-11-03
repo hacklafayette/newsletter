@@ -18,6 +18,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 11/14 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/243754572/) (Indianapolis)
 * 11/15 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/242064432/) (Indianapolis)
 * 11/16 -- Powderkeg [November 2017](https://www.meetup.com/powderkeg-greaterlala/events/244455165/) (Lafayette)
+* 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 
 ## Open CfPs:
 
