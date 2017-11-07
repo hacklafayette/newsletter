@@ -1,5 +1,7 @@
 # HackLafayette newsletter -- 2017-11-10
 
+*Programming note: Due to travel and holidays, we'll skip the next two weeks. The HackLafayette newsletter will resume on December 1.*
+
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
