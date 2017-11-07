@@ -17,6 +17,9 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 
 ## Open CfPs:
+* [The Lead Developer Austin](https://docs.google.com/forms/d/e/1FAIpQLSeaTnp230nbEvjsFXh4tfBHtZywsKNJX44N6xADlKp2liP8OQ/viewform) (Austin, TX) -- closes 11/14
+* [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
+(Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
