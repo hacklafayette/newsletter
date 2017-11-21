@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-11-10
+# HackLafayette newsletter -- 2017-12-01
 
 *Programming note: Due to travel and holidays, we'll skip the next two weeks. The HackLafayette newsletter will resume on December 1.*
 
@@ -12,14 +12,9 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 
 ## Upcoming nearby events:
-* 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
-* 11/14 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/243754572/) (Indianapolis)
-* 11/15 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/242064432/) (Indianapolis)
-* 11/16 -- Powderkeg [November 2017](https://www.meetup.com/powderkeg-greaterlala/events/244455165/) (Lafayette)
 * 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 
 ## Open CfPs:
-* [The Lead Developer Austin](https://docs.google.com/forms/d/e/1FAIpQLSeaTnp230nbEvjsFXh4tfBHtZywsKNJX44N6xADlKp2liP8OQ/viewform) (Austin, TX) -- closes 11/14
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
 (Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
 
