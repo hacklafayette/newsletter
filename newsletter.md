@@ -15,7 +15,9 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 
 ## Open CfPs:
+* [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
+* [Write the Docs](http://www.writethedocs.org/conf/portland/2018/cfp/) (Portland, OR) -- closes 01/10
 (Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
 
 ## Member news:
