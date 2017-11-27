@@ -12,6 +12,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 
 ## Upcoming nearby events:
+* 11/29 -- Software Stir: Chris Lorenzo talk Tech, Entrepreneurship and the Music Industry. 11:30am-1pm at the Anvil
 * 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 
 ## Open CfPs:
