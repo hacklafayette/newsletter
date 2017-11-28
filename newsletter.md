@@ -8,6 +8,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Upcoming HackLafayette events:
 * 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
+* 12/06 -- [Purdue Women in HPC](https://t.co/ZzsqGL9GA5)
 * 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 
