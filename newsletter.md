@@ -11,6 +11,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 12/06 -- [Purdue Women in HPC](https://t.co/ZzsqGL9GA5)
 * 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
+* 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
 * 11/29 -- Software Stir: Chris Lorenzo talk Tech, Entrepreneurship and the Music Industry. 11:30am-1pm at the Anvil
