@@ -12,8 +12,11 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
-* 11/29 -- Software Stir: Chris Lorenzo talk Tech, Entrepreneurship and the Music Industry. 11:30am-1pm at the Anvil
+* 12/01-12/24 -- [24 Pull Requests](https://24pullrequests.com/) (online)
 * 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
+* 12/10 -- OpenCV & Machine Vision [First meetup: coffee meet & greet](https://www.meetup.com/OpenCV-Machine-Vision-Meetup/events/245191340/) (Indianapolis)
+* 12/18 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/244308035/) (Carmel)
+* 12/19 -- Docker Indianapolis [Meetup](https://www.meetup.com/Docker-Indianapolis/events/244082505/) (Indianapolis)
 
 ## Open CfPs:
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
