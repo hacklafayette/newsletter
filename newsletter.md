@@ -1,19 +1,16 @@
-# HackLafayette newsletter -- 2017-12-01
+# HackLafayette newsletter -- 2017-12-08
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
-* 12/06 -- [Purdue Women in HPC](https://t.co/ZzsqGL9GA5)
 * 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
 * 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
 * 12/01-12/24 -- [24 Pull Requests](https://24pullrequests.com/) (online)
-* 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
 * 12/10 -- OpenCV & Machine Vision [First meetup: coffee meet & greet](https://www.meetup.com/OpenCV-Machine-Vision-Meetup/events/245191340/) (Indianapolis)
 * 12/18 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/244308035/) (Carmel)
 * 12/19 -- Docker Indianapolis [Meetup](https://www.meetup.com/Docker-Indianapolis/events/244082505/) (Indianapolis)
