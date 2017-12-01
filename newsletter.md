@@ -20,8 +20,10 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Open CfPs:
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
+* [phptek](https://tek.phparch.com/call-for-speakers) (Atlanta, GA) -- closes 12/29
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
 * [Write the Docs](http://www.writethedocs.org/conf/portland/2018/cfp/) (Portland, OR) -- closes 01/10
+* [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 (Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
 
 ## Member news:
