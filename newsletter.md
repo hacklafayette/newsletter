@@ -17,6 +17,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Open CfPs:
 * [Jazzcon.Tech](http://jazzcon.tech/) (New Orleans, LA) -- closes 12/15
+* [Open Source 101](http://opensource101.com/call-for-speakers/) (Raleigh, NC and Columbia, SC) -- closes 12/15
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
 * [phptek](https://tek.phparch.com/call-for-speakers) (Atlanta, GA) -- closes 12/29
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
