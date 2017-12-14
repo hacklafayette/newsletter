@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-12-15
+# HackLafayette newsletter -- 2017-12-22
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,12 +12,8 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Upcoming nearby events:
 * 12/01-12/24 -- [24 Pull Requests](https://24pullrequests.com/) (online)
-* 12/18 -- Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/244308035/) (Carmel)
-* 12/19 -- Docker Indianapolis [Meetup](https://www.meetup.com/Docker-Indianapolis/events/244082505/) (Indianapolis)
 
 ## Open CfPs:
-* [Jazzcon.Tech](http://jazzcon.tech/) (New Orleans, LA) -- closes 12/15
-* [Open Source 101](http://opensource101.com/call-for-speakers/) (Raleigh, NC and Columbia, SC) -- closes 12/15
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
 * [phptek](https://tek.phparch.com/call-for-speakers) (Atlanta, GA) -- closes 12/29
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
