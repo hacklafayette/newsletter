@@ -5,6 +5,9 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
+* 01/10 -- [Perl Mongers](https://www.meetup.com/hacklafayette/events/245731375/)
+* 01/10 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxcbnb/)
+* 01/28 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxcblc/)
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
