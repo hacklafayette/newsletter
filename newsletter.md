@@ -19,6 +19,8 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
 * [Write the Docs](http://www.writethedocs.org/conf/portland/2018/cfp/) (Portland, OR) -- closes 01/10
 * [ngConf](https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform) (Salt Lake City, UT) -- closes 01/15
+* [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) (Portland, OR) -- closes 01/30
+* [LinuxFest Northwest](https://linuxfestnorthwest.org/conferences/lfnw18) (Bellingham, WA) -- closes 01/31
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 (Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
