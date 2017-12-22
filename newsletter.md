@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-12-22
+# HackLafayette newsletter -- 2017-12-29
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,7 +11,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
-* 12/01-12/24 -- [24 Pull Requests](https://24pullrequests.com/) (online)
 
 ## Open CfPs:
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
