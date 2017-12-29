@@ -11,6 +11,17 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
+* 01/03 -- Javascript Roundabout [Year in review and what ES.Next?](https://www.meetup.com/carmel-javascript-roundabout/events/244787032/) (Carmel)
+* 01/03 -- Indy.rs [2018 kickoff](https://www.meetup.com/indyrs/events/245944859/) (Indianapolis)
+* 01/08 -- Indy Scala [Monthly meetup](https://www.meetup.com/IndyScala/events/245719583/) (Indianapolis)
+* 01/09 -- Indypy [Startup Row Pitch Event](https://www.meetup.com/indypy/events/242417853/) (Indianapolis)
+* 01/10 -- Data Science Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/245231977/) (Indianapolis)
+* 01/10 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/245604192/) (Indianapolis)
+* 01/12 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/244372943/) (Indianapolis)
+* 01/17 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/245144168/) (Indianapolis)
+* 01/17 -- IndyML [Machine Vision Demo](https://www.meetup.com/IndyML/events/245254642/) (Indianapolis)
+* 01/18 -- [T-6.6](https://www.meetup.com/tminus/events/245882448/) (Lafayette)
+* 01/22 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/244308036/) (Carmel)
 
 ## Open CfPs:
 * [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
