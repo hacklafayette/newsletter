@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2017-12-29
+# HackLafayette newsletter -- 2018-01-05
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,8 +11,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
-* 01/03 -- Javascript Roundabout [Year in review and what ES.Next?](https://www.meetup.com/carmel-javascript-roundabout/events/244787032/) (Carmel)
-* 01/03 -- Indy.rs [2018 kickoff](https://www.meetup.com/indyrs/events/245944859/) (Indianapolis)
 * 01/08 -- Indy Scala [Monthly meetup](https://www.meetup.com/IndyScala/events/245719583/) (Indianapolis)
 * 01/09 -- Indypy [Startup Row Pitch Event](https://www.meetup.com/indypy/events/242417853/) (Indianapolis)
 * 01/10 -- Data Science Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/245231977/) (Indianapolis)
@@ -24,9 +22,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 01/22 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/244308036/) (Carmel)
 
 ## Open CfPs:
-* [Chicago Roboto](http://chicagoroboto.com/call-for-papers/) (Chicago, IL) -- closes 12/29
-* [phptek](https://tek.phparch.com/call-for-speakers) (Atlanta, GA) -- closes 12/29
-* [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
 * [Write the Docs](http://www.writethedocs.org/conf/portland/2018/cfp/) (Portland, OR) -- closes 01/10
 * [ngConf](https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform) (Salt Lake City, UT) -- closes 01/15
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) (Portland, OR) -- closes 01/30
