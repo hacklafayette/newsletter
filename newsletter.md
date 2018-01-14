@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-01-12
+# HackLafayette newsletter -- 2018-01-19
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -9,10 +9,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 
 ## Upcoming nearby events:
-* 01/12 -- Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/244372943/) (Indianapolis)
-* 01/17 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/245144168/) (Indianapolis)
-* 01/17 -- IndyML [Machine Vision Demo](https://www.meetup.com/IndyML/events/245254642/) (Indianapolis)
-* 01/18 -- [T-6.6](https://www.meetup.com/tminus/events/245882448/) (Lafayette)
 * 01/22 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/244308036/) (Carmel)
 
 ## Open CfPs:
@@ -25,6 +21,8 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+
+* Ben Cotton has some [free tech books](https://www.meetup.com/hacklafayette/messages/boards/thread/51356503#131035916) to give away.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
