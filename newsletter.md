@@ -6,13 +6,22 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Upcoming HackLafayette events:
 * 01/28 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxcblc/)
+* 02/14 -- [Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyxdbsb/)
+* 02/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxdbsb/)
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
+* 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
 * 01/22 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/244308036/) (Carmel)
+* 01/30 -- Docker Indianapolis [Meetup](https://www.meetup.com/Docker-Indianapolis/events/246085600/) (Indianapolis)
+* 02/02 -- IndyPy [Pythology One-Day Conference: Python Security Best Practices](https://www.meetup.com/indypy/events/243985616/) (Indianapolis)
+* 02/05 -- Indy Scala [Stainless verification framework](https://www.meetup.com/IndyScala/events/245991732/) (Indianapolis)
+* 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
+* 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
+* 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
+
 
 ## Open CfPs:
-* [ngConf](https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform) (Salt Lake City, UT) -- closes 01/15
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615) (Portland, OR) -- closes 01/30
 * [LinuxFest Northwest](https://linuxfestnorthwest.org/conferences/lfnw18) (Bellingham, WA) -- closes 01/31
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
