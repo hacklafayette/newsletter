@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-01-19
+# HackLafayette newsletter -- 2018-01-26
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,7 +12,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
-* 01/22 -- [Indy DevOps](https://www.meetup.com/IndyDevOps/events/244308036/) (Carmel)
 * 01/30 -- Docker Indianapolis [Meetup](https://www.meetup.com/Docker-Indianapolis/events/246085600/) (Indianapolis)
 * 02/02 -- IndyPy [Pythology One-Day Conference: Python Security Best Practices](https://www.meetup.com/indypy/events/243985616/) (Indianapolis)
 * 02/05 -- Indy Scala [Stainless verification framework](https://www.meetup.com/IndyScala/events/245991732/) (Indianapolis)
