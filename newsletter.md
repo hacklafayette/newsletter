@@ -1,34 +1,34 @@
-# HackLafayette newsletter -- 2017-11-10
-
-*Programming note: Due to travel and holidays, we'll skip the next two weeks. The HackLafayette newsletter will resume on December 1.*
+# HackLafayette newsletter -- 2018-02-02
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 12/02 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/242833850/)
-* 12/13 -- [Purdue Perl Mongers - Starship Mongers](https://www.meetup.com/hacklafayette/events/244256130/)
-* 12/13 -- [Food and Chat](https://www.meetup.com/hacklafayette/events/244255880/)
+* 02/14 -- Perl Mongers and Food & Chat will be cancelled due to Valentine's Day. See you in March.
+* 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
+* 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
-* 11/11 -- [Lafayette CoderDojo](https://www.eventbrite.com/e/lafayette-coderdojo-tickets-27123344654)
-* 11/14 -- IndyPy [Monthly Meetup](https://www.meetup.com/indypy/events/243754572/) (Indianapolis)
-* 11/15 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/242064432/) (Indianapolis)
-* 11/16 -- Powderkeg [November 2017](https://www.meetup.com/powderkeg-greaterlala/events/244455165/) (Lafayette)
-* 12/02 -- Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2017) (Fishers)
+* 02/02 -- IndyPy [Pythology One-Day Conference: Python Security Best Practices](https://www.meetup.com/indypy/events/243985616/) (Indianapolis)
+* 02/05 -- Indy Scala [Stainless verification framework](https://www.meetup.com/IndyScala/events/245991732/) (Indianapolis)
+* 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
+* 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
+* 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
+
 
 ## Open CfPs:
-* [The Lead Developer Austin](https://docs.google.com/forms/d/e/1FAIpQLSeaTnp230nbEvjsFXh4tfBHtZywsKNJX44N6xADlKp2liP8OQ/viewform) (Austin, TX) -- closes 11/14
-* [SyntaxCon](https://www.papercall.io/syntaxcon2018) (Charleston, SC) -- closes 12/31
-(Some CfPs provided by [Technically Speaking](https://techspeak.email/)) 
+* [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
+* [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
+* Ben Cotton has some [free tech books](https://www.meetup.com/hacklafayette/messages/boards/thread/51356503#131035916) to give away.
+
 ## Jobs:
-* DelMar Software Development is looking for [a junior software developer](http://www.delmarsd.com/join).
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
+* Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 * Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 
 ## Notes from our sponsors:
