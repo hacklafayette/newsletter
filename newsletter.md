@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-02-02
+# HackLafayette newsletter -- 2018-02-09
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,10 +10,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
-* 02/02 -- IndyPy [Pythology One-Day Conference: Python Security Best Practices](https://www.meetup.com/indypy/events/243985616/) (Indianapolis)
-* 02/05 -- Indy Scala [Stainless verification framework](https://www.meetup.com/IndyScala/events/245991732/) (Indianapolis)
-* 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
-* 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
 * 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
 * 02/14 -- AgileIndy [Kano Corrective Lenses](https://www.meetup.com/agileindy/events/244547903/) (Indianapolis)
 * 02/14 -- Indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/246609903/) (Indianapolis)
@@ -32,8 +28,6 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-
-* Ben Cotton has some [free tech books](https://www.meetup.com/hacklafayette/messages/boards/thread/51356503#131035916) to give away.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
