@@ -15,6 +15,14 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
 * 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
 * 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
+* 02/14 -- AgileIndy [Kano Corrective Lenses](https://www.meetup.com/agileindy/events/244547903/) (Indianapolis)
+* 02/14 -- Indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/246609903/) (Indianapolis)
+* 02/14 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/246705364/) (Indianapolis)
+* 02/20 -- IndyAWS [Setting up a Dockerized Web App](https://www.meetup.com/IndyAWS/events/245836033/) (Indianapolis)
+* 02/20 -- AgileIndy [Accidental Agile Bullies](https://www.meetup.com/agileindy/events/244464881/) (Indianapolis)
+* 02/21 -- Nody.Indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/245130627/) (Indianapolis)
+* 02/24 -- [T-6.6](https://www.meetup.com/tminus/events/247395867/) (Lafayette)
+* 02/26 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/246295914/) (Carmel)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 
 ## Open CfPs:
