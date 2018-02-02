@@ -15,7 +15,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
 * 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
 * 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
-
+* 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 
 ## Open CfPs:
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
