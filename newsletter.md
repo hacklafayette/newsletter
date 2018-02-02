@@ -18,6 +18,7 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 
 ## Open CfPs:
+* [GLSEC 2018](https://docs.google.com/forms/d/e/1FAIpQLSfa7S_fpEKjgNd3vhQ0r7-7JAN5v-lP2PBl1RRUN9-WyjUTZQ/viewform) (Grand Rapids, MI) -- closes 02/16
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 
