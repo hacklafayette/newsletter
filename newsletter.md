@@ -1,19 +1,14 @@
-# HackLafayette newsletter -- 2018-02-09
+# HackLafayette newsletter -- 2018-02-16
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
 
 ## Upcoming HackLafayette events:
-* 02/14 -- Perl Mongers and Food & Chat will be cancelled due to Valentine's Day. See you in March.
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 * 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
-* 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
-* 02/14 -- AgileIndy [Kano Corrective Lenses](https://www.meetup.com/agileindy/events/244547903/) (Indianapolis)
-* 02/14 -- Indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/246609903/) (Indianapolis)
-* 02/14 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/246705364/) (Indianapolis)
 * 02/20 -- IndyAWS [Setting up a Dockerized Web App](https://www.meetup.com/IndyAWS/events/245836033/) (Indianapolis)
 * 02/20 -- AgileIndy [Accidental Agile Bullies](https://www.meetup.com/agileindy/events/244464881/) (Indianapolis)
 * 02/21 -- Nody.Indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/245130627/) (Indianapolis)
