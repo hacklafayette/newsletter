@@ -22,6 +22,8 @@ Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/great
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 
 ## Member news:
+* Jazmin Berlanga Medina is now a certified Software Carpentry/Data Carpentry instructor! If your group is interested in having a Software Carpentry or Data Carpentry workshop, see https://software-carpentry.org/,  http://www.datacarpentry.org/, or contact Jazmin via Meetup for more information.  If you are an individual who is interested in becoming an SW/DC instructor, or just curious about the process, contact Jazmin.
+
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
