@@ -2,18 +2,24 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
-Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
+[CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo) Greater Lafayette, sponsor of [CoderDojo Strike](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo) and [CoderDojo Imagine](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo1), is looking for volunteers!
+* Ninja Master Leads will lead kids ages 7-17 in coding, robotics, and other tech-related activities.  Previous coding experience recommended.  Time committment is 4-8 hours a month (around 4 per club meeting--you can help with one or more dojos)
+* Ninja Master Assistants help Ninja Masters Leads.  No previous coding experience necessary. 
+No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
 * 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
 * 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
+* 02/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
 * 02/20 -- IndyAWS [Setting up a Dockerized Web App](https://www.meetup.com/IndyAWS/events/245836033/) (Indianapolis)
 * 02/20 -- AgileIndy [Accidental Agile Bullies](https://www.meetup.com/agileindy/events/244464881/) (Indianapolis)
 * 02/21 -- Nody.Indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/245130627/) (Indianapolis)
 * 02/24 -- [T-6.6](https://www.meetup.com/tminus/events/247395867/) (Lafayette)
 * 02/26 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/246295914/) (Carmel)
+* 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
+* 03/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 
 ## Open CfPs:
