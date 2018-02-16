@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-02-16
+# HackLafayette newsletter -- 2018-02-23
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,9 +12,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 
 ## Upcoming nearby events:
-* 02/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
-* 02/20 -- IndyAWS [Setting up a Dockerized Web App](https://www.meetup.com/IndyAWS/events/245836033/) (Indianapolis)
-* 02/20 -- AgileIndy [Accidental Agile Bullies](https://www.meetup.com/agileindy/events/244464881/) (Indianapolis)
 * 02/21 -- Nody.Indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/245130627/) (Indianapolis)
 * 02/24 -- [T-6.6](https://www.meetup.com/tminus/events/247395867/) (Lafayette)
 * 02/26 -- Indy DevOps [Monthly Meeting](https://www.meetup.com/IndyDevOps/events/246295914/) (Carmel)
@@ -23,7 +20,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 
 ## Open CfPs:
-* [GLSEC 2018](https://docs.google.com/forms/d/e/1FAIpQLSfa7S_fpEKjgNd3vhQ0r7-7JAN5v-lP2PBl1RRUN9-WyjUTZQ/viewform) (Grand Rapids, MI) -- closes 02/16
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 
