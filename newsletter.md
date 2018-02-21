@@ -22,6 +22,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 ## Open CfPs:
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
+* [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) -- closes 04/24
 
 ## Member news:
 * Jazmin Berlanga Medina is now a certified Software Carpentry/Data Carpentry instructor! If your group is interested in having a Software Carpentry or Data Carpentry workshop, see https://software-carpentry.org/,  http://www.datacarpentry.org/, or contact Jazmin via Meetup for more information.  If you are an individual who is interested in becoming an SW/DC instructor, or just curious about the process, contact Jazmin.
