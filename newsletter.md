@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-02-23
+# HackLafayette newsletter -- 2018-03-02
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,20 +8,12 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
-* 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
 * 03/14 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyxfbsb/)
 * 03/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxfbsb/)
 * 03/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxfbhc/)
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 02/21 -- Nody.Indy [Learn about Node.js and its Awesomeness](https://www.meetup.com/Node-indy/events/245130627/) (Indianapolis)
-* 02/24 -- [T-6.6](https://www.meetup.com/tminus/events/247395867/) (Lafayette)
-* 02/26 -- Indy DevOps [Containerized Serverless Webapps w/ AWS Fargate](https://www.meetup.com/IndyDevOps/events/246295914/) (Carmel)
-* 02/27 -- Ember.js Indianapolis [Learn how to FastBoot](https://www.meetup.com/Ember-js-Indianapolis/events/247163349/) (Indianapolis)
-* 02/27 -- [Docker Indianapolis](https://www.meetup.com/Docker-Indianapolis/events/247396241/) (Indianapolis)
-* 02/28 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/246926715/) (Indianapolis)
 * 03/05 -- IndyAWS [All Welcome Social](https://www.meetup.com/IndyAWS/events/246940616/) (Indianapolis)
 * 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
 * 03/13 -- IndyPy [Manipulating CSV Files, Confront Your Fears, Amazon Echo/Flask Ask Lib](https://www.meetup.com/indypy/events/246943122/) (Indianapolis)
