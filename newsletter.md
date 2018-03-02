@@ -15,10 +15,13 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Upcoming nearby events:
 * 03/05 -- IndyAWS [All Welcome Social](https://www.meetup.com/IndyAWS/events/246940616/) (Indianapolis)
+* 03/09-10 -- [BSides Indy](http://bsidesindy.org/) (Indianapolis)
 * 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
+* 03/12 -- Indy Hackers and Lessonly [movie screening of "CODE: Deubgging the Gender Gap"](https://www.eventbrite.com/e/movie-screening-of-code-debugging-the-gender-gap-with-lessonly-and-indy-hackers-tickets-43438686280) (Indianapolis)
 * 03/13 -- IndyPy [Manipulating CSV Files, Confront Your Fears, Amazon Echo/Flask Ask Lib](https://www.meetup.com/indypy/events/246943122/) (Indianapolis)
 * 03/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
+* 04/20 -- AT&T [IoT Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-41343804432#tickets) (Fishers)
 
 ## Open CfPs:
 * [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
