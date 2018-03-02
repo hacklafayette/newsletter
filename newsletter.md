@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-03-02
+# HackLafayette newsletter -- 2018-03-09
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -14,7 +14,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 03/05 -- IndyAWS [All Welcome Social](https://www.meetup.com/IndyAWS/events/246940616/) (Indianapolis)
 * 03/09-10 -- [BSides Indy](http://bsidesindy.org/) (Indianapolis)
 * 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
 * 03/12 -- Indy Hackers and Lessonly [movie screening of "CODE: Deubgging the Gender Gap"](https://www.eventbrite.com/e/movie-screening-of-code-debugging-the-gender-gap-with-lessonly-and-indy-hackers-tickets-43438686280) (Indianapolis)
@@ -24,7 +23,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 04/20 -- AT&T [IoT Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-41343804432#tickets) (Fishers)
 
 ## Open CfPs:
-* [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) -- closes 04/24
 
