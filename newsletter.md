@@ -25,6 +25,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 ## Open CfPs:
 * [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) -- closes 04/24
+* [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
 
 ## Member news:
