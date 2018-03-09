@@ -18,7 +18,12 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
 * 03/12 -- Indy Hackers and Lessonly [movie screening of "CODE: Deubgging the Gender Gap"](https://www.eventbrite.com/e/movie-screening-of-code-debugging-the-gender-gap-with-lessonly-and-indy-hackers-tickets-43438686280) (Indianapolis)
 * 03/13 -- IndyPy [Manipulating CSV Files, Confront Your Fears, Amazon Echo/Flask Ask Lib](https://www.meetup.com/indypy/events/246943122/) (Indianapolis)
+* 03/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/246890435/) (Indianapolis)
+* 03/14 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/247468975/) (Indianapolis)
 * 03/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
+* 03/20 -- IndyAWS: [Cloud Wars](https://www.meetup.com/IndyAWS/events/245836034/) (Indianapolis)
+* 03/20 -- AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/247508606/) (Indianapolis)
+* 03/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/246920793/) (Indianapolis)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/20 -- AT&T [IoT Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-41343804432#tickets) (Fishers)
 
