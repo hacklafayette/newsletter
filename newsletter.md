@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-03-09
+# HackLafayette newsletter -- 2018-03-16
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,18 +8,10 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 03/14 -- [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/248506092/) - Care and Feeding of your User Group *(First Pass)*
-* 03/14 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxfbsb/)
 * 03/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxfbhc/)
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 03/09-10 -- [BSides Indy](http://bsidesindy.org/) (Indianapolis)
-* 03/10 -- CoderDojo [Strike](https://www.eventbrite.com/e/coderdojo-strike-tickets-27123344654) (Lafayette)
-* 03/12 -- Indy Hackers and Lessonly [movie screening of "CODE: Deubgging the Gender Gap"](https://www.eventbrite.com/e/movie-screening-of-code-debugging-the-gender-gap-with-lessonly-and-indy-hackers-tickets-43438686280) (Indianapolis)
-* 03/13 -- IndyPy [Manipulating CSV Files, Confront Your Fears, Amazon Echo/Flask Ask Lib](https://www.meetup.com/indypy/events/246943122/) (Indianapolis)
-* 03/14 -- indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/246890435/) (Indianapolis)
-* 03/14 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/247468975/) (Indianapolis)
 * 03/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
 * 03/20 -- IndyAWS: [Cloud Wars](https://www.meetup.com/IndyAWS/events/245836034/) (Indianapolis)
 * 03/20 -- AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/247508606/) (Indianapolis)
