@@ -1,4 +1,6 @@
-# HackLafayette newsletter -- 2018-03-16
+# HackLafayette newsletter -- 2018-03-23
+
+**Programming note: There will be no newsletter on March 30**
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,8 +14,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 03/16 -- CoderDojo [Imagine](https://www.eventbrite.com/e/coderdojo-imagine-tickets-41828554332?aff=eac2) (Lafayette)
-* 03/20 -- IndyAWS: [Cloud Wars](https://www.meetup.com/IndyAWS/events/245836034/) (Indianapolis)
 * 03/20 -- AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/247508606/) (Indianapolis)
 * 03/21 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/246920793/) (Indianapolis)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
@@ -26,8 +26,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
 
 ## Member news:
-* Jazmin Berlanga Medina is now a certified Software Carpentry/Data Carpentry instructor! If your group is interested in having a Software Carpentry or Data Carpentry workshop, see https://software-carpentry.org/,  http://www.datacarpentry.org/, or contact Jazmin via Meetup for more information.  If you are an individual who is interested in becoming an SW/DC instructor, or just curious about the process, contact Jazmin.
-
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
