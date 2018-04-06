@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-04-06
+# HackLafayette newsletter -- 2018-04-13
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,16 +8,10 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 04/11 -- Perl Mongers [TBA](https://www.meetup.com/hacklafayette/events/248905928/)
-* 04/11 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/249463542/)
 * 04/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxgbdc/)
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 04/10 -- IndyPy: [GIS in Indiana](https://www.meetup.com/indypy/events/246943166/) (Indianapolis)
-* 04/11 -- AgileIndy [How to Build a Limitless Team By Choice w/Jessica Soroky](https://www.meetup.com/agileindy/events/247753869/) (Indianapolis)
-* 04/11 -- DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/249451180/) (Indianapolis)
-* 04/12 -- Indianapolis Java User Group [Getting out of technical debt & cloud native Java, part deux](https://www.meetup.com/Indianapolis-Java-User-Group/events/248184994/) (Indianapolis)
 * 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
 * 04/17 -- IndyAWS: [Learn how to Learn AWS](https://www.meetup.com/IndyAWS/events/245836038/) (Indianapolis)
 * 04/18 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/248268198/) (Indianapolis)
@@ -28,7 +22,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
 
 ## Open CfPs:
-* [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) -- closes 04/24
 * [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
