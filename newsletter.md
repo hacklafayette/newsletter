@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-04-13
+# HackLafayette newsletter -- 2018-04-20
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,16 +12,13 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 
 ## Upcoming nearby events:
-* 04/16-18 -- [Indy.Code()](https://indycode.amegala.com/)
-* 04/17 -- IndyAWS: [Learn how to Learn AWS](https://www.meetup.com/IndyAWS/events/245836038/) (Indianapolis)
-* 04/18 -- indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/248268198/) (Indianapolis)
-* 04/19 -- T-6.6 [April 2018](https://www.meetup.com/tminus/events/247753746/) (Lafayette)
 * 04/20 -- AT&T [IoT Civic Hackathon](https://www.eventbrite.com/e/att-iot-civic-hackathon-indianapolis-tickets-41343804432#tickets) (Fishers)
 * 04/29 -- Code Cafe and IndyPy [Movie & Meetup: The Internet's Own Boy: the Story of Aaron Swartz](https://www.meetup.com/join-code-cafe/events/248926136/) (Indianapolis)
 * 05/05 -- Indy Mechanical Keyboard [Meetup](https://www.meetup.com/join-code-cafe/events/248926136/) (Indianapolis)
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
 
 ## Open CfPs:
+
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) -- closes 04/24
 * [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
