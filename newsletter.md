@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-04-27
+# HackLafayette newsletter -- 2018-05-04
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -14,8 +14,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/)
 
 ## Upcoming nearby events:
-* 04/28 -- [Introduction to GitHub](https://www.meetup.com/join-code-cafe/events/248835463/) (Indianapolis)
-* 04/29 -- Code Cafe and IndyPy [Movie & Meetup: The Internet's Own Boy: the Story of Aaron Swartz](https://www.meetup.com/join-code-cafe/events/248926136/) (Indianapolis)
 * 05/05 -- Indy Mechanical Keyboard [Meetup](https://www.meetup.com/join-code-cafe/events/248926136/) (Indianapolis)
 * 05/08 -- IndyPy [Patenting and Property Based Testing](https://www.meetup.com/indypy/events/247757596/) (Indianapolis)
 * 05/12 -- [CoderDojo STRIKE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
