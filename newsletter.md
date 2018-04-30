@@ -26,11 +26,13 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/24 -- Indy Azure User Group [Monthly meeting](https://www.meetup.com/Indy-Azure-User-Group/events/250191847/) (Indianapolis)
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
+* 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
 
 * [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
+* [SeleniumConf](https://www.papercall.io/seleniumconfchicago) (Chicago,, IL) -- closes 05/25
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
 
