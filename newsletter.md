@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-05-04
+# HackLafayette newsletter -- 2018-05-11
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,14 +8,10 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 05/09 -- [Perl Mongers](https://www.meetup.com/hacklafayette/events/249849200/)
-* 05/09 -- [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/249845880/)
 * 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
 * 05/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/)
 
 ## Upcoming nearby events:
-* 05/05 -- Indy Mechanical Keyboard [Meetup](https://www.meetup.com/join-code-cafe/events/248926136/) (Indianapolis)
-* 05/08 -- IndyPy [Patenting and Property Based Testing](https://www.meetup.com/indypy/events/247757596/) (Indianapolis)
 * 05/12 -- [CoderDojo STRIKE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
 * 05/15 -- IndyAWS [Serverless container-based web applications on AWS Fargate](https://www.meetup.com/IndyAWS/events/247745453/) (Indianapolis)
 * 05/16 -- indy.js [Monthly meeting](https://www.meetup.com/indyjs/events/249929264/) (Indianapolis)
