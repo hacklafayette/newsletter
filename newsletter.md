@@ -1,30 +1,39 @@
-# HackLafayette newsletter -- 2018-02-02
+# HackLafayette newsletter -- 2018-05-11
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
-Help support Lafayette [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo), a computer club for K-12 students by [donating](https://www.generosity.com/education-fundraising/be-a-bit-in-our-byte) or volunteering.
+[CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo) Greater Lafayette, sponsor of [CoderDojo Strike](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo) and [CoderDojo Imagine](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo1), is looking for volunteers!
+* Ninja Master Leads will lead kids ages 7-17 in coding, robotics, and other tech-related activities.  Previous coding experience recommended.  Time committment is 4-8 hours a month (around 4 per club meeting--you can help with one or more dojos)
+* Ninja Master Assistants help Ninja Masters Leads.  No previous coding experience necessary. 
+No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 02/14 -- Perl Mongers and Food & Chat will be cancelled due to Valentine's Day. See you in March.
-* 02/24 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/245535886/)
-* 02/25 -- [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxdbhc/)
+* 05/19 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/248009377/)
+* 05/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/)
 
 ## Upcoming nearby events:
-* 02/02 -- IndyPy [Pythology One-Day Conference: Python Security Best Practices](https://www.meetup.com/indypy/events/243985616/) (Indianapolis)
-* 02/05 -- Indy Scala [Stainless verification framework](https://www.meetup.com/IndyScala/events/245991732/) (Indianapolis)
-* 02/05 -- Indy Bitcoin [Discuss Bitcoin!](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
-* 02/07 -- CINLUG [Monthly Meeting](https://www.meetup.com/IndyBitcoin/events/246299577/) (Indianapolis)
-* 02/13 -- IndyPy [Meetup](https://www.meetup.com/indypy/events/245244442/) (Indianapolis)
-
+* 05/12 -- [CoderDojo STRIKE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
+* 05/15 -- IndyAWS [Serverless container-based web applications on AWS Fargate](https://www.meetup.com/IndyAWS/events/247745453/) (Indianapolis)
+* 05/16 -- indy.js [Monthly meeting](https://www.meetup.com/indyjs/events/249929264/) (Indianapolis)
+* 05/17 -- Indy SaaS [Monthly meetup](https://www.meetup.com/Indy-SaaS-Meetup/events/250078617/) (Indianapolis)
+* 05/18 -- [CoderDojo IMAGINE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
+* 05/21 -- IndyDevOps [AWS IAM Access and Elevation](https://www.meetup.com/IndyDevOps/events/247735109/) (Carmel)
+* 05/22 -- Indy Tech Talks [UX Fundamentals for Developers](https://www.meetup.com/indy-tech-talks/events/250110133/) (Indianapolis)
+* 05/24 -- Indy Azure User Group [Monthly meeting](https://www.meetup.com/Indy-Azure-User-Group/events/250191847/) (Indianapolis)
+* 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
+* 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
+* 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
-* [DevOps Days Indy](https://www.papercall.io/devopsdaysindy) (Indianapolis, IN) -- closes 03/02
-* [DevOps Days Minneapolis](https://www.devopsdays.org/events/2018-minneapolis/propose/) (Minneapolis, MN) -- closes 04/08
+
+* [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
+* [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
+* [SeleniumConf](https://www.papercall.io/seleniumconfchicago) (Chicago,, IL) -- closes 05/25
+* [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
+* [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-
-* Ben Cotton has some [free tech books](https://www.meetup.com/hacklafayette/messages/boards/thread/51356503#131035916) to give away.
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
