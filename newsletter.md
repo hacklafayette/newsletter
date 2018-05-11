@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-05-11
+# HackLafayette newsletter -- 2018-05-18
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,11 +12,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/)
 
 ## Upcoming nearby events:
-* 05/12 -- [CoderDojo STRIKE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
-* 05/15 -- IndyAWS [Serverless container-based web applications on AWS Fargate](https://www.meetup.com/IndyAWS/events/247745453/) (Indianapolis)
-* 05/16 -- indy.js [Monthly meeting](https://www.meetup.com/indyjs/events/249929264/) (Indianapolis)
-* 05/17 -- Indy SaaS [Monthly meetup](https://www.meetup.com/Indy-SaaS-Meetup/events/250078617/) (Indianapolis)
-* 05/18 -- [CoderDojo IMAGINE](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/) (Lafayette)
+* 05/18 -- [CoderDojo IMAGINE](https://www.meetup.com/tminus/events/247753788/) (Lafayette)
 * 05/19 -- Code Cafe [Intro to Algorithms - Sorting](https://www.meetup.com/join-code-cafe/events/250075691/) (Indianapolis)
 * 05/21 -- IndyDevOps [AWS IAM Access and Elevation](https://www.meetup.com/IndyDevOps/events/247735109/) (Carmel)
 * 05/22 -- Indy Tech Talks [UX Fundamentals for Developers](https://www.meetup.com/indy-tech-talks/events/250110133/) (Indianapolis)
@@ -28,7 +24,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Open CfPs:
 
-* [PyOhio](https://www.pyohio.org/2018/program/call-for-proposals) (Columbus, OH) -- closes 05/15
 * [LISA](https://www.usenix.org/conference/lisa18/call-for-participation) (Nashville, TN) -- closes 05/24
 * [SeleniumConf](https://www.papercall.io/seleniumconfchicago) (Chicago,, IL) -- closes 05/25
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
