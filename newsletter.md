@@ -16,6 +16,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 05/19 -- Code Cafe [Intro to Algorithms - Sorting](https://www.meetup.com/join-code-cafe/events/250075691/) (Indianapolis)
 * 05/21 -- IndyDevOps [AWS IAM Access and Elevation](https://www.meetup.com/IndyDevOps/events/247735109/) (Carmel)
 * 05/22 -- Indy Tech Talks [UX Fundamentals for Developers](https://www.meetup.com/indy-tech-talks/events/250110133/) (Indianapolis)
+* 05/23 -- Atlassian User Group [Meeting](https://aug.atlassian.com/events/details/atlassian-lafayette-presents-back-in-the-saddle-aug-meeting) (Lafayette)
 * 05/24 -- Indy Azure User Group [Big Data & Analytics on Azure](https://www.meetup.com/Indy-Azure-User-Group/events/250191847/) (Indianapolis)
 * 05/24 -- T-6.6 [May 2018](https://www.meetup.com/tminus/events/247753788/) (Lafayette)
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
