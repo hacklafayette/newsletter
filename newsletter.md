@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-05-25
+# HackLafayette newsletter -- 2018-06-01
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,7 +8,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 05/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxhbkc/)
 
 ## Upcoming nearby events:
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
@@ -17,7 +16,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Open CfPs:
 
-* [SeleniumConf](https://www.papercall.io/seleniumconfchicago) (Chicago,, IL) -- closes 05/25
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
 
