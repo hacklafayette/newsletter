@@ -10,6 +10,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 ## Upcoming HackLafayette events:
 
 ## Upcoming nearby events:
+* 06/12 -- Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/249830260/) (Lebanon)
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
