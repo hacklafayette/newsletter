@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-06-01
+# HackLafayette newsletter -- 2018-06-08
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -15,8 +15,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 
 ## Upcoming nearby events:
-* 06/06 — CINLUG [Meeting](https://www.meetup.com/CINLUG/events/250198237/) (Indianapolis)
-* 06/06 — Indy .NET Consortium [Understanding and Implementing Async Development in .NET](https://www.meetup.com/Indy-NET-Consortium/events/250287876/) (Indianapolis)
 * 06/12 -- Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/249830260/) (Lebanon)
 * 06/12 — IndyPy [Python decorators, continuous learning, and CherryPy](https://www.meetup.com/indypy/events/247814395/) (Indianapolis)
 * 06/18 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/247735152/) (Carmel)
@@ -34,7 +32,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Open CfPs:
 
-* [DjangoCon](https://www.papercall.io/djangocon-us-2018) (San Diego, CA) -- closes 06/04
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
 * [Twilio presents SIGNAL 2018](https://www.papercall.io/twilio-signal) (San Francisco, CA) -- closes 06/25
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
