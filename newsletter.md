@@ -8,17 +8,37 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
+* 06/13 — Perl Mongers [Show and Tell](https://www.meetup.com/hacklafayette/events/250943889/)
+* 06/13 — [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/250943890/)
+* 06/24 — [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxjbgc/)
+* 08/04 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/250786771/)
+
 
 ## Upcoming nearby events:
+* 06/06 — CINLUG [Meeting](https://www.meetup.com/CINLUG/events/250198237/) (Indianapolis)
+* 06/06 — Indy .NET Consortium [Understanding and Implementing Async Development in .NET](https://www.meetup.com/Indy-NET-Consortium/events/250287876/) (Indianapolis)
 * 06/12 -- Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/249830260/) (Lebanon)
+* 06/12 — IndyPy [Python decorators, continuous learning, and CherryPy](https://www.meetup.com/indypy/events/247814395/) (Indianapolis)
+* 06/18 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/247735152/) (Carmel)
+* 06/19 — IndyAWS: [Alexa and the future of user interactions](https://www.meetup.com/IndyAWS/events/248101814/) (Indianapolis)
+* 06/20 — indy.js [meeting](https://www.meetup.com/indyjs/events/250596151/) (Indianapolis)
+* 06/21 — T-6.6 [June 2018](https://www.meetup.com/tminus/events/247753821/) (Lafayette)
 * 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
+* 06/26 — Indy Tech Talks [Progressive web apps: not just another tech buzzword](https://www.meetup.com/indy-tech-talks/events/251023338/) (Indianapolis)
+* 06/28 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/251103288/)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
+* 08/28–29 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago) (Chicago, IL)
+* 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
+* 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
 
+* [DjangoCon](https://www.papercall.io/djangocon-us-2018) (San Diego, CA) -- closes 06/04
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
+* [Twilio presents SIGNAL 2018](https://www.papercall.io/twilio-signal) (San Francisco, CA) -- closes 06/25
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
+* [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2018) (Columbus, OH) — closes 07/18
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
