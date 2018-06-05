@@ -17,6 +17,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 ## Upcoming nearby events:
 * 06/12 -- Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/249830260/) (Lebanon)
 * 06/12 — IndyPy [Python decorators, continuous learning, and CherryPy](https://www.meetup.com/indypy/events/247814395/) (Indianapolis)
+* 06/14 — Lafayette Blockchain Tech & Crypto Space [Developing Dapps — An intro to NEO & Ethereum](https://www.meetup.com/Blockchain-Tech-Crypto-Space/events/251423222/) (Lafayette)
 * 06/18 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/247735152/) (Carmel)
 * 06/19 — IndyAWS: [Alexa and the future of user interactions](https://www.meetup.com/IndyAWS/events/248101814/) (Indianapolis)
 * 06/20 — indy.js [meeting](https://www.meetup.com/indyjs/events/250596151/) (Indianapolis)
