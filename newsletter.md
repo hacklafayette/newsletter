@@ -36,6 +36,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
 * [Twilio presents SIGNAL 2018](https://www.papercall.io/twilio-signal) (San Francisco, CA) -- closes 06/25
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
+* [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
 * [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2018) (Columbus, OH) — closes 07/18
 
 ## Member news:
