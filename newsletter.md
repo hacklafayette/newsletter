@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-06-08
+# HackLafayette newsletter -- 2018-06-15
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -8,16 +8,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 06/13 — Perl Mongers [Show and Tell](https://www.meetup.com/hacklafayette/events/250943889/)
-* 06/13 — [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/250943890/)
 * 06/24 — [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxjbgc/)
 * 08/04 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/250786771/)
 
 
 ## Upcoming nearby events:
-* 06/12 -- Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/249830260/) (Lebanon)
-* 06/12 — IndyPy [Python decorators, continuous learning, and CherryPy](https://www.meetup.com/indypy/events/247814395/) (Indianapolis)
-* 06/14 — Lafayette Blockchain Tech & Crypto Space [Developing Dapps — An intro to NEO & Ethereum](https://www.meetup.com/Blockchain-Tech-Crypto-Space/events/251423222/) (Lafayette)
 * 06/18 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/247735152/) (Carmel)
 * 06/19 — IndyAWS: [Alexa and the future of user interactions](https://www.meetup.com/IndyAWS/events/248101814/) (Indianapolis)
 * 06/20 — indy.js [meeting](https://www.meetup.com/indyjs/events/250596151/) (Indianapolis)
