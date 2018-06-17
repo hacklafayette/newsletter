@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-06-15
+# HackLafayette newsletter -- 2018-06-22
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -13,11 +13,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 
 ## Upcoming nearby events:
-* 06/18 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/247735152/) (Carmel)
-* 06/19 — IndyAWS: [Alexa and the future of user interactions](https://www.meetup.com/IndyAWS/events/248101814/) (Indianapolis)
-* 06/20 — indy.js [meeting](https://www.meetup.com/indyjs/events/250596151/) (Indianapolis)
-* 06/21 — T-6.6 [June 2018](https://www.meetup.com/tminus/events/247753821/) (Lafayette)
-* 06/22 -- [Python on the Blockchain](https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159) (Fishers)
 * 06/26 — Indy Tech Talks [Progressive web apps: not just another tech buzzword](https://www.meetup.com/indy-tech-talks/events/251023338/) (Indianapolis)
 * 06/28 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/251103288/)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
@@ -28,7 +23,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Open CfPs:
 
-* [Write the Docs](http://www.writethedocs.org/conf/cincinnati/2018/cfp/) (Cincinnati, OH) -- closes 06/18
 * [Twilio presents SIGNAL 2018](https://www.papercall.io/twilio-signal) (San Francisco, CA) -- closes 06/25
 * [Python on the Blockchain](https://docs.google.com/forms/d/e/1FAIpQLScAt3TXMpNbhbvfLX166_7a06KpD7zUrKlQDnCU5IVjCWJ9iA/viewform) (Fishers, IN) -- closes NLT 6/22
 * [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
