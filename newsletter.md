@@ -26,6 +26,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * [GraphConnect 2018](https://www.papercall.io/graphconnect2018) (New York, NY) – closes 07/02
 * [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2018) (Columbus, OH) — closes 07/18
 * [phpworld](https://www.papercall.io/phpworld2018) (Washington, D.C.) – closes 07/22
+* [Libre Application Summit](https://las.gnome.org/conferences/LAS) (Denver, CO) – closes 07/27
 * [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
 
 ## Member news:
