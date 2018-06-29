@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-06-29
+# HackLafayette newsletter -- 2018-07-06
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -22,8 +22,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
-
-* [GraphConnect 2018](https://www.papercall.io/graphconnect2018) (New York, NY) – closes 07/02
 * [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2018) (Columbus, OH) — closes 07/18
 * [phpworld](https://www.papercall.io/phpworld2018) (Washington, D.C.) – closes 07/22
 * [Libre Application Summit](https://las.gnome.org/conferences/LAS) (Denver, CO) – closes 07/27
@@ -31,7 +29,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-* Ben Cotton joined Red Hat as Fedora Program Manager
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
