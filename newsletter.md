@@ -31,6 +31,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
+* Ben Cotton joined Red Hat as Fedora Program Manager
 
 ## Jobs:
 * IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
