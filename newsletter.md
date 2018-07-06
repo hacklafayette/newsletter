@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-07-06
+# HackLafayette newsletter -- 2018-07-13
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,17 +10,11 @@ We still need speakers for the August 4th [Thunder Talks](https://www.meetup.com
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 07/11 – [Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyxkbpb/)
-* 07/11 – [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxkbpb/)
 * 07/22 – [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxkbdc/)
 * 08/04 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/250786771/)
 
 
 ## Upcoming nearby events:
-* 07/10 – IndyPy [Fix a broken virtualenv and testing in data science](https://www.meetup.com/indypy/events/248715476/) (Indianapolis)
-* 07/11 – indy.rb [Meetup](https://www.meetup.com/indyrb/events/251754014/) (Indianapolis)
-* 07/11 – Data Science Indy [Meetup](https://www.meetup.com/dsindy/events/251771353/) (Indianapolis)
-* 07/12 – Automation Testers of Indianapolis [Introduction to automation testing](https://www.meetup.com/Automation-Testers-of-Indianapolis/events/252370773/) (Indianapolis)
 * 07/13 – Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/250654660/) (Indianapolis)
 * 07/17 – IndyAWS [Log taming with Amazon S3, Glue, Athena, and QuickSight](https://www.meetup.com/IndyAWS/events/248771984/) (Indianapolis)
 * 07/17 – AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/249665175/) (Indianapolis)
