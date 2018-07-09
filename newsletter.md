@@ -35,6 +35,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * [phpworld](https://www.papercall.io/phpworld2018) (Washington, D.C.) – closes 07/22
 * [Libre Application Summit](https://las.gnome.org/conferences/LAS) (Denver, CO) – closes 07/27
 * [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
+* [North Bay Python](http://northbaypython.org/cfp) (Petaluma, CA) — closes 08/10
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
