@@ -12,6 +12,8 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 ## Upcoming HackLafayette events:
 * 07/22 – [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxkbdc/)
 * 08/04 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/250786771/)
+* 08/08 – [Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyxlblb/)
+* 08/08 – [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxlblb/)
 
 
 ## Upcoming nearby events:
