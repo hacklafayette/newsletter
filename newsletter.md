@@ -1,4 +1,6 @@
-# HackLafayette newsletter -- 2018-07-13
+# HackLafayette newsletter -- 2018-07-20
+
+There will be no newsletter next week.
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -17,11 +19,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 
 
 ## Upcoming nearby events:
-* 07/13 – Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/250654660/) (Indianapolis)
-* 07/17 – IndyAWS [Log taming with Amazon S3, Glue, Athena, and QuickSight](https://www.meetup.com/IndyAWS/events/248771984/) (Indianapolis)
-* 07/17 – AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/249665175/) (Indianapolis)
-* 07/17 – Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/251699273/) (Lebanon)
-* 07/18 – indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/250971271/) (Indianapolis)
 * 07/23 – [DevOpsDays Indianapolis](https://www.meetup.com/DevOpsDays-Indianapolis/events/251207399/) (Indianapolis)
 * 07/24 – Indianapolis Monitoring/Cloud Enthusiasts [How to monitor your clouds, containers, and DevOps in real-time](https://www.meetup.com/Indianapolis-Monitoring-Cloud-Enthusiasts/events/251208415/) (Indianapolis)
 * 07/24 – Indy Tech Talks [Technology in Education](https://www.meetup.com/indy-tech-talks/events/251209859/) (Indianapolis)
@@ -33,7 +30,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
-* [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2018) (Columbus, OH) — closes 07/18
 * [phpworld](https://www.papercall.io/phpworld2018) (Washington, D.C.) – closes 07/22
 * [Libre Application Summit](https://las.gnome.org/conferences/LAS) (Denver, CO) – closes 07/27
 * [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
