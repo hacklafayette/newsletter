@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-07-20
+# HackLafayette newsletter -- 2018-08-03
 
 There will be no newsletter next week.
 
@@ -10,17 +10,12 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 07/22 – [Coffee & Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxkbdc/)
 * 08/04 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/250786771/)
 * 08/08 – [Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyxlblb/)
 * 08/08 – [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/qjsqplyxlblb/)
 
 
 ## Upcoming nearby events:
-* 07/23 – [DevOpsDays Indianapolis](https://www.meetup.com/DevOpsDays-Indianapolis/events/251207399/) (Indianapolis)
-* 07/24 – Indianapolis Monitoring/Cloud Enthusiasts [How to monitor your clouds, containers, and DevOps in real-time](https://www.meetup.com/Indianapolis-Monitoring-Cloud-Enthusiasts/events/251208415/) (Indianapolis)
-* 07/24 – Indy Tech Talks [Technology in Education](https://www.meetup.com/indy-tech-talks/events/251209859/) (Indianapolis)
-* 08/02 – T-6.6 [August 2018](https://www.meetup.com/tminus/events/247753889/) (Lafayette)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
 * 08/28–29 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago) (Chicago, IL)
 * 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
@@ -28,9 +23,6 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
-* [phpworld](https://www.papercall.io/phpworld2018) (Washington, D.C.) – closes 07/22
-* [Libre Application Summit](https://las.gnome.org/conferences/LAS) (Denver, CO) – closes 07/27
-* [SeaGL](http://seagl.org/news/2018/06/04/CFP-open.html) (Seattle, WA) – closes 07/29
 * [North Bay Python](http://northbaypython.org/cfp) (Petaluma, CA) — closes 08/10
 
 ## Member news:
