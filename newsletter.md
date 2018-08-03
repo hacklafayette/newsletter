@@ -13,17 +13,30 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 08/04 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/250786771/) 
 * 08/08 -- [Refactoring my historical temperature plot program — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/253214220/) 
 * 08/08 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/253214991/) 
-
+* 8/26 — [Coffee & Chat](https://www.meetup.com/hacklafayette/events/253461637/)
 
 ## Upcoming nearby events:
+* 08/06 — Techniholics [Monthly Tech Mixer! Guest Speaker, Ben Jones. Adopting/Driving Agile Methodology](https://www.meetup.com/Techniholics/events/250688709/) (Indianapolis)
+* 08/14 — IndyPy [Machine Learning](https://www.meetup.com/indypy/events/248715481/) (Indianapolis)
+* 08/15 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/252228215/) (Indianapolis)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
+* 08/21 — IndyAWS [Building and testing an IoT backend with AWS and Serverless](https://www.meetup.com/IndyAWS/events/248771986/) (Indianapolis)
+* 08/21 — Agile Indy [Downtown Meetup](https://www.meetup.com/agileindy/events/249665177/) (Indianapolis)
+* 08/21 — Boone County WordPress [meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/252386430/) (Lebanon)
+* 08/22 — Pride IN Tech [Summer Mixer](https://www.meetup.com/Pride-IN-Tech/events/253306528/) (Indianapolis)
+* 08/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/252259259/) (Indianapolis)
+* 08/27 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/251896210/) (Carmel) 
 * 08/28–29 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2018-chicago) (Chicago, IL)
+* 08/28 — Indy AWS [All Welcome Social](https://www.meetup.com/IndyAWS/events/252915218/) (Indianapolis)
 * 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
 * 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
 * [North Bay Python](http://northbaypython.org/cfp) (Petaluma, CA) — closes 08/10
+* [Serverless Seattle](https://www.papercall.io/serverless-days-sea) (Seattle, WA) — closes 08/29
+* [Little Rock Tech Fest](http://www.lrtechfest.com/) (Little Rock, AR) — closes 09/01
+
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
