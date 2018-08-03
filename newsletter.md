@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-08-03
+# HackLafayette newsletter -- 2018-08-10
 
 There will be no newsletter next week.
 
@@ -10,13 +10,9 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 08/04 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/250786771/) 
-* 08/08 -- [Refactoring my historical temperature plot program — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/253214220/) 
-* 08/08 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/253214991/) 
 * 8/26 — [Coffee & Chat](https://www.meetup.com/hacklafayette/events/253461637/)
 
 ## Upcoming nearby events:
-* 08/06 — Techniholics [Monthly Tech Mixer! Guest Speaker, Ben Jones. Adopting/Driving Agile Methodology](https://www.meetup.com/Techniholics/events/250688709/) (Indianapolis)
 * 08/14 — IndyPy [Machine Learning](https://www.meetup.com/indypy/events/248715481/) (Indianapolis)
 * 08/15 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/252228215/) (Indianapolis)
 * 08/18-22 -- [Write the Docs + Open Help](http://www.writethedocs.org/conf/cincinnati/2018/) (Cincinnati, OH)
