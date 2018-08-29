@@ -8,7 +8,9 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 No previous coding experience necessary.  Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 8/26 — [Coffee & Chat](https://www.meetup.com/hacklafayette/events/253461637/)
+* 09/12 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/254211550/) 
+* 09/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/254054785/) 
+* 09/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/254211575/) 
 
 ## Upcoming nearby events:
 * 08/14 — IndyPy [Machine Learning](https://www.meetup.com/indypy/events/248715481/) (Indianapolis)
