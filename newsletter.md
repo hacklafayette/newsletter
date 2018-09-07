@@ -18,7 +18,7 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
-
+* [LibrePlanet](https://my.fsf.org/node/20/) (Boston, MA) — closes 10/26
 
 ## Member news:
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
