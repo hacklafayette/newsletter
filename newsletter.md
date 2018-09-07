@@ -13,7 +13,17 @@ No previous coding experience necessary.  Time committment is around 3-6 hours p
 * 09/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/254211575/) 
 
 ## Upcoming nearby events:
+* 09/10 — T-6.6 [September 2018](https://www.meetup.com/tminus/events/247753926/) (Lafayette)
+* 09/11 — IndyPy [La Femme Pythonista](https://www.meetup.com/indypy/events/248715509/) (Indianapolis)
+* 09/12 — indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/253339857/) (Indianapolis)
+* 09/12 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/253644541/) (Indianapolis)
+* 09/13 — Indy SaaS [Meetup](https://www.meetup.com/Indy-SaaS-Meetup/events/253790590/) (Indianapolis)
+* 09/14 — Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/253472194/) (Indianapolis)
+* 09/16 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/248771987/) (Indianapolis)
+* 09/16 — AgileIndy [When Agile Fails w/ Mitch Malloy](https://www.meetup.com/agileindy/events/249665179/) (Indianapolis)
+* 09/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/253972164/) (Lebanon)
 * 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
+* 09/25 — Indy Tech Talks [FoldingCoin: How to Cure Diseases with Your Computer](https://www.meetup.com/indy-tech-talks/events/253873221/) (Indianapolis)
 * 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
