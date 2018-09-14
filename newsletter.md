@@ -23,6 +23,9 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 * 09/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/253972164/) (Lebanon)
 * 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
 * 09/25 — Indy Tech Talks [FoldingCoin: How to Cure Diseases with Your Computer](https://www.meetup.com/indy-tech-talks/events/253873221/) (Indianapolis)
+* 09/26 — Indy DevOps [Ops Horror Stories](https://www.meetup.com/IndyDevOps/events/254067887/) (Carmel)
+* 09/26 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/252228227/) (Indianapolis)
+* 09/27 — Indy Azure User Group [Monthly Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/253765194/) (Indianapolis)
 * 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
