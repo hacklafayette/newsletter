@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-09-14
+# HackLafayette newsletter -- 2018-09-21
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -17,11 +17,6 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 
 
 ## Upcoming nearby events:
-* 09/14 — Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/253472194/) (Indianapolis)
-* 09/16 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/248771987/) (Indianapolis)
-* 09/16 — AgileIndy [When Agile Fails w/ Mitch Malloy](https://www.meetup.com/agileindy/events/249665179/) (Indianapolis)
-* 09/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/253972164/) (Lebanon)
-* 09/19–20 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2018-columbus) (Columbus, OH)
 * 09/25 — Indy Tech Talks [FoldingCoin: How to Cure Diseases with Your Computer](https://www.meetup.com/indy-tech-talks/events/253873221/) (Indianapolis)
 * 09/26 — Indy DevOps [Ops Horror Stories](https://www.meetup.com/IndyDevOps/events/254067887/) (Carmel)
 * 09/26 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/252228227/) (Indianapolis)
