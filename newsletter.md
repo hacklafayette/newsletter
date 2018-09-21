@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-09-21
+# HackLafayette newsletter -- 2018-09-28
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,16 +11,11 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 09/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/254211575/) 
 * 10/10 -- [Making an Electron Application — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/254651782/) 
 * 10/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/254652000/) 
 
 
 ## Upcoming nearby events:
-* 09/25 — Indy Tech Talks [FoldingCoin: How to Cure Diseases with Your Computer](https://www.meetup.com/indy-tech-talks/events/253873221/) (Indianapolis)
-* 09/26 — Indy DevOps [Ops Horror Stories](https://www.meetup.com/IndyDevOps/events/254067887/) (Carmel)
-* 09/26 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/252228227/) (Indianapolis)
-* 09/27 — Indy Azure User Group [Monthly Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/253765194/) (Indianapolis)
 * 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
