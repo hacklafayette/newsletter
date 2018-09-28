@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-09-28
+# HackLafayette newsletter -- 2018-10-05
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -18,7 +18,6 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
-* 10/04–05 — [DogFoodCon](http://www.dogfoodcon.com/) (Columbus, OH)
 * 10/09 — IndyPy Meetup: [OktoberPy](https://www.meetup.com/indypy/events/248715488/) (Indianapolis)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
