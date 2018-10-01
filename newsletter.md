@@ -14,11 +14,13 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 * 10/10 -- [Making an Electron Application — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/254651782/) 
 * 10/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/254652000/) 
 * 10/28 — [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxnblc/)
+* 11/14 -- [Perl on the Raspberry Pi — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/255069972/) 
 * 11/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/253414559/)
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
 * 10/09 — IndyPy Meetup: [OktoberPy](https://www.meetup.com/indypy/events/248715488/) (Indianapolis)
+* 10/10 - ITaP Cybersecurity Month: [Communications + Code: Building Cybersecurity Strategies for Humans and Machines](https://www.itap.purdue.edu/newsroom/180928-Cybersecurity-Speaker-Oct-11.html) with [Jessy Irwin](https://twitter.com/jessysaurusrex) (Purdue)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 
 ## Open CfPs:
