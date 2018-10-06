@@ -1,4 +1,4 @@
-# HackLafayette newsletter -- 2018-10-05
+# HackLafayette newsletter — 2018-10-12
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,17 +11,15 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 10/10 -- [Making an Electron Application — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/254651782/) 
-* 10/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/254652000/) 
 * 10/28 — [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxnblc/)
-* 11/14 -- [Perl on the Raspberry Pi — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/255069972/) 
+* 11/14 — [Perl on the Raspberry Pi — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/255069972/) 
 * 11/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/253414559/)
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
-* 10/09 — IndyPy Meetup: [OktoberPy](https://www.meetup.com/indypy/events/248715488/) (Indianapolis)
-* 10/10 - ITaP Cybersecurity Month: [Communications + Code: Building Cybersecurity Strategies for Humans and Machines](https://www.itap.purdue.edu/newsroom/180928-Cybersecurity-Speaker-Oct-11.html) with [Jessy Irwin](https://twitter.com/jessysaurusrex) (Purdue)
+* 10/12–13 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
 * 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
+* 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
 * [LibrePlanet](https://my.fsf.org/node/20/) (Boston, MA) — closes 10/26
