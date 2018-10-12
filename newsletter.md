@@ -18,10 +18,10 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
 * 10/09 — IndyPy Meetup: [OktoberPy](https://www.meetup.com/indypy/events/248715488/) (Indianapolis)
-* 10/10 - ITaP Cybersecurity Month: [Communications + Code: Building Cybersecurity Strategies for Humans and Machines](https://www.itap.purdue.edu/newsroom/180928-Cybersecurity-Speaker-Oct-11.html) with [Jessy Irwin](https://twitter.com/jessysaurusrex) (Purdue)
+* 10/10 — ITaP Cybersecurity Month: [Communications + Code: Building Cybersecurity Strategies for Humans and Machines](https://www.itap.purdue.edu/newsroom/180928-Cybersecurity-Speaker-Oct-11.html) with [Jessy Irwin](https://twitter.com/jessysaurusrex) (Purdue)
 * 10/12–13 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
-* 10/15 -- Purdue Women in HPC(WHPC): [Techie Women Legacies: It’s Not Just the Future that’s Female](https://www.eventbrite.com/e/purdue-whpc-october-meeting-tickets-50387801270)
-* 10/18-19 -- [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
+* 10/15 — Purdue Women in HPC(WHPC): [Techie Women Legacies: It’s Not Just the Future that’s Female](https://www.eventbrite.com/e/purdue-whpc-october-meeting-tickets-50387801270)
+* 10/18-19 — [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 * 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
