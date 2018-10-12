@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-10-12
+# HackLafayette newsletter — 2018-10-19
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -17,16 +17,6 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
-* 10/09 — IndyPy Meetup: [OktoberPy](https://www.meetup.com/indypy/events/248715488/) (Indianapolis)
-* 10/10 — ITaP Cybersecurity Month: [Communications + Code: Building Cybersecurity Strategies for Humans and Machines](https://www.itap.purdue.edu/newsroom/180928-Cybersecurity-Speaker-Oct-11.html) with [Jessy Irwin](https://twitter.com/jessysaurusrex) (Purdue)
-* 10/12–13 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
-* 10/15 — Purdue Women in HPC(WHPC): [Techie Women Legacies: It’s Not Just the Future that’s Female](https://www.eventbrite.com/e/purdue-whpc-october-meeting-tickets-50387801270)
-* 10/15 — Vue.js Indy [Learn about Vue.js](https://www.meetup.com/vuejsindy/events/249029627/) (Indianapolis)
-* 10/16 — IndyAWS [Security in the Cloud](https://www.meetup.com/IndyAWS/events/sjrtmpyxnbvb/) (Indianapolis)
-* 10/16 — AgileIndy [Downtown Meetup](https://www.meetup.com/agileindy/events/fvtjcqyxnbvb/) (Indianapolis)
-* 10/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxnbvb/) (Lebanon)
-* 10/17 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxnbwb/) (Indianapolis)
-* 10/18-19 — [SeleniumConf](https://www.seleniumconf.us/) (Chicago, IL)
 * 10/24 — [Indy DevOps](https://www.meetup.com/IndyDevOps/events/jwvfcqyxnbpc/) (Carmel)
 * 10/25 — Indy Azure User Group [Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyxnbhc/) (Indianapolis)
 * 11/01 — [T-6.6](https://www.meetup.com/tminus/events/qrrjgpyxpbmc/) (Lafayette)
