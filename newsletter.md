@@ -17,9 +17,14 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
-* 10/24 — [Indy DevOps](https://www.meetup.com/IndyDevOps/events/jwvfcqyxnbpc/) (Carmel)
+* 10/24 — Indy DevOps [Four topics for the price of one](https://www.meetup.com/IndyDevOps/events/jwvfcqyxnbpc/) (Carmel)
 * 10/25 — Indy Azure User Group [Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyxnbhc/) (Indianapolis)
 * 11/01 — [T-6.6](https://www.meetup.com/tminus/events/qrrjgpyxpbmc/) (Lafayette)
+* 11/13 — IndyPy [Mo-Py Meetup](https://www.meetup.com/indypy/events/jpkgppyxpbrb/) (Indianapolis)
+* 11/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyxpbsb/) (Indianapolis)
+* 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
+* 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
+* 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
 * 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
