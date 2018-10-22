@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-10-19
+# HackLafayette newsletter — 2018-10-26
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -29,6 +29,7 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 
 ## Open CfPs:
 * [LibrePlanet](https://my.fsf.org/node/20/) (Boston, MA) — closes 10/26
+* [SysAdvent](https://docs.google.com/forms/d/e/1FAIpQLScuK2S3raCKPci25oJHEpFXqLAMueKEDvQw3qqCLYiY5nKZrw/viewform) (online) — closes 11/15
 
 ## Member news:
 
