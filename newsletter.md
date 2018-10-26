@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-10-26
+# HackLafayette newsletter — 2018-11-03
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,15 +11,11 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 10/28 — [Coffee and Chat](https://www.meetup.com/hacklafayette/events/pcmxklyxnblc/)
 * 11/14 — [Perl on the Raspberry Pi — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/255069972/) 
 * 11/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/253414559/)
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
-* 10/24 — Indy DevOps [Four topics for the price of one](https://www.meetup.com/IndyDevOps/events/jwvfcqyxnbpc/) (Carmel)
-* 10/25 — Indy Azure User Group [Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyxnbhc/) (Indianapolis)
-* 11/01 — [T-6.6](https://www.meetup.com/tminus/events/qrrjgpyxpbmc/) (Lafayette)
 * 11/13 — IndyPy [Mo-Py Meetup](https://www.meetup.com/indypy/events/jpkgppyxpbrb/) (Indianapolis)
 * 11/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyxpbsb/) (Indianapolis)
 * 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
@@ -28,7 +24,6 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
 * 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
-* [LibrePlanet](https://my.fsf.org/node/20/) (Boston, MA) — closes 10/26
 * [SysAdvent](https://docs.google.com/forms/d/e/1FAIpQLScuK2S3raCKPci25oJHEpFXqLAMueKEDvQw3qqCLYiY5nKZrw/viewform) (online) — closes 11/15
 
 ## Member news:
