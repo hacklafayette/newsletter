@@ -11,7 +11,7 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 11/14 — [Perl on the Raspberry Pi — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/255069972/) 
+* 11/14 — [Perl on the Raspberry Pi](https://www.meetup.com/hacklafayette/events/255069972/) 
 * 11/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/253414559/)
 
 ## Upcoming nearby events:
