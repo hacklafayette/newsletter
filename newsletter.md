@@ -11,8 +11,10 @@ We're looking for someone to "own" the coffee meetups. Ben has a lot of schedule
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 11/14 — [Perl on the Raspberry Pi](https://www.meetup.com/hacklafayette/events/255069972/) 
-* 11/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/253414559/)
+* 11/14 -- [Perl on the Raspberry Pi](https://www.meetup.com/hacklafayette/events/vkwlfpyxpbsb/)
+* 11/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxpbsb/)
+* 11/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/253414559/)
+* 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (online)
