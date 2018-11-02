@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-11-02
+# HackLafayette newsletter — 2018-11-09
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -17,9 +17,6 @@ Know someone who deserves an award? Nominations for Indy Hackers "Hackies" Award
 * 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
 
 ## Upcoming nearby events:
-* 11/05 — Techniholics Monthly Mixer: [Preventing Software Defects](https://www.meetup.com/Techniholics/events/rcpfcqyxpbhb/) (Indianapolis)
-* 11/07 — Indy .NET Consortium: [.NET Memory Allocations and Performance](https://www.meetup.com/Indy-NET-Consortium/events/255439154/) (Fishers)
-* 11/07 — Indy.rs [meetup](https://www.meetup.com/indyrs/events/mffbtpyxpbkb/) (Indianapolis)
 * 11/09 — Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/dcnpzlyxpbmb/) (Indianapolis)
 * 11/13 — IndyPy [Mo-Py Meetup](https://www.meetup.com/indypy/events/jpkgppyxpbrb/) (Indianapolis)
 * 11/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyxpbsb/) (Indianapolis)
