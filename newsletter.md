@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-11-03
+# HackLafayette newsletter — 2018-11-02
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
