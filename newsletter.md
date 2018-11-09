@@ -1,4 +1,6 @@
-# HackLafayette newsletter — 2018-11-09
+# HackLafayette newsletter — 2018-11-16
+
+**There will be no newsletter next week**
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,22 +13,16 @@ Know someone who deserves an award? Nominations for Indy Hackers "Hackies" Award
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 11/14 -- [Perl on the Raspberry Pi](https://www.meetup.com/hacklafayette/events/vkwlfpyxpbsb/)
-* 11/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxpbsb/)
 * 11/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/253414559/)
 * 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
 
 ## Upcoming nearby events:
-* 11/09 — Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/dcnpzlyxpbmb/) (Indianapolis)
-* 11/13 — IndyPy [Mo-Py Meetup](https://www.meetup.com/indypy/events/jpkgppyxpbrb/) (Indianapolis)
-* 11/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyxpbsb/) (Indianapolis)
 * 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
 * 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
 * 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
 * 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
-* [SysAdvent](https://docs.google.com/forms/d/e/1FAIpQLScuK2S3raCKPci25oJHEpFXqLAMueKEDvQw3qqCLYiY5nKZrw/viewform) (online) — closes 11/15
 
 ## Member news:
 
