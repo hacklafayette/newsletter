@@ -13,14 +13,18 @@ Know someone who deserves an award? Nominations for Indy Hackers "Hackies" Award
   No previous coding experience necessary. Time committment is around 3-6 hours per month (around 3 per club meeting--you can help with one or more dojos). All volunteers are required to undergo a criminal background check.
 
 ## Upcoming HackLafayette events:
-* 11/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/253414559/)
-* 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
+
+- 11/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/253414559/)
+- 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
+- 12/12 -- [Lightning Talks](https://www.meetup.com/hacklafayette/events/vkwlfpyxqbqb/)
+- 12/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxqbqb/)
 
 ## Upcoming nearby events:
-* 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
-* 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
-* 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
-* 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
+
+- 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
+- 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
+- 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
+- 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 
 ## Open CfPs:
 
