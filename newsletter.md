@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-11-16
+# HackLafayette newsletter — 2018-11-30
 
 **There will be no newsletter next week**
 
@@ -12,18 +12,12 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 
-- 11/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/253414559/)
 - 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
 - 12/12 -- [Lightning Talks](https://www.meetup.com/hacklafayette/events/vkwlfpyxqbqb/)
 - 12/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxqbqb/)
 
 ## Upcoming nearby events:
 
-- 11/19 — Vue.js Indy [Learn about Vue.js](https://www.meetup.com/vuejsindy/events/249029640/) (Indianapolis)
-- 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
-- 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
-- 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
-- 11/28 — Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/jwvfcqyxpblc/) (Carmel)
 - 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
 - 12/01 — GDG Purdue [DevFest 2018](https://www.meetup.com/gdgpurdue/events/254493861/) (West Lafayette)
 - 12/17 — Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/jwvfcqyxqbgc/) (Carmel)
