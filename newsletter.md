@@ -4,8 +4,6 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
-Know someone who deserves an award? Nominations for Indy Hackers "Hackies" Awards are [open through November 12](https://www.surveymonkey.com/r/MGP7M2X).
-
 [CoderDojo](http://www.greaterlafayettecommerce.com/greater-lafayette-coder-dojo) Greater Lafayette, sponsor of [CoderDojo Strike](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo) and [CoderDojo Imagine](http://www.signupgenius.com/go/5080945aea62ea5f49-coderdojo1), is looking for volunteers!
 
 - Ninja Master Leads will lead kids ages 7-17 in coding, robotics, and other tech-related activities. Previous coding experience recommended. Time committment is 4-8 hours a month (around 4 per club meeting--you can help with one or more dojos)
@@ -21,10 +19,14 @@ Know someone who deserves an award? Nominations for Indy Hackers "Hackies" Award
 
 ## Upcoming nearby events:
 
+- 11/19 — Vue.js Indy [Learn about Vue.js](https://www.meetup.com/vuejsindy/events/249029640/) (Indianapolis)
 - 11/20 — IndyAWS [Intro to Cloudfront CDN](https://www.meetup.com/IndyAWS/events/sjrtmpyxpbbc/) (Indianapolis)
 - 11/20 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxpbbc/) (Lebanon)
 - 11/21 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyxpbcc/) (Indianapolis)
+- 11/28 — Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/jwvfcqyxpblc/) (Carmel)
 - 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
+- 12/01 — GDG Purdue [DevFest 2018](https://www.meetup.com/gdgpurdue/events/254493861/) (West Lafayette)
+- 12/17 — Indy DevOps [Meetup](https://www.meetup.com/IndyDevOps/events/jwvfcqyxqbgc/) (Carmel)
 
 ## Open CfPs:
 
