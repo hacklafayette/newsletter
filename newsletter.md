@@ -12,9 +12,12 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 
-- 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/)
-- 12/12 -- [Lightning Talks](https://www.meetup.com/hacklafayette/events/vkwlfpyxqbqb/)
-- 12/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxqbqb/)
+* 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/) 
+* 12/12 -- [Lightning Talks](https://www.meetup.com/hacklafayette/events/vkwlfpyxqbqb/) 
+* 12/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxqbqb/) 
+* 01/09 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzcbmb/) 
+* 01/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzcbmb/) 
+* 01/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzcbkc/)
 
 ## Upcoming nearby events:
 
