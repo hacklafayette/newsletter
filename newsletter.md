@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-11-30
+# HackLafayette newsletter — 2018-12-07
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,7 +10,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 
-* 12/02 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyxpbhc/) 
 * 12/12 -- [Lightning Talks](https://www.meetup.com/hacklafayette/events/vkwlfpyxqbqb/) 
 * 12/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyxqbqb/) 
 * 01/09 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzcbmb/) 
@@ -19,8 +18,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming nearby events:
 
-- 12/01 — Indy Hackers [Holiday Social](http://www.indyhackers.org/holiday-social-2018) (Fishers)
-- 12/01 — GDG Purdue [DevFest 2018](https://www.meetup.com/gdgpurdue/events/254493861/) (West Lafayette)
 - 12/12 — AgileIndy [Leveraging Agile Mindset as your Agile Foundation w/Angel Henry](https://www.meetup.com/agileindy/events/fvtjcqyxqbxb/) (Indianapolis)
 - 12/12 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyxqbqb/) (Indianapolis)
 - 12/13 — Secure Indy [InfoSec Social](https://www.meetup.com/SecureIndy/events/dcnpzlyxqbsb/) (Indianapolis)
