@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2018-12-14
+# HackLafayette newsletter — 2018-12-21
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -9,9 +9,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 01/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzcbkc/)
 
 ## Upcoming nearby events:
-
-- 12/17 — Indy DevOps [December Social](https://www.meetup.com/IndyDevOps/events/jwvfcqyxqbgc/) (Carmel)
-- 12/18 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyxqbxb/) (Lebanon)
 
 ## Open CfPs:
 
