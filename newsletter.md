@@ -11,6 +11,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Upcoming nearby events:
 
 ## Open CfPs:
+* [OSS 2019](https://conf.researchr.org/track/oss2019/oss2019-papers) (Montreal, CN) — closes 01/13
 
 ## Member news:
 
