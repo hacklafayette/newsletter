@@ -12,6 +12,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Open CfPs:
 * [OSS 2019](https://conf.researchr.org/track/oss2019/oss2019-papers) (Montreal, CN) — closes 01/13
+* [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/694) (Portland, OR) — closes 01/15
 
 ## Member news:
 
