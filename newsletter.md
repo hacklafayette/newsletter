@@ -1,6 +1,4 @@
-# HackLafayette newsletter — 2018-12-21
-
-**There will be no newsletter next week. Happy holidays!**
+# HackLafayette newsletter — 2019-01-04
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,8 +9,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 01/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzcbkc/)
 
 ## Upcoming nearby events:
-* 12/26 — Indy Big Data [Monthly Meetup](https://www.meetup.com/IndyBigData/events/lldlwlyxqbjc/) (Indianapolis)
-* 01/02 — Indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpyzcbdb/) (Indianapolis)
 * 01/08 — IndyPy [Startup Row Pitch Event](https://www.meetup.com/indypy/events/jpkgppyzcblb/) (Indianapolis)
 * 01/09 — CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/mnbffqyzcbmb/) (Indianapolis)
 * 01/09 — Indy .NET Consortium [Cleaner Code](https://www.meetup.com/Indy-NET-Consortium/events/254946056/) (Indianapolis)
