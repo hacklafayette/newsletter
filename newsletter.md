@@ -4,7 +4,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 
-* 01/09 -- [ docketsync: Tools for retrieving comments from regulations.gov](https://www.meetup.com/hacklafayette/events/vkwlfpyzcbmb/)
+* 01/09 -- [docketsync: Tools for retrieving comments from regulations.gov](https://www.meetup.com/hacklafayette/events/vkwlfpyzcbmb/)
 * 01/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzcbmb/)
 * 01/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzcbkc/)
 
@@ -21,6 +21,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Open CfPs:
 * [OSS 2019](https://conf.researchr.org/track/oss2019/oss2019-papers) (Montreal, CN) — closes 01/13
 * [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/694) (Portland, OR) — closes 01/15
+* [TPC 2019](https://www.papercall.io/tpccfp) (Pittsburgh, PA) — closes 02/28
+
 
 ## Member news:
 
