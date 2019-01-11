@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-01-11
+# HackLafayette newsletter — 2019-01-18
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -7,18 +7,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 01/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzcbkc/)
 
 ## Upcoming nearby events:
-* 01/15 — IndyAWS: [AWS IAM Access and Elevation](https://www.meetup.com/IndyAWS/events/sjrtmpyzcbtb/) (Indianapolis)
-* 01/15 — Boone County WordPress [meeting](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzcbtb/) (Lebanon)
-* 01/16 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyzcbvb/) (Indianapolis)
-* 01/16 — Indianapolis Java User Group [Rapid Development and Deployment with Docker Swarm](https://www.meetup.com/Indianapolis-Java-User-Group/events/257708910/) (Indianapolis)
-* 01/17 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257718943/) (Lafayette)
 * 01/22 — IndyPy [Bytes: Deployment](https://www.meetup.com/indypy/events/stjrnqyzcbdc/) (Indianapolis)
 * 01/24 — Indy Azure User Group [DevOps for Data Science](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzcbgc/) (Indianapolis)
 * 01/30 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/jwvfcqyzcbnc/) (Carmel)
 
 ## Open CfPs:
-* [OSS 2019](https://conf.researchr.org/track/oss2019/oss2019-papers) (Montreal, CN) — closes 01/13
-* [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/694) (Portland, OR) — closes 01/15
 * [TPC 2019](https://www.papercall.io/tpccfp) (Pittsburgh, PA) — closes 02/28
 
 
