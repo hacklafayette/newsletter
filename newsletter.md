@@ -14,10 +14,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 02/13 — CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/mnbffqyzdbrb/) (Indianapolis)
 * 02/13 — Indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/cfszxyzdbrb/) (Indianapolis)
 * 02/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzdbrb/) (Indianapolis)
-
+* 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
 * [TPC 2019](https://www.papercall.io/tpccfp) (Pittsburgh, PA) — closes 02/28
+* [Indy Cloud Conf](https://www.papercall.io/indy-cloud-con-2019) (Indianapolis) — closes 03/01
 
 
 ## Member news:
