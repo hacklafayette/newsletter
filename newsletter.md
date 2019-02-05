@@ -17,6 +17,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Open CfPs:
 * [TPC 2019](https://www.papercall.io/tpccfp) (Pittsburgh, PA) — closes 02/28
 * [Indy Cloud Conf](https://www.papercall.io/indy-cloud-con-2019) (Indianapolis) — closes 03/01
+* [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) — closes 03/15
 
 
 ## Member news:
