@@ -1,18 +1,12 @@
-# HackLafayette newsletter — 2019-02-08
+# HackLafayette newsletter — 2019-02-15
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
 
-* 02/13 — [Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzdbrb/)
-* 02/13 — [Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzdbrb/)
 * 02/24 — [Coffee & Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzdbgc/)
 
 ## Upcoming nearby events:
-* 02/12 — IndyPy [Sharing the (Python) Love](https://www.meetup.com/indypy/events/bxqbmqyzdbqb/) (Indianapolis)
-* 02/13 — CINLUG [RHEL 8 Beta Overview](https://www.meetup.com/CINLUG/events/mnbffqyzdbrb/) (Indianapolis)
-* 02/13 — Indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/cfszxyzdbrb/) (Indianapolis)
-* 02/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzdbrb/) (Indianapolis)
 * 02/18 — IndyAWS [Sentiment Analysis Using a Serverless Architecture](https://www.meetup.com/IndyAWS/events/sjrtmpyzdbzb/) (Indianapolis)
 * 02/18 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzdbzb/) (Lebanon)
 * 02/20 — Indianapolis Java User Group [Event Driven Architecture w/ Apache Kafka and Spring Cloud Stream](https://www.meetup.com/Indianapolis-Java-User-Group/events/258217954/) (Indianapolis)
@@ -33,7 +27,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
-- Ben Cotton attended FOSDEM and CopyLeft Conf in Brussels, Belgium February 2-4.
 
 ## Jobs:
 
