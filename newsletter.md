@@ -24,6 +24,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
 ## Member news:
+- Ben Cotton will be attending the Southern California Linux Expo in Pasadena, CA, 03/07-10.
+- Ben Cotton will be on a [panel](https://osls19.sched.com/event/LG6H) at the Open Source Leadership Summit in Half Moon Bay, CA, 03/12-14.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
