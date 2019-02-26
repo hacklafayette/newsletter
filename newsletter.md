@@ -28,6 +28,7 @@ Outreachy — the paid, remote internship program for people from groups underin
 ## Jobs:
 
 - Software Freedom Conservancy is hiring a [techie bookkeeper](https://sfconservancy.org/news/2019/feb/14/techie-bookkeeper/)
+- Unidata is hiring a [software developer](https://ucar.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=218591&company_id=15947&version=1&source=ONLINE&jobOwner=992748&aid=1) in Boulder, CO
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 - Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 - Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
