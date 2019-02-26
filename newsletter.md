@@ -14,6 +14,7 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Open CfPs:
 * [Indy Cloud Conf](https://www.papercall.io/indy-cloud-con-2019) (Indianapolis) — closes 03/01
+* [Texas Linux Fest](https://2019.texaslinuxfest.org/cfp.html#cfp) (Irving, TX) — closes 03/06
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) — closes 03/15
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
