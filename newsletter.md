@@ -15,10 +15,23 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
+* 03/02 — [Global Diversity CfP Day](https://www.globaldiversitycfpday.com/events/182) (Indianapolis)
 * 03/06 — Indy .NET Consortium [High Performance Sorting and More in C#](https://www.meetup.com/Indy-NET-Consortium/events/257749320/) (Indianapolis)
 * 03/06 — Chicago Seleniumistas [Inaugural Meetup](https://www.meetup.com/Chicago-Seleniumistas/events/258920027/) (Chicago)
+* 03/06 — Indy Rust [meetup](https://www.meetup.com/indyrs/events/mffbtpyzfbjb/) (Indianapolis)
 * 03/12 — IndyPy [Python Madness](https://www.meetup.com/indypy/events/bxqbmqyzfbqb/) (Indianapolis)
+* 03/13 — CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/mnbffqyzfbrb/) (Indianapolis)
+* 03/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzfbrb/) (Indianapolis)
 * 03/19 — IndyUseR [monthly meeting](https://www.meetup.com/Indy-useR-Group/events/sjmfklyzfbzb/) (Indianapolis)
+* 03/19 — IndyAWS: [Bust Fake News with ML and AWS](https://www.meetup.com/IndyAWS/events/jwzksqyzfbzb/) (Indianapolis)
+* 03/19 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzfbzb/) (Lebanon)
+* 03/20 — Indinaapolis Java User Group [Java 11 Primer](https://www.meetup.com/Indianapolis-Java-User-Group/events/259164096/) (Indianapolis)
+* 03/20 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyzfbbc/) (Indianapolis)
+* 03/21 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719260/) (Lafayette)
+* 03/22 — IndyPy [Automate Conf](https://ti.to/six-feet-up/indypy-conf) (Indianapolis)
+* 03/26 — IndyPy Bytes: [Data Science with Python: Time-series forecasting](https://www.meetup.com/indypy/events/lbdfpqyzfbjc/) (Indianapolis)
+* 03/26 — Indy DevOps [Chris Daily from beLithe.com](https://www.meetup.com/IndyDevOps/events/gjthrqyzfbjc/) (Carmel)
+* 03/28 — Indy Azure User Group [monthly meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzfblc/) (Indianapolis)
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
