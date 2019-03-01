@@ -12,7 +12,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 04/10 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzgbnb/) 
 * 04/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzgbnb/) 
 * 04/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzgblc/) 
-
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
