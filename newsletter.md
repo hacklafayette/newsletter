@@ -6,10 +6,13 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Upcoming HackLafayette events:
 
+* 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
 * 03/06 — Indy .NET Consortium [High Performance Sorting and More in C#](https://www.meetup.com/Indy-NET-Consortium/events/257749320/) (Indianapolis)
+* 03/06 — Chicago Seleniumistas [Inaugural Meetup](https://www.meetup.com/Chicago-Seleniumistas/events/258920027/) (Chicago)
 * 03/12 — IndyPy [Python Madness](https://www.meetup.com/indypy/events/bxqbmqyzfbqb/) (Indianapolis)
+* 03/19 — IndyUseR [monthly meeting](https://www.meetup.com/Indy-useR-Group/events/sjmfklyzfbzb/) (Indianapolis)
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
