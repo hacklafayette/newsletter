@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-03-01
+# HackLafayette newsletter — 2019-03-08
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -15,10 +15,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 03/02 — [Global Diversity CfP Day](https://www.globaldiversitycfpday.com/events/182) (Indianapolis)
-* 03/06 — Indy .NET Consortium [High Performance Sorting and More in C#](https://www.meetup.com/Indy-NET-Consortium/events/257749320/) (Indianapolis)
-* 03/06 — Chicago Seleniumistas [Inaugural Meetup](https://www.meetup.com/Chicago-Seleniumistas/events/258920027/) (Chicago)
-* 03/06 — Indy Rust [meetup](https://www.meetup.com/indyrs/events/mffbtpyzfbjb/) (Indianapolis)
 * 03/12 — IndyPy [Python Madness](https://www.meetup.com/indypy/events/bxqbmqyzfbqb/) (Indianapolis)
 * 03/13 — CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/mnbffqyzfbrb/) (Indianapolis)
 * 03/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzfbrb/) (Indianapolis)
@@ -35,8 +31,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
-* [Indy Cloud Conf](https://www.papercall.io/indy-cloud-con-2019) (Indianapolis) — closes 03/01
-* [Texas Linux Fest](https://2019.texaslinuxfest.org/cfp.html#cfp) (Irving, TX) — closes 03/06
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) — closes 03/15
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
