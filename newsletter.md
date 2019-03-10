@@ -32,6 +32,7 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Open CfPs:
 * [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) — closes 03/15
+* [Open Source Summit NA](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/program/cfp/) (San Diego, CA) — closes 04/02
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
 ## Member news:
