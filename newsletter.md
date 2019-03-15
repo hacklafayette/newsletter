@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-03-08
+# HackLafayette newsletter — 2019-03-15
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -6,8 +6,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Upcoming HackLafayette events:
 
-* 03/13 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzfbrb/) 
-* 03/13 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzfbrb/) 
 * 03/24 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzfbgc/) 
 * 04/10 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzgbnb/) 
 * 04/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzgbnb/) 
@@ -15,9 +13,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 03/12 — IndyPy [Python Madness](https://www.meetup.com/indypy/events/bxqbmqyzfbqb/) (Indianapolis)
-* 03/13 — CINLUG [Monthly Meeting](https://www.meetup.com/CINLUG/events/mnbffqyzfbrb/) (Indianapolis)
-* 03/13 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzfbrb/) (Indianapolis)
 * 03/19 — IndyUseR [monthly meeting](https://www.meetup.com/Indy-useR-Group/events/sjmfklyzfbzb/) (Indianapolis)
 * 03/19 — IndyAWS: [Bust Fake News with ML and AWS](https://www.meetup.com/IndyAWS/events/jwzksqyzfbzb/) (Indianapolis)
 * 03/19 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzfbzb/) (Lebanon)
@@ -36,8 +31,8 @@ Outreachy — the paid, remote internship program for people from groups underin
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
 ## Member news:
-- Ben Cotton will be attending the Southern California Linux Expo in Pasadena, CA, 03/07-10.
-- Ben Cotton will be on a [panel](https://osls19.sched.com/event/LG6H) at the Open Source Leadership Summit in Half Moon Bay, CA, 03/12-14.
+- Ben Cotton attended the Southern California Linux Expo in Pasadena, CA, 03/07-10.
+- Ben Cotton was on a [panel](https://osls19.sched.com/event/LG6H) at the Open Source Leadership Summit in Half Moon Bay, CA, 03/12-14.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
