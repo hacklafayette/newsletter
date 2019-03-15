@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-03-15
+# HackLafayette newsletter — 2019-03-22
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -13,12 +13,6 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 03/19 — IndyUseR [monthly meeting](https://www.meetup.com/Indy-useR-Group/events/sjmfklyzfbzb/) (Indianapolis)
-* 03/19 — IndyAWS: [Bust Fake News with ML and AWS](https://www.meetup.com/IndyAWS/events/jwzksqyzfbzb/) (Indianapolis)
-* 03/19 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzfbzb/) (Lebanon)
-* 03/20 — Indinaapolis Java User Group [Java 11 Primer](https://www.meetup.com/Indianapolis-Java-User-Group/events/259164096/) (Indianapolis)
-* 03/20 — indy.js [Monthly Meeting](https://www.meetup.com/indyjs/events/ljvvdpyzfbbc/) (Indianapolis)
-* 03/21 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719260/) (Lafayette)
 * 03/22 — IndyPy [Automate Conf](https://ti.to/six-feet-up/indypy-conf) (Indianapolis)
 * 03/26 — IndyPy Bytes: [Data Science with Python: Time-series forecasting](https://www.meetup.com/indypy/events/lbdfpqyzfbjc/) (Indianapolis)
 * 03/26 — Indy DevOps [Chris Daily from beLithe.com](https://www.meetup.com/IndyDevOps/events/gjthrqyzfbjc/) (Carmel)
@@ -26,13 +20,10 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
-* [All Things Open](https://allthingsopen.org/call-for-papers/) (Raleigh, NC) — closes 03/15
 * [Open Source Summit NA](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/program/cfp/) (San Diego, CA) — closes 04/02
 * [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
 ## Member news:
-- Ben Cotton attended the Southern California Linux Expo in Pasadena, CA, 03/07-10.
-- Ben Cotton was on a [panel](https://osls19.sched.com/event/LG6H) at the Open Source Leadership Summit in Half Moon Bay, CA, 03/12-14.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
