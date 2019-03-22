@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-03-22
+# HackLafayette newsletter — 2019-03-29
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -6,18 +6,12 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Upcoming HackLafayette events:
 
-* 03/24 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzfbgc/) 
 * 04/10 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzgbnb/) 
 * 04/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzgbnb/) 
 * 04/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzgblc/) 
 * 05/18 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 03/22 — IndyPy [Automate Conf](https://ti.to/six-feet-up/indypy-conf) (Indianapolis)
-* 03/25 — Indy Continuous Delivery [Adopting a Continual Improvement Mindset](https://www.meetup.com/Indy-Continuous-Delivery/events/259176207/) (Indianapolis)
-* 03/26 — IndyPy Bytes: [Data Science with Python: Time-series forecasting](https://www.meetup.com/indypy/events/lbdfpqyzfbjc/) (Indianapolis)
-* 03/26 — Indy DevOps [Chris Daily from beLithe.com](https://www.meetup.com/IndyDevOps/events/gjthrqyzfbjc/) (Carmel)
-* 03/28 — Indy Azure User Group [monthly meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzfblc/) (Indianapolis)
 * 04/02 — Indy .NET Consortium [Special event: Visual Studio 2019 Launch Party](https://www.meetup.com/Indy-NET-Consortium/events/259707459/) (Indianapolis)
 * 04/03 — Indy .NET Consortium [Coding with Intent](https://www.meetup.com/Indy-NET-Consortium/events/259135499/) (Indianapolis)
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
