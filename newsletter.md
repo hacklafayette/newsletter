@@ -14,9 +14,12 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 ## Upcoming nearby events:
 * 03/22 — IndyPy [Automate Conf](https://ti.to/six-feet-up/indypy-conf) (Indianapolis)
+* 03/25 — Indy Continuous Delivery [Adopting a Continual Improvement Mindset](https://www.meetup.com/Indy-Continuous-Delivery/events/259176207/) (Indianapolis)
 * 03/26 — IndyPy Bytes: [Data Science with Python: Time-series forecasting](https://www.meetup.com/indypy/events/lbdfpqyzfbjc/) (Indianapolis)
 * 03/26 — Indy DevOps [Chris Daily from beLithe.com](https://www.meetup.com/IndyDevOps/events/gjthrqyzfbjc/) (Carmel)
 * 03/28 — Indy Azure User Group [monthly meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzfblc/) (Indianapolis)
+* 04/02 — Indy .NET Consortium [Special event: Visual Studio 2019 Launch Party](https://www.meetup.com/Indy-NET-Consortium/events/259707459/) (Indianapolis)
+* 04/03 — Indy .NET Consortium [Coding with Intent](https://www.meetup.com/Indy-NET-Consortium/events/259135499/) (Indianapolis)
 * 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 
 ## Open CfPs:
