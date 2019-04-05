@@ -1,22 +1,16 @@
-# HackLafayette newsletter — 2019-04-05
+# HackLafayette newsletter — 2019-04-12
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 Outreachy — the paid, remote internship program for people from groups underindexed in tech — is accepting [applications](https://www.outreachy.org/apply/) through March 26.
 
 ## Upcoming HackLafayette events:
-* 04/10 -- [Javascript - filter(), map(), arrow functions and other Good Parts](https://www.meetup.com/hacklafayette/events/vkwlfpyzgbnb/) 
-* 04/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzgbnb/) 
 * 04/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzgblc/) 
 * 05/08 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzhblb/) 
 * 05/08 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzhblb/) 
 * 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 04/05 — [Ideas Festival: What IF Machines Thought Like Humans?](https://www.purdue.edu/newsroom/releases/2016/Q4/internet-pioneers-to-discuss-net-and-humanities.html) Featuring Vint Cerf 1-2pm (Purdue) 
-* 04/09 — IndyPy: [Mentor Me](https://www.meetup.com/indypy/events/bxqbmqyzgbmb/) (Indianapolis)
-* 04/10 — CINLUG [Fedora and the future of the operating system](https://www.meetup.com/CINLUG/events/mnbffqyzgbnb/) (Indianapolis)
-* 04/12 — [Indy Cloud Conf](https://ti.to/six-feet-up/indy-cloud-conf-2019) (Indianapolis)
 * 04/16 — IndyAWS [RDS Databases](https://www.meetup.com/IndyAWS/events/dqzpsqyzgbvb/) (Indianapolis)
 * 04/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzgbvb/) (Lebanon)
 * 04/17 — [Indeas Festival: What IF We Lose Control of Technology?](https://oss.ticketmaster.com/aps/purdue/EN/link/buy/browse?i%5B0%5D=417) (Purdue)
@@ -29,10 +23,9 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 
 ## Open CfPs:
-* [DevConf.us](https://devconf.info/us) (Boston, MA) — closes 04/08
 
 ## Member news:
-* Ben Cotton will be presenting "Fedora and the future of the operating system] at the [Central Indiana Linux Users Group](https://www.meetup.com/CINLUG/events/mnbffqyzgbnb/) in Indianapolis on April 10.
+* Ben Cotton presented "Fedora and the future of the operating system] at the [Central Indiana Linux Users Group](https://www.meetup.com/CINLUG/events/mnbffqyzgbnb/) in Indianapolis on April 10.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
