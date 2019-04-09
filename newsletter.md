@@ -18,6 +18,7 @@ Outreachy — the paid, remote internship program for people from groups underin
 * 04/17 — indy.js [Lightning talks](https://www.meetup.com/indyjs/events/ljvvdpyzgbwb/) (Indianapolis)
 * 04/23 — IndyPy Bytes [Automate your life](https://www.meetup.com/indypy/events/lbdfpqyzgbfc/) (Indianapolis)
 * 04/23 — IndyDevOps [Processing Analytics Data with Scala and Kubernetes](https://www.meetup.com/IndyDevOps/events/gjthrqyzgbfc/) (Carmel)
+* 04/24 - [Indy.Code() Conference] (https://indycode.amegala.com/) (Indianapolis)
 * 04/25 — Indy Azure user Group [Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzgbhc/) (Indianapolis)
 * 04/25 — Women Who Code Indianapolis [Launch Event](https://www.meetup.com/Women-Who-Code-Indianapolis/events/260145232/) (Indianapolis)
 
