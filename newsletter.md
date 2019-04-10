@@ -24,6 +24,7 @@ Outreachy — the paid, remote internship program for people from groups underin
 
 
 ## Open CfPs:
+* [Kansas Linux Fest](https://kansaslinuxfest.org/speakers/) (Wichita, KS) — closes ...at some point
 
 ## Member news:
 * Ben Cotton presented "Fedora and the future of the operating system] at the [Central Indiana Linux Users Group](https://www.meetup.com/CINLUG/events/mnbffqyzgbnb/) in Indianapolis on April 10.
