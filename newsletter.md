@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-04-12
+# HackLafayette newsletter — 2019-04-19
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -9,11 +9,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 04/16 — IndyAWS [RDS Databases](https://www.meetup.com/IndyAWS/events/dqzpsqyzgbvb/) (Indianapolis)
-* 04/16 — Boone County WordPress [Meetup](https://www.meetup.com/Boone-County-WordPress-Meetup/events/jlbhvpyzgbvb/) (Lebanon)
-* 04/17 — [Indeas Festival: What IF We Lose Control of Technology?](https://oss.ticketmaster.com/aps/purdue/EN/link/buy/browse?i%5B0%5D=417) (Purdue)
-* 04/18 — [T-6.6 Pitch Night](https://www.meetup.com/tminus/events/257719485/) (Lafayette)
-* 04/17 — indy.js [Lightning talks](https://www.meetup.com/indyjs/events/ljvvdpyzgbwb/) (Indianapolis)
 * 04/23 — IndyPy Bytes [Automate your life](https://www.meetup.com/indypy/events/lbdfpqyzgbfc/) (Indianapolis)
 * 04/23 — IndyDevOps [Processing Analytics Data with Scala and Kubernetes](https://www.meetup.com/IndyDevOps/events/gjthrqyzgbfc/) (Carmel)
 * 04/24 - [Indy.Code() Conference] (https://indycode.amegala.com/) (Indianapolis)
@@ -25,7 +20,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [Kansas Linux Fest](https://kansaslinuxfest.org/speakers/) (Wichita, KS) — closes ...at some point
 
 ## Member news:
-* Ben Cotton presented "Fedora and the future of the operating system] at the [Central Indiana Linux Users Group](https://www.meetup.com/CINLUG/events/mnbffqyzgbnb/) in Indianapolis on April 10.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
