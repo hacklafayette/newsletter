@@ -19,6 +19,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Open CfPs:
 * [Kansas Linux Fest](https://kansaslinuxfest.org/speakers/) (Wichita, KS) — closes ...at some point
 * [AnsibleFest](https://ansiblefest2019.eventpoint.com/cfp) (Atlanta, GA) — closes 05/28
+* [LISA19](https://www.usenix.org/conference/lisa19/call-for-participation) (Portland, OR) — closes 06/18
 
 ## Member news:
 
