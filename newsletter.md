@@ -9,12 +9,14 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
+* 04/22 — Vue.js Indy [Nuxt - Server Side Rendering with Vue.js](https://www.meetup.com/vuejsindy/events/260656341/) (Indianapolis)
 * 04/23 — IndyPy Bytes [Automate your life](https://www.meetup.com/indypy/events/lbdfpqyzgbfc/) (Indianapolis)
 * 04/23 — IndyDevOps [Processing Analytics Data with Scala and Kubernetes](https://www.meetup.com/IndyDevOps/events/gjthrqyzgbfc/) (Carmel)
 * 04/24 - [Indy.Code() Conference] (https://indycode.amegala.com/) (Indianapolis)
 * 04/25 — Indy Azure user Group [Meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzgbhc/) (Indianapolis)
 * 04/25 — Women Who Code Indianapolis [Launch Event](https://www.meetup.com/Women-Who-Code-Indianapolis/events/260145232/) (Indianapolis)
-
+* 05/01 — Indy .NET Consortium [Quarterly Lightning Talks!](https://www.meetup.com/Indy-NET-Consortium/events/259135604/) (Indianapolis)
+* 05/15 — Indy.js [Meetup](https://www.meetup.com/indyjs/events/ljvvdpyzhbtb/) (Indianapolis)
 
 ## Open CfPs:
 * [Kansas Linux Fest](https://kansaslinuxfest.org/speakers/) (Wichita, KS) — closes ...at some point
