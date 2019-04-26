@@ -1,15 +1,13 @@
-# HackLafayette newsletter — 2019-04-26
+# HackLafayette newsletter — 2019-05-03
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 04/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/fmlpkqyzgblc/) 
 * 05/08 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzhblb/) 
 * 05/08 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzhblb/) 
 * 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/)
 
 ## Upcoming nearby events:
-* 05/01 — Indy .NET Consortium [Quarterly Lightning Talks!](https://www.meetup.com/Indy-NET-Consortium/events/259135604/) (Indianapolis)
 * 05/08 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzhblb/) (Indinaapolis)
 * 05/08 — indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/cfszxyzhblb/) (Indianapolis)
 * 05/09 — Indianapolis Splunk User Group [Introduction to the Machine Learning Toolkit](https://www.meetup.com/Indianapolis-Splunk-Users-Group/events/260576956/) (Indianapolis)
