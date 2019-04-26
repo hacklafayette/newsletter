@@ -10,7 +10,16 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming nearby events:
 * 05/01 — Indy .NET Consortium [Quarterly Lightning Talks!](https://www.meetup.com/Indy-NET-Consortium/events/259135604/) (Indianapolis)
+* 05/08 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzhblb/) (Indinaapolis)
+* 05/08 — indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/cfszxyzhblb/) (Indianapolis)
+* 05/09 — Indianapolis Splunk User Group [Introduction to the Machine Learning Toolkit](https://www.meetup.com/Indianapolis-Splunk-Users-Group/events/260576956/) (Indianapolis)
+* 05/15 — IndyPy [Python Tools for Kids](https://www.meetup.com/indypy/events/bxqbmqyzhbsb/) (Indianapolis)
 * 05/15 — Indy.js [Meetup](https://www.meetup.com/indyjs/events/ljvvdpyzhbtb/) (Indianapolis)
+* 05/16 — INDY Saas Meetup [meeting](https://www.meetup.com/Indy-SaaS-Meetup/events/259486802/) (Indianapolis)
+* 05/16 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719666/) (Lafayette)
+* 05/21 — IndyAWS [Automation with AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyzhbcc/) (Indianapolis)
+* 05/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzhbfc/) (Indianapolis)
+* 05/28 — IndyDevOps [Datadog: moving from monoliths to microservices](https://www.meetup.com/IndyDevOps/events/gjthrqyzhblc/) (Carmel)
 
 ## Open CfPs:
 * [Kansas Linux Fest](https://kansaslinuxfest.org/speakers/) (Wichita, KS) — closes ...at some point
