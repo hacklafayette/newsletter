@@ -3,9 +3,13 @@
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 05/08 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzhblb/) 
+* 05/08 -- [Using open source tools to play Dungeons and Dragons](https://www.meetup.com/hacklafayette/events/vkwlfpyzhblb/) 
 * 05/08 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzhblb/) 
-* 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/)
+* 05/18 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/259391916/) 
+* 05/26 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzhbjc/) 
+* 06/12 -- [Using WordPress](https://www.meetup.com/hacklafayette/events/vkwlfpyzjbqb/) 
+* 06/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzjbqb/) 
+* 06/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzjbfc/) 
 
 ## Upcoming nearby events:
 * 05/08 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzhblb/) (Indinaapolis)
