@@ -15,6 +15,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 05/08 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzhblb/) (Indinaapolis)
 * 05/08 — indy.rb [Monthly Meetup](https://www.meetup.com/indyrb/events/cfszxyzhblb/) (Indianapolis)
 * 05/09 — Indianapolis Splunk User Group [Introduction to the Machine Learning Toolkit](https://www.meetup.com/Indianapolis-Splunk-Users-Group/events/260576956/) (Indianapolis)
+* 05/10 — [Game Night with IndyPy and IndyAWS](https://www.meetup.com/IndyAWS/events/260949654/) (Indianapolis)
 * 05/15 — IndyPy [Python Tools for Kids](https://www.meetup.com/indypy/events/bxqbmqyzhbsb/) (Indianapolis)
 * 05/15 — Indy.js [Meetup](https://www.meetup.com/indyjs/events/ljvvdpyzhbtb/) (Indianapolis)
 * 05/16 — INDY Saas Meetup [meeting](https://www.meetup.com/Indy-SaaS-Meetup/events/259486802/) (Indianapolis)
