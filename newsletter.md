@@ -13,6 +13,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 05/21 — IndyAWS [Automation with AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyzhbcc/) (Indianapolis)
 * 05/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzhbfc/) (Indianapolis)
 * 05/28 — IndyDevOps [Datadog: moving from monoliths to microservices](https://www.meetup.com/IndyDevOps/events/gjthrqyzhblc/) (Carmel)
+* 05/31–06/02 — [CircleCityCon](https://circlecitycon.com/) (Indianapolis)
 
 ## Open CfPs:
 * [AnsibleFest](https://ansiblefest2019.eventpoint.com/cfp) (Atlanta, GA) — closes 05/28
