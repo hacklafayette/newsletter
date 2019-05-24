@@ -16,6 +16,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 06/18 — IndyAWS [Compute](https://www.meetup.com/IndyAWS/events/dqzpsqyzjbxb/) (Indianapolis)
 * 06/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/ljvvdpyzjbzb/) (Indianapolis)
 * 06/19 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719744/) (Lafayette)
+* 06/25 — Indy DevOps [Clustertruck](https://www.meetup.com/IndyDevOps/events/gjthrqyzjbhc/) (Carmel)
+* 06/27 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzjbkc/) (Indianapolis)
 
 ## Open CfPs:
 * [AnsibleFest](https://ansiblefest2019.eventpoint.com/cfp) (Atlanta, GA) — closes 05/28
