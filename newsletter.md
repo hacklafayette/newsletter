@@ -1,16 +1,13 @@
-# HackLafayette newsletter — 2019-05-24
+# HackLafayette newsletter — 2019-05-31
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 05/26 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzhbjc/) 
 * 06/12 -- [Using WordPress](https://www.meetup.com/hacklafayette/events/vkwlfpyzjbqb/) 
 * 06/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzjbqb/) 
 * 06/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzjbfc/) 
 
 ## Upcoming nearby events:
-* 05/28 — IndyDevOps [Datadog: moving from monoliths to microservices](https://www.meetup.com/IndyDevOps/events/gjthrqyzhblc/) (Carmel)
-* 05/29 — IndyGCP: [First meeting](https://www.meetup.com/IndyGCP/events/261453818/) (Indianapolis)
 * 05/31–06/02 — [CircleCityCon](https://circlecitycon.com/) (Indianapolis)
 * 06/11 — IndyPy [Diversity in the Python Web](https://www.meetup.com/indypy/events/bxqbmqyzjbpb/) (Indianapolis)
 * 06/18 — IndyAWS [Compute](https://www.meetup.com/IndyAWS/events/dqzpsqyzjbxb/) (Indianapolis)
@@ -20,7 +17,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 06/27 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzjbkc/) (Indianapolis)
 
 ## Open CfPs:
-* [AnsibleFest](https://ansiblefest2019.eventpoint.com/cfp) (Atlanta, GA) — closes 05/28
 * [LISA19](https://www.usenix.org/conference/lisa19/call-for-participation) (Portland, OR) — closes 06/18
 
 ## Member news:
