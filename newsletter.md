@@ -6,6 +6,9 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 06/12 -- [Using WordPress](https://www.meetup.com/hacklafayette/events/vkwlfpyzjbqb/) 
 * 06/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzjbqb/) 
 * 06/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzjbfc/) 
+* 07/10 -- [Post-TPC Wrapup](https://www.meetup.com/hacklafayette/events/vkwlfpyzkbnb/) 
+* 07/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzkbnb/) 
+
 
 ## Upcoming nearby events:
 * 05/31–06/02 — [CircleCityCon](https://circlecitycon.com/) (Indianapolis)
