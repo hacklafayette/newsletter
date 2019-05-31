@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-05-31
+# HackLafayette newsletter — 2019-06-07
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -11,7 +11,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 05/31–06/02 — [CircleCityCon](https://circlecitycon.com/) (Indianapolis)
 * 06/11 — IndyPy [Diversity in the Python Web](https://www.meetup.com/indypy/events/bxqbmqyzjbpb/) (Indianapolis)
 * 06/18 — IndyAWS [Compute](https://www.meetup.com/IndyAWS/events/dqzpsqyzjbxb/) (Indianapolis)
 * 06/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/ljvvdpyzjbzb/) (Indianapolis)
