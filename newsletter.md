@@ -17,9 +17,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 06/19 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719744/) (Lafayette)
 * 06/25 — Indy DevOps [Clustertruck](https://www.meetup.com/IndyDevOps/events/gjthrqyzjbhc/) (Carmel)
 * 06/27 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzjbkc/) (Indianapolis)
+* 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 
 ## Open CfPs:
 * [LISA19](https://www.usenix.org/conference/lisa19/call-for-participation) (Portland, OR) — closes 06/18
+* [PromptConf](https://promptconf.com/proposals/) (Chicago) — closes 6/30
 
 ## Member news:
 
