@@ -1,10 +1,8 @@
-# HackLafayette newsletter — 2019-06-07
+# HackLafayette newsletter — 2019-06-14
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 06/12 -- [Using WordPress](https://www.meetup.com/hacklafayette/events/vkwlfpyzjbqb/) 
-* 06/12 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzjbqb/) 
 * 06/23 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzjbfc/)
 * 06/26 — [My Frist Microcontroller with AST Space](https://www.meetup.com/hacklafayette/events/262126763/)
 * 07/10 -- [Post-TPC Wrapup](https://www.meetup.com/hacklafayette/events/vkwlfpyzkbnb/) 
@@ -12,8 +10,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 06/10 — [Beers with Engineers](https://www.eventbrite.com/e/beers-with-engineers-tickets-62137337449) (Fishers)
-* 06/11 — IndyPy [Diversity in the Python Web](https://www.meetup.com/indypy/events/bxqbmqyzjbpb/) (Indianapolis)
 * 06/18 — IndyAWS [Compute](https://www.meetup.com/IndyAWS/events/dqzpsqyzjbxb/) (Indianapolis)
 * 06/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/ljvvdpyzjbzb/) (Indianapolis)
 * 06/19 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719744/) (Lafayette)
