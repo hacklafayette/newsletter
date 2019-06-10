@@ -7,6 +7,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 06/26 — [My Frist Microcontroller with AST Space](https://www.meetup.com/hacklafayette/events/262126763/)
 * 07/10 -- [Post-TPC Wrapup](https://www.meetup.com/hacklafayette/events/vkwlfpyzkbnb/) 
 * 07/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzkbnb/) 
+* 08/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/262135464/)
 
 
 ## Upcoming nearby events:
