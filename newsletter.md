@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-06-14
+# HackLafayette newsletter — 2019-06-21
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -12,10 +12,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 06/18 — indy.rb [meeting](https://www.meetup.com/indyrb/events/cfszxyzjbqb/) (Indianapolis)
-* 06/18 — IndyAWS [Compute](https://www.meetup.com/IndyAWS/events/dqzpsqyzjbxb/) (Indianapolis)
-* 06/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/ljvvdpyzjbzb/) (Indianapolis)
-* 06/19 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719744/) (Lafayette)
 * 06/25 — Indy DevOps [Clustertruck](https://www.meetup.com/IndyDevOps/events/gjthrqyzjbhc/) (Carmel)
 * 06/25 — [Scaling Up Tech Entrepreneurism in Indy](https://www.eventbrite.com/e/ypci-scaling-up-tech-entrepreneurism-in-indy-pres-by-kerauno-tickets-62850014084?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text) (Indianapolis)
 * 06/27 — IndyGCP meetup [Building a Chatbot in GCP](https://www.meetup.com/IndyGCP/events/261871403/) (Indianapolis)
@@ -27,7 +23,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 
 ## Open CfPs:
-* [LISA19](https://www.usenix.org/conference/lisa19/call-for-participation) (Portland, OR) — closes 06/18
 * [PromptConf](https://promptconf.com/proposals/) (Chicago) — closes 6/30
 * [IndyPy Web Conf](https://www.papercall.io/indypy-web-conf-2019) (Fishers) — closes 07/08
 * [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2019) (Columbus, OH) — closes 07/14
@@ -38,7 +33,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Jobs:
 
-- WEX is hiring a (remote) [Sr. Golang developer](https://wex.taleo.net/careersection/wex_wexinc/jobdetail.ftl?job=190000EK&tz=GMT-04%3A00)
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 - Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 - Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
