@@ -12,6 +12,10 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
+* 07/02 — Code For Indianapolis [Moving Forward](https://www.meetup.com/Code-for-Indianapolis/events/262587602/) (Indianapolis)
+* 07/09 — IndyPy [Summer Camp](https://www.meetup.com/indypy/events/bxqbmqyzkbmb/) (Indianapolis)
+* 07/10 — Indy .NET Consortium [Tricking out Postman, the API Development Environment](https://www.meetup.com/Indy-NET-Consortium/events/262505890/) (Indianapolis)
+* 07/10 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzkbnb/) (Indianapolis)
 * 07/25–26 — [DevOpsDays Indianapolis](https://www.devopsdays.org/events/2019-indianapolis/) (Indianapolis)
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (Indianapolis)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
