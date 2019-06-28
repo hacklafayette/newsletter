@@ -1,21 +1,13 @@
-# HackLafayette newsletter — 2019-06-28
-
-**No newsletter next week**
+# HackLafayette newsletter — 2019-07-12
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 07/10 -- [Post-TPC Wrapup](https://www.meetup.com/hacklafayette/events/vkwlfpyzkbnb/) 
-* 07/10 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzkbnb/) 
 * 07/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzkblc/) 
 * 08/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/262135464/)
 
 
 ## Upcoming nearby events:
-* 07/02 — Code For Indianapolis [Moving Forward](https://www.meetup.com/Code-for-Indianapolis/events/262587602/) (Indianapolis)
-* 07/09 — IndyPy [Summer Camp](https://www.meetup.com/indypy/events/bxqbmqyzkbmb/) (Indianapolis)
-* 07/10 — Indy .NET Consortium [Tricking out Postman, the API Development Environment](https://www.meetup.com/Indy-NET-Consortium/events/262505890/) (Indianapolis)
-* 07/10 — DataScience Indy [Monthly Meetup](https://www.meetup.com/dsindy/events/bdkcwlyzkbnb/) (Indianapolis)
 * 07/25–26 — [DevOpsDays Indianapolis](https://www.devopsdays.org/events/2019-indianapolis/) (Indianapolis)
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (Indianapolis)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
@@ -23,8 +15,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 
 ## Open CfPs:
-* [PromptConf](https://promptconf.com/proposals/) (Chicago) — closes 6/30
-* [IndyPy Web Conf](https://www.papercall.io/indypy-web-conf-2019) (Fishers) — closes 07/08
 * [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2019) (Columbus, OH) — closes 07/14
 
 ## Member news:
