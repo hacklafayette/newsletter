@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-07-12
+# HackLafayette newsletter — 2019-07-26
 
 **No newsletter next week**
 
@@ -10,10 +10,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 07/16 — IndyAWS [AWS for Beginners](https://www.meetup.com/IndyAWS/events/dqzpsqyzkbvb/) (Indianapolis)
-* 07/17 — indy.js [Monthly meeting](https://www.meetup.com/indyjs/events/ljvvdpyzkbwb/) (Indianapolis)
-* 07/23 — [IndyPy Bytes: Pyenv, Pytest and Coverage](https://www.meetup.com/indypy/events/lbdfpqyzkbfc/) (Indianapolis)
-* 07/25–26 — [DevOpsDays Indianapolis](https://www.devopsdays.org/events/2019-indianapolis/) (Indianapolis)
 * 08/07 — Indy .NET Consortium [Azure DevOps, an Overview](https://www.meetup.com/Indy-NET-Consortium/events/259189438/) (Indianapolis)
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (Indianapolis)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
@@ -21,7 +17,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 
 ## Open CfPs:
-* [DevOpsDays Columbus](https://www.papercall.io/devopsdayscolumbus2019) (Columbus, OH) — closes 07/14
 
 ## Member news:
 
