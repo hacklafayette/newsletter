@@ -6,8 +6,10 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 * 07/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzkblc/) 
-* 08/17 — [Thunder Talks](https://www.meetup.com/hacklafayette/events/262135464/)
-
+* 08/14 -- [WebAssembly](https://www.meetup.com/hacklafayette/events/vkwlfpyzlbsb/) 
+* 08/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzlbsb/) 
+* 08/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/262135464/) 
+* 08/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzlbhc/) 
 
 ## Upcoming nearby events:
 * 08/07 — Indy .NET Consortium [Azure DevOps, an Overview](https://www.meetup.com/Indy-NET-Consortium/events/259189438/) (Indianapolis)
