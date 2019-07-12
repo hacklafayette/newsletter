@@ -1,5 +1,7 @@
 # HackLafayette newsletter — 2019-07-12
 
+**No newsletter next week**
+
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
@@ -8,7 +10,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
+* 07/16 — IndyAWS [AWS for Beginners](https://www.meetup.com/IndyAWS/events/dqzpsqyzkbvb/) (Indianapolis)
+* 07/17 — indy.js [Monthly meeting](https://www.meetup.com/indyjs/events/ljvvdpyzkbwb/) (Indianapolis)
+* 07/23 — [IndyPy Bytes: Pyenv, Pytest and Coverage](https://www.meetup.com/indypy/events/lbdfpqyzkbfc/) (Indianapolis)
 * 07/25–26 — [DevOpsDays Indianapolis](https://www.devopsdays.org/events/2019-indianapolis/) (Indianapolis)
+* 08/07 — Indy .NET Consortium [Azure DevOps, an Overview](https://www.meetup.com/Indy-NET-Consortium/events/259189438/) (Indianapolis)
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (Indianapolis)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
@@ -24,6 +30,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Jobs:
 
 - [Networking, system and security consulatant](https://www.vantagetcg.com/about-us/careers/networking-systems-and-security-consultant-boston/) at Vantage Technology Consulting Group
+- [Fedora Community Action and Impact Coordinator](https://global-redhat.icims.com/jobs/70362/open-source-community-manager/job?hub=7&mobile=false&width=1193&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360) at Red Hat
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 - Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 - Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
