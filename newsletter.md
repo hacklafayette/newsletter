@@ -16,6 +16,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (Indianapolis)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
+* 09/23-24 [PurPL Fest](https://purpl.cs.purdue.edu/kickoff.html) (Purdue)
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 
 ## Open CfPs:
