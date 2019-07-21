@@ -27,6 +27,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 - [Networking, system and security consulatant](https://www.vantagetcg.com/about-us/careers/networking-systems-and-security-consultant-boston/) at Vantage Technology Consulting Group
 - [Fedora Community Action and Impact Coordinator](https://global-redhat.icims.com/jobs/70362/open-source-community-manager/job?hub=7&mobile=false&width=1193&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360) at Red Hat
+- [Feature Driver (System Design Engineer)](https://global-redhat.icims.com/jobs/70997/feature-driver-%28system-design-engineer%29/job?mobile=false&width=1386&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) at Red Hat
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 - Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 - Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
