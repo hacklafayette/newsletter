@@ -11,6 +11,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming nearby events:
 * 08/07 — Indy .NET Consortium [Azure DevOps, an Overview](https://www.meetup.com/Indy-NET-Consortium/events/259189438/) (Indianapolis)
+* 08/09 — [Leadership by Design](http://chicagocamps.org/events/2019/leadership-by-design/) (Chicago, IL)
 * 08/13 — IndyPy [Iterables, Iterators, and Generators](https://www.meetup.com/indypy/events/bxqbmqyzlbrb/) (Indianapolis)
 * 08/15 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719781/) (Lafayette)
 * 08/20 — IndyAWS [Storage in AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyzlbbc/) (Indianapolis)
