@@ -30,7 +30,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Open CfPs:
 
 ## Member news:
-* Ben Cotton is attending [Flock](https://flocktofedora.org) in Budapest, Hungary — August 8-11
+* Ben Cotton is presenting at [Flock](https://flocktofedora.org) in Budapest, Hungary — August 8-11
 * Ben Cotton is presenting at [Open Source Summit North America](https://www.redhat.com/en/events/opensourcesummit2019-na) in San Diego, CA — August 21-23
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
