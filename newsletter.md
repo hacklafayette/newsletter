@@ -1,17 +1,14 @@
-# HackLafayette newsletter — 2019-08-02
+# HackLafayette newsletter — 2019-08-09
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 07/28 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzkblc/) 
 * 08/14 -- [WebAssembly](https://www.meetup.com/hacklafayette/events/vkwlfpyzlbsb/) 
 * 08/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzlbsb/) 
 * 08/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/262135464/) 
 * 08/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzlbhc/) 
 
 ## Upcoming nearby events:
-* 08/07 — Indy .NET Consortium [Azure DevOps, an Overview](https://www.meetup.com/Indy-NET-Consortium/events/259189438/) (Indianapolis)
-* 08/09 — [Leadership by Design](http://chicagocamps.org/events/2019/leadership-by-design/) (Chicago, IL)
 * 08/13 — IndyPy [Iterables, Iterators, and Generators](https://www.meetup.com/indypy/events/bxqbmqyzlbrb/) (Indianapolis)
 * 08/15 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719781/) (Lafayette)
 * 08/20 — IndyAWS [Storage in AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyzlbbc/) (Indianapolis)
@@ -37,7 +34,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Jobs:
 
-- [Networking, system and security consulatant](https://www.vantagetcg.com/about-us/careers/networking-systems-and-security-consultant-boston/) at Vantage Technology Consulting Group
 - [Fedora Community Action and Impact Coordinator](https://global-redhat.icims.com/jobs/70362/open-source-community-manager/job?hub=7&mobile=false&width=1193&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360) at Red Hat
 - [Feature Driver (System Design Engineer)](https://global-redhat.icims.com/jobs/70997/feature-driver-%28system-design-engineer%29/job?mobile=false&width=1386&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) at Red Hat
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
