@@ -24,11 +24,13 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
 * 09/23-24 [PurPL Fest](https://purpl.cs.purdue.edu/kickoff.html) (Purdue)
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
+* 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 
 ## Open CfPs:
+* [CodeMash](https://www.codemash.org/call-speakers/) (Sandusky, OH) — closes 08/31
 
 ## Member news:
-* Ben Cotton is presenting at [Flock](https://flocktofedora.org) in Budapest, Hungary — August 8-11
+* Ben Cotton presented at [Flock](https://flocktofedora.org) in Budapest, Hungary — August 8-11
 * Ben Cotton is presenting at [Open Source Summit North America](https://www.redhat.com/en/events/opensourcesummit2019-na) in San Diego, CA — August 21-23
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
