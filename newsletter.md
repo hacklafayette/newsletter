@@ -3,10 +3,11 @@
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 08/14 -- [WebAssembly](https://www.meetup.com/hacklafayette/events/vkwlfpyzlbsb/) 
-* 08/14 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzlbsb/) 
 * 08/17 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/262135464/) 
 * 08/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzlbhc/) 
+* 09/11 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzmbpb/) 
+* 09/11 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzmbpb/) 
+* 09/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzmbdc/) 
 
 ## Upcoming nearby events:
 * 08/13 — IndyPy [Iterables, Iterators, and Generators](https://www.meetup.com/indypy/events/bxqbmqyzlbrb/) (Indianapolis)
