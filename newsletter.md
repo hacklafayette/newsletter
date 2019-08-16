@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-08-09
+# HackLafayette newsletter — 2019-08-16
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,17 +10,17 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 09/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzmbdc/) 
 
 ## Upcoming nearby events:
-* 08/13 — IndyPy [Iterables, Iterators, and Generators](https://www.meetup.com/indypy/events/bxqbmqyzlbrb/) (Indianapolis)
-* 08/15 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719781/) (Lafayette)
 * 08/20 — IndyAWS [Storage in AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyzlbbc/) (Indianapolis)
 * 08/21 — Golang Indianapolis [first meetup](https://www.meetup.com/Golang-Indianapolis/events/263675293/) (Indianapolis)
 * 08/21 — indy.js [Meeting](https://www.meetup.com/indyjs/events/ljvvdpyzlbcc/) (Indianapolis)
-* 08/22 — IndyGCP [meetup](https://www.meetup.com/IndyGCP/events/262689182/) (Indianapolis)
 * 08/22 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzlbdc/) (Indianapolis)
 * 08/23 — [IndyPy Web Conf](https://2019.indypy.org/webconf/) (online)
+* 08/23 — IndyGCP [How Finish Line moved to cloud native using GKE](https://www.meetup.com/IndyGCP/events/262689182/) (Indianapolis)
 * 08/27 — IndyDevOps [meeting](https://www.meetup.com/IndyDevOps/events/gjthrqyzlbkc/) (Carmel)
 * 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
 * 09/04 — Indy .NET Consortium [Azure DevOps Pipelines: CI/CD](https://www.meetup.com/Indy-NET-Consortium/events/259189480/) (Indianapolis)
+* 09/10 — IndyPy [La Femme Pythonista](https://www.meetup.com/indypy/events/bxqbmqyzmbnb/) (Indianapolis)
+* 09/17 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/dqzpsqyzmbwb/) (Indianapolis)
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
 * 09/23-24 [PurPL Fest](https://purpl.cs.purdue.edu/kickoff.html) (Purdue)
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
