@@ -1,17 +1,13 @@
-# HackLafayette newsletter — 2019-08-23
+# HackLafayette newsletter — 2019-08-30
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 08/25 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzlbhc/) 
 * 09/11 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzmbpb/) 
 * 09/11 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzmbpb/) 
 * 09/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzmbdc/) 
 
 ## Upcoming nearby events:
-* 08/23 — IndyGCP [How Finish Line moved to cloud native using GKE](https://www.meetup.com/IndyGCP/events/262689182/) (Indianapolis)
-* 08/27 — IndyDevOps [meeting](https://www.meetup.com/IndyDevOps/events/gjthrqyzlbkc/) (Carmel)
-* 08/27–28 — [DevOpsDays Chicago](https://www.devopsdays.org/events/2019-chicago) (Chicago, IL)
 * 09/04 — Indy .NET Consortium [Azure DevOps Pipelines: CI/CD](https://www.meetup.com/Indy-NET-Consortium/events/259189480/) (Indianapolis)
 * 09/10 — IndyPy [La Femme Pythonista](https://www.meetup.com/indypy/events/bxqbmqyzmbnb/) (Indianapolis)
 * 09/17 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/dqzpsqyzmbwb/) (Indianapolis)
@@ -24,7 +20,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * [CodeMash](https://www.codemash.org/call-speakers/) (Sandusky, OH) — closes 08/31
 
 ## Member news:
-* Ben Cotton presented at [Open Source Summit North America](https://www.redhat.com/en/events/opensourcesummit2019-na) in San Diego, CA — August 21-23
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
