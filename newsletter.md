@@ -18,6 +18,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Open CfPs:
 * [CodeMash](https://www.codemash.org/call-speakers/) (Sandusky, OH) — closes 08/31
+* [Red Hat Summit](https://www.redhat.com/en/summit/speakers/submit-a-session) (San Francisco, CA) — closes 10/22
 
 ## Member news:
 
