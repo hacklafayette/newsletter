@@ -27,7 +27,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Jobs:
 
 - [Fedora Community Action and Impact Coordinator](https://global-redhat.icims.com/jobs/70362/open-source-community-manager/job?hub=7&mobile=false&width=1193&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360) at Red Hat
-- [Senior Software Engineer](https://global-redhat.icims.com/jobs/72717/senior-software-engineer---community-platform-engineering/job) for Fedora and CentOS infrastructure at Red Hat
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
 - Remote Possible job board: [https://remotepossible.com/](https://remotepossible.com/)
 - Remote-friendly companies list: [https://github.com/jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
