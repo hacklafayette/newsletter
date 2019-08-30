@@ -10,9 +10,16 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Upcoming nearby events:
 * 09/04 — Indy .NET Consortium [Azure DevOps Pipelines: CI/CD](https://www.meetup.com/Indy-NET-Consortium/events/259189480/) (Indianapolis)
 * 09/10 — IndyPy [La Femme Pythonista](https://www.meetup.com/indypy/events/bxqbmqyzmbnb/) (Indianapolis)
+* 09/11 — indy.rb [Meetup](https://www.meetup.com/indyrb/events/cfszxyzmbpb/) (Indianapolis)
 * 09/17 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/dqzpsqyzmbwb/) (Indianapolis)
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
+* 09/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/nsfrgryzmbxb/) (Indianapolis)
+* 09/19 — IndyGCP [Firebase](https://www.meetup.com/IndyGCP/events/263020037/) (Indianapolis)
+* 09/19 — T-6.6 [Pitch Night BLOCK PARTY](https://www.meetup.com/tminus/events/257719810/) (Lafayette)
 * 09/23-24 [PurPL Fest](https://purpl.cs.purdue.edu/kickoff.html) (Purdue)
+* 09/24 — IndyPy Bytes [Machine Learing](https://www.meetup.com/indypy/events/lbdfpqyzmbgc/) (Indianapolis)
+* 09/24 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/gmmtgryzmbgc/) (Indianapolis)
+* 09/26 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyzmbjc/) (Indianapolis)
 * 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 * 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 
