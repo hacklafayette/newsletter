@@ -3,10 +3,10 @@
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 09/11 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzmbpb/) 
+* 09/11 -- [SVG Extravaganza!](https://www.meetup.com/hacklafayette/events/vkwlfpyzmbpb/) 
 * 09/11 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyzmbpb/) 
 * 09/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzmbdc/) 
-
+0
 ## Upcoming nearby events:
 * 09/10 — IndyPy [La Femme Pythonista](https://www.meetup.com/indypy/events/bxqbmqyzmbnb/) (Indianapolis)
 * 09/11 — indy.rb [Meetup](https://www.meetup.com/indyrb/events/cfszxyzmbpb/) (Indianapolis)
