@@ -4,7 +4,11 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 * 09/22 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyzmbdc/) 
-0
+* 10/09 -- [Modern Web Scraping with Selenium](https://www.meetup.com/hacklafayette/events/vkwlfpyznbmb/) 
+* 10/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyznbmb/) 
+* 10/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyznbkc/) 
+
+
 ## Upcoming nearby events:
 * 09/17 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/dqzpsqyzmbwb/) (Indianapolis)
 * 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
