@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-09-13
+# HackLafayette newsletter — 2019-09-20
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -10,12 +10,6 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 09/17 — IndyAWS [Cloud Wars](https://www.meetup.com/IndyAWS/events/dqzpsqyzmbwb/) (Indianapolis)
-* 09/18–19 — [DevOpsDays Columbus](https://www.devopsdays.org/events/2019-columbus) (Columbus, OH)
-* 09/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/nsfrgryzmbxb/) (Indianapolis)
-* 09/19 — IndyGCP [Firebase](https://www.meetup.com/IndyGCP/events/263020037/) (Indianapolis)
-* 09/19 — T-6.6 [Pitch Night BLOCK PARTY](https://www.meetup.com/tminus/events/257719810/) (Lafayette)
-* 09/19 — [Indy Big Data Conference](https://www.eventbrite.com/e/indy-big-data-technology-conference-big-data-innovation-inbdc2019-indianapolis-tickets-53309528234?aff=ebdssbdestsearch) (Indianapolis)
 * 09/23-24 [PurPL Fest](https://purpl.cs.purdue.edu/kickoff.html) (Purdue)
 * 09/24 — IndyPy Bytes [Machine Learing](https://www.meetup.com/indypy/events/lbdfpqyzmbgc/) (Indianapolis)
 * 09/24 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/gmmtgryzmbgc/) (Indianapolis)
