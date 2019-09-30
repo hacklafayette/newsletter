@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-09-27
+# HackLafayette newsletter — 2019-10-04
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
@@ -9,10 +9,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 
 ## Upcoming nearby events:
-* 09/28 — [PromptConf](https://promptconf.com/) (Chicago)
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com) (online)
-* 10/02 — Indy .NET Consortium [Quarterly Lightning Talks](https://www.meetup.com/Indy-NET-Consortium/events/259388645/) (Indianapolis)
-* 10/02 — Indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpyznbdb/) (Indianapolis)
 * 10/08 — IndyPy [OktoberPy](https://www.meetup.com/indypy/events/bxqbmqyznblb/) (Indianapolis)
 * 10/11 — [PyData Indy](https://2019.indypy.org/pydata/) (Indianapolis)
 * 10/15 — IndyAWS [Security in AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyznbtb/) (Indianapolis)
