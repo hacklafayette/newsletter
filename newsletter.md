@@ -27,6 +27,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Member news:
 
+* Ben Cotton will be presenting on time management at [MBXam](https://www.facebook.com/events/401008904129948/) on October 8 at MatchBOX.
+
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 ## Jobs:
