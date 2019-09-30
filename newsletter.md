@@ -4,9 +4,8 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Upcoming HackLafayette events:
 * 10/09 -- [Modern Web Scraping with Selenium](https://www.meetup.com/hacklafayette/events/vkwlfpyznbmb/) 
-* 10/09 -- [Open Source Food & Beer & Chat](https://www.meetup.com/hacklafayette/events/rzscgqyznbmb/) 
+* 10/09 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryznbmb/) 
 * 10/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyznbkc/) 
-
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com) (online)
