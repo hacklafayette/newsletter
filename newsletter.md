@@ -1,16 +1,12 @@
-# HackLafayette newsletter — 2019-10-04
+# HackLafayette newsletter — 2019-10-11
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
 ## Upcoming HackLafayette events:
-* 10/09 -- [Modern Web Scraping with Selenium](https://www.meetup.com/hacklafayette/events/vkwlfpyznbmb/) 
-* 10/09 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryznbmb/) 
 * 10/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyznbkc/) 
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com) (online)
-* 10/08 — IndyPy [All Things IoT](https://www.meetup.com/indypy/events/bxqbmqyznblb/) (Indianapolis)
-* 10/11 — [PyData Indy](https://2019.indypy.org/pydata/) (Indianapolis)
 * 10/15 — IndyAWS [Security in AWS](https://www.meetup.com/IndyAWS/events/dqzpsqyznbtb/) (Indianapolis)
 * 10/17 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719825/) (Lafayette)
 * 10/22 — IndyPy Bytes [IoT](https://www.meetup.com/indypy/events/lbdfpqyznbdc/) (Indianapolis)
@@ -27,7 +23,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Member news:
 
-* Ben Cotton will be presenting on time management at [MBXam](https://www.facebook.com/events/401008904129948/) on October 8 at MatchBOX.
+* Ben Cotton presented on time management at [MBXam](https://www.facebook.com/events/401008904129948/) on October 8 at MatchBOX.
 * Ben Cotton will be hosting a Fedora Birds-of-a-Feather session at [Ohio LinuxFest](https://ohiolinux.org/) November 1–2 in Columbus, OH.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
