@@ -20,6 +20,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 ## Open CfPs:
 * [Red Hat Summit](https://www.redhat.com/en/summit/speakers/submit-a-session) (San Francisco, CA) — closes 10/22
+* [SysAdvent blog](https://docs.google.com/forms/d/e/1FAIpQLSdlaf7jxm6dfhHyhMHsr5ddN4a42woiKqlmKYvwkQXm52HYMQ/viewform) — closes 10/31
 
 ## Member news:
 
