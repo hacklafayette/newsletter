@@ -2,6 +2,8 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/), [Twitter](https://twitter.com/hacklafayette), or in the #hacklala channel on Freenode IRC.
 
+Ben is looking for someone to adopt the Meetup subscription.
+
 ## Upcoming HackLafayette events:
 * 10/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyznbkc/) 
 
@@ -11,6 +13,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 * 10/17 — T-6.6 [Pitch Night](https://www.meetup.com/tminus/events/257719825/) (Lafayette)
 * 10/22 — IndyPy Bytes [IoT](https://www.meetup.com/indypy/events/lbdfpqyznbdc/) (Indianapolis)
 * 10/22 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/gmmtgryznbdc/) (Indianapolis)
+* 10/23 — indy.js [meeting](https://www.meetup.com/indyjs/events/crnphryznbvb/) (Indianapolis)
 * 10/24 — IndyGCP [Finding Potholes with Tensorflow in GCP - Applied AI in Memphis](https://www.meetup.com/IndyGCP/events/264954200/) (Indianapolis)
 * 10/24 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyznbgc/) (Indianapolis)
 * 10/24 — Pride IN Tech [Exploring Tech Roles: Data Science](https://www.eventbrite.com/e/pride-in-tech-presents-tech-roles-data-science-tickets-74767968005) (Zionsville)
@@ -25,6 +28,7 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 ## Member news:
 
 * Ben Cotton presented on time management at [MBXam](https://www.facebook.com/events/401008904129948/) on October 8 at MatchBOX.
+* Ben Cotton will be attending All Things Open on October 14–15 in Raleigh, NC.
 * Ben Cotton will be hosting a Fedora Birds-of-a-Feather session at [Ohio LinuxFest](https://ohiolinux.org/) November 1–2 in Columbus, OH.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
