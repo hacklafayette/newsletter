@@ -9,8 +9,9 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com) (online)
-* 10/22 — IndyPy Bytes [IoT](https://www.meetup.com/indypy/events/lbdfpqyznbdc/) (Indianapolis)
+* 10/22 — IndyPy Bytes [Applying Data Science to IoT](https://www.meetup.com/indypy/events/lbdfpqyznbdc/) (Indianapolis)
 * 10/22 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/gmmtgryznbdc/) (Indianapolis)
+* 10/23 — Golang Indianapolis [meeting](https://www.meetup.com/Golang-Indianapolis/events/265568375/) (Indianapolis)
 * 10/23 — indy.js [meeting](https://www.meetup.com/indyjs/events/crnphryznbvb/) (Indianapolis)
 * 10/24 — IndyGCP [Finding Potholes with Tensorflow in GCP - Applied AI in Memphis](https://www.meetup.com/IndyGCP/events/264954200/) (Indianapolis)
 * 10/24 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpyznbgc/) (Indianapolis)
