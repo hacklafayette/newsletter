@@ -4,17 +4,19 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 Ben is looking for someone to adopt the Meetup subscription.
 
+There's a new [Howard County WordPress](https://www.meetup.com/Howard-County-WordPress-Group/) group for WordPress enthusiasts in the Kokomo area.
+
 ## Upcoming HackLafayette events:
 * 10/27 -- [Coffee and Chat](https://www.meetup.com/hacklafayette/events/bmghxqyznbkc/) 
 
 ## Upcoming nearby events:
 * 10/01–31 — [Hacktoberfest](https://hacktoberfest.digitalocean.com) (online)
 * 11/01–02 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
+* 11/19 — Howard County WordPress [meeting](https://www.meetup.com/Howard-County-WordPress-Group/events/265896967/?rv=wg6.0.1.2&_xtd=gatlbWFpbF9jbGlja9oAJDhiYzQ4MWI1LTRiYjItNDIxOS04NDRjLWU1YjAwOTY2NzBmOA&_af=event&_af_eid=265896967) (Kokomo)
 * 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
 * 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 
 ## Open CfPs:
-* [Red Hat Summit](https://www.redhat.com/en/summit/speakers/submit-a-session) (San Francisco, CA) — closes 10/22
 * [SysAdvent blog](https://docs.google.com/forms/d/e/1FAIpQLSdlaf7jxm6dfhHyhMHsr5ddN4a42woiKqlmKYvwkQXm52HYMQ/viewform) — closes 10/31
 
 ## Member news:
