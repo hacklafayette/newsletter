@@ -8,17 +8,22 @@ There's a new [Howard County WordPress](https://www.meetup.com/Howard-County-Wor
 
 ## Upcoming HackLafayette events:
 
+- 11/13 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzpbrb/)
+- 11/13 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzpbrb/) \* 11/16 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/265897151/)
+- 11/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjryzpbgc/)
+
 ## Upcoming nearby events:
-* 11/01–02 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
-* 11/19 — Howard County WordPress [meeting](https://www.meetup.com/Howard-County-WordPress-Group/events/265896967/?rv=wg6.0.1.2&_xtd=gatlbWFpbF9jbGlja9oAJDhiYzQ4MWI1LTRiYjItNDIxOS04NDRjLWU1YjAwOTY2NzBmOA&_af=event&_af_eid=265896967) (Kokomo)
-* 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
-* 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
+
+- 11/01–02 — [Ohio LinuxFest](https://ohiolinux.org/) (Columbus, OH)
+- 11/19 — Howard County WordPress [meeting](https://www.meetup.com/Howard-County-WordPress-Group/events/265896967/?rv=wg6.0.1.2&_xtd=gatlbWFpbF9jbGlja9oAJDhiYzQ4MWI1LTRiYjItNDIxOS04NDRjLWU1YjAwOTY2NzBmOA&_af=event&_af_eid=265896967) (Kokomo)
+- 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
+- 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 
 ## Open CfPs:
 
 ## Member news:
 
-* Ben Cotton will be hosting a Fedora Birds-of-a-Feather session at [Ohio LinuxFest](https://ohiolinux.org/) November 1–2 in Columbus, OH.
+- Ben Cotton will be hosting a Fedora Birds-of-a-Feather session at [Ohio LinuxFest](https://ohiolinux.org/) November 1–2 in Columbus, OH.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
