@@ -15,9 +15,11 @@ There's a new [Howard County WordPress](https://www.meetup.com/Howard-County-Wor
 * 11/19 — Howard County WordPress [meeting](https://www.meetup.com/Howard-County-WordPress-Group/events/265896967/?rv=wg6.0.1.2&_xtd=gatlbWFpbF9jbGlja9oAJDhiYzQ4MWI1LTRiYjItNDIxOS04NDRjLWU1YjAwOTY2NzBmOA&_af=event&_af_eid=265896967) (Kokomo)
 * 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
 * 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
+* 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 
 ## Open CfPs:
 * [SysAdvent blog](https://docs.google.com/forms/d/e/1FAIpQLSdlaf7jxm6dfhHyhMHsr5ddN4a42woiKqlmKYvwkQXm52HYMQ/viewform) — closes 10/31
+* [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
 
 ## Member news:
 
