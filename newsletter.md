@@ -20,6 +20,7 @@ There's a new [Howard County WordPress](https://www.meetup.com/Howard-County-Wor
 * 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 
 ## Open CfPs:
+* [SCaLE 18x](https://www.socallinuxexpo.org/scale/18x/cfp) — closes 11/30
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
 
 ## Member news:
