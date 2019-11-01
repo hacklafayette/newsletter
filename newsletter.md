@@ -9,7 +9,8 @@ There's a new [Howard County WordPress](https://www.meetup.com/Howard-County-Wor
 ## Upcoming HackLafayette events:
 
 - 11/13 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzpbrb/)
-- 11/13 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzpbrb/) \* 11/16 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/265897151/)
+- 11/13 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzpbrb/)
+- 11/16 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/265897151/)
 - 11/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjryzpbgc/)
 
 ## Upcoming nearby events:
