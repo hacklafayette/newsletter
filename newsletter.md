@@ -6,9 +6,12 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 
 ## Upcoming HackLafayette events:
-
-- 11/16 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/265897151/)
-- 11/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjryzpbgc/)
+* 11/13 -- [Raku & R](https://www.meetup.com/hacklafayette/events/vkwlfpyzpbrb/)
+* 11/13 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzpbrb/)
+* 11/16 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/265897151/)
+* 11/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjryzpbgc/)
+* 12/11 -- [Starship Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzqbpb/)
+* 12/11 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzqbpb/)
 
 ## Upcoming nearby events:
 - 11/19 — IndyAWS [Cloudfront CDN](https://www.meetup.com/IndyAWS/events/dqzpsqyzpbzb/) (Indianapolis)
