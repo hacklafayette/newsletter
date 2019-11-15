@@ -32,6 +32,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Member news:
 
+* Gwendolyn Faraday has a new book publishing on 21 November: *[Learn to Code. Get a Job: The ultimate guide to learning and getting hired as a developer](https://www.amazon.com/dp/B0818QCYXB)*
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
