@@ -19,6 +19,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 ## Open CfPs:
 * [SCaLE 18x](https://www.socallinuxexpo.org/scale/18x/cfp) — closes 11/30
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
+* [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
 
 ## Member news:
 
