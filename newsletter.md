@@ -2,8 +2,6 @@
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
 
-*There will be no newsletter next week. Happy Thanksgiving!*
-
 Ben is looking for someone to adopt the Meetup subscription.
 
 
@@ -16,7 +14,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 - 12/11 — CINLUG [meeting](https://www.meetup.com/CINLUG/events/ljmmdryzqbpb/) (Indianapolis)
 - 12/11 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljryzqbhc/) (Indianapolis)
 - 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
-* 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
+- 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 
 ## Open CfPs:
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
