@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2019-11-24
+# HackLafayette newsletter — 2019-12-06
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
 
@@ -12,7 +12,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 * 12/11 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzqbpb/)
 
 ## Upcoming nearby events:
-- 11/26 — IndyPy Bytes: [Making AI more accessible to the non-developer](https://www.meetup.com/indypy/events/lbdfpqyzpbjc/) (Indianapolis)
 - 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
 - 12/11 — CINLUG [meeting](https://www.meetup.com/CINLUG/events/ljmmdryzqbpb/) (Indianapolis)
 - 12/11 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljryzqbhc/) (Indianapolis)
@@ -20,7 +19,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 * 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 
 ## Open CfPs:
-* [SCaLE 18x](https://www.socallinuxexpo.org/scale/18x/cfp) — closes 11/30
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
 
