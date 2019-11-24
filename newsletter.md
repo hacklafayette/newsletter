@@ -6,7 +6,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 
 ## Upcoming HackLafayette events:
-* 12/11 -- [Starship Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzqbpb/)
+* 12/11 -- [Starship Mongers (Lightning Talks)](https://www.meetup.com/hacklafayette/events/vkwlfpyzqbpb/)
 * 12/11 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzqbpb/)
 
 ## Upcoming nearby events:
