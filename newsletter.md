@@ -1,18 +1,21 @@
-# HackLafayette newsletter — 2019-11-22
+# HackLafayette newsletter — 2019-11-24
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
+
+*There will be no newsletter next week. Happy Thanksgiving!*
 
 Ben is looking for someone to adopt the Meetup subscription.
 
 
 ## Upcoming HackLafayette events:
-* 11/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjryzpbgc/)
 * 12/11 -- [Starship Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpyzqbpb/)
 * 12/11 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjryzqbpb/)
 
 ## Upcoming nearby events:
 - 11/26 — IndyPy Bytes: [Making AI more accessible to the non-developer](https://www.meetup.com/indypy/events/lbdfpqyzpbjc/) (Indianapolis)
 - 12/07 — Indy Hackers [Holiday Social](https://www.eventbrite.com/e/indy-hackers-holiday-social-2019-the-9th-tickets-71679827293) (Fishers)
+- 12/11 — CINLUG [meeting](https://www.meetup.com/CINLUG/events/ljmmdryzqbpb/) (Indianapolis)
+- 12/11 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljryzqbhc/) (Indianapolis)
 - 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 * 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 
