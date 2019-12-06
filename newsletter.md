@@ -29,4 +29,4 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Notes from our sponsors:
 
-HackLafayette thanks [MatchBOX](http://matchboxstudio.org/) and [O'Reilly](http://www.oreilly.com/) for their sponsorship.
+HackLafayette thanks [MatchBOX](http://matchboxstudio.org/) for their sponsorship.
