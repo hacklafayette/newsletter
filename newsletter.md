@@ -10,9 +10,11 @@ Ben is looking for someone to adopt the Meetup subscription.
 ## Upcoming nearby events:
 - 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
+- 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
 ## Open CfPs:
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
+* [php[tek]](https://sessionize.com/phptek-2020) — closes 01/04
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
 
 ## Member news:
