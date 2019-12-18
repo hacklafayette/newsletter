@@ -16,6 +16,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 * [Indy Cloud Conf](https://www.papercall.io/indycloudconf2020) — closes 12/21
 * [php[tek]](https://sessionize.com/phptek-2020) — closes 01/04
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
+* [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
 
 ## Member news:
 
