@@ -1,14 +1,23 @@
-# HackLafayette newsletter — 2019-12-13
+# HackLafayette newsletter — 2019-12-20
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
+This will be the last newsletter of 2019. See you next year!
 
 Ben is looking for someone to adopt the Meetup subscription.
 
 
+
 ## Upcoming HackLafayette events:
+* 01/08 — Perl Mongers ([TBA](https://www.meetup.com/hacklafayette/events/vkwlfpybccblb/))
+* 01/08 — [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybccblb/)
+
 
 ## Upcoming nearby events:
 - 01/07–10 — [CodeMash](https://www.codemash.org/) (Sandusky, OH)
+- 01/08 — indy.rb [meeting](https://www.meetup.com/indyrb/events/cfszxybccblb/) (Indianapolis)
+- 01/08 — DataScience Indy [meeting](https://www.meetup.com/dsindy/events/bdkcwlybccblb/) (Indianapolis)
+- 01/14 — IndyPy: [Startup Row Pitch Night](https://www.meetup.com/indypy/events/bxqbmqybccbsb/) (Indianapolis)
+- 01/15 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybccbtb/) (Indianapolis)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
