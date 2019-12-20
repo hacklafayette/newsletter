@@ -1,7 +1,6 @@
 # HackLafayette newsletter — 2020-01-03
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
-This will be the last newsletter of 2019. See you next year!
 
 Ben is looking for someone to adopt the Meetup subscription.
 
