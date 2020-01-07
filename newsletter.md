@@ -4,12 +4,18 @@ Here's your news and stuff for this week. Have anything that needs to be added? 
 
 Ben is looking for someone to adopt the Meetup subscription.
 
-
-
 ## Upcoming HackLafayette events:
 
+- 01/08 -- [An Overview of RMarkdown](https://www.meetup.com/hacklafayette/events/vkwlfpybccblb/)
+- 01/08 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybccblb/)
+- 01/26 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybccbjc/)
+- 02/12 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpybcdbqb/)
+- 02/12 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcdbqb/)
+- 02/22 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/267711894/)
+- 02/23 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcdbfc/)
 
 ## Upcoming nearby events:
+
 - 01/14 — IndyPy: [Startup Row Pitch Night](https://www.meetup.com/indypy/events/bxqbmqybccbsb/) (Indianapolis)
 - 01/15 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybccbtb/) (Indianapolis)
 - 01/16 — IndyGCP [Cloud Networking Showdown](https://www.meetup.com/IndyGCP/events/266789050/) (Indianapolis)
@@ -21,8 +27,9 @@ Ben is looking for someone to adopt the Meetup subscription.
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
 ## Open CfPs:
-* [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
-* [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
+
+- [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
+- [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
 
 ## Member news:
 
