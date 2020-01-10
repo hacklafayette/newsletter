@@ -33,6 +33,10 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
+* Ben Cotton will be presenting "We Won: Now What?" at DevConf.CZ in Brno, CZ 24-26 January.
+* Ben Cotton will be attending FOSDEM in Brussels, BE 1-2 February.
+* Ben Cotton will be attending CopyleftConf in Brussels, BE 3 February.
+
 ## Jobs:
 
 - IndyHackers Jobs board (local jobs only): [http://www.indyhackers.org/jobs](http://www.indyhackers.org/jobs)
