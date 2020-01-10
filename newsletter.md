@@ -1,13 +1,13 @@
-# HackLafayette newsletter — 2020-01-10
+# HackLafayette newsletter — 2020-01-17
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
+
+*There will be no newsletter the next two weeks.*
 
 Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
-- 01/08 -- [An Overview of RMarkdown](https://www.meetup.com/hacklafayette/events/vkwlfpybccblb/)
-- 01/08 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybccblb/)
 - 01/26 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybccbjc/)
 - 02/12 -- [TBA — Purdue Perl Mongers](https://www.meetup.com/hacklafayette/events/vkwlfpybcdbqb/)
 - 02/12 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcdbqb/)
@@ -16,9 +16,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 01/14 — IndyPy: [Startup Row Pitch Night](https://www.meetup.com/indypy/events/bxqbmqybccbsb/) (Indianapolis)
-- 01/15 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybccbtb/) (Indianapolis)
-- 01/16 — IndyGCP [Cloud Networking Showdown](https://www.meetup.com/IndyGCP/events/266789050/) (Indianapolis)
 - 01/21 — IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/mvstlrybccbcc/) (Indianapolis)
 - 01/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpybccbfc/) (Indianapolis)
 - 01/27 — Indy DevOps [DynamoDB and RDS in a Serverless World](https://www.meetup.com/IndyDevOps/events/bctljrybccblc/) (Indianapolis)
@@ -30,7 +27,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Open CfPs:
 
-- [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/781) — closes 01/14
 - [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
 
 ## Member news:
