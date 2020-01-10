@@ -21,8 +21,10 @@ Ben is looking for someone to adopt the Meetup subscription.
 - 01/16 — IndyGCP [Cloud Networking Showdown](https://www.meetup.com/IndyGCP/events/266789050/) (Indianapolis)
 - 01/21 — IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/mvstlrybccbcc/) (Indianapolis)
 - 01/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpybccbfc/) (Indianapolis)
-- 01/27 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybccblc/) (Indianapolis)
+- 01/27 — Indy DevOps [DynamoDB and RDS in a Serverless World](https://www.meetup.com/IndyDevOps/events/bctljrybccblc/) (Indianapolis)
 - 01/30 — [Game Night with IndyPy and IndyAWS](https://www.meetup.com/IndyAWS/events/267323319/) (Indianapolis)
+- 02/04 — [Developing Great Web APIs Architectures with ASP.NET Core 3.0](https://www.meetup.com/Indy-NET-Consortium/events/267358381/) (Indianapolis)
+- 02/11 — IndyPy [meeting](https://www.meetup.com/indypy/events/bxqbmqybcdbpb/) (Indianapolis)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
