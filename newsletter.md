@@ -16,7 +16,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 01/21 — IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/mvstlrybccbcc/) (Indianapolis)
+- 01/21 — IndyAWS [Identity Management](https://www.meetup.com/IndyAWS/events/mvstlrybccbcc/) (Indianapolis)
 - 01/23 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/xkhznpybccbfc/) (Indianapolis)
 - 01/27 — Indy DevOps [DynamoDB and RDS in a Serverless World](https://www.meetup.com/IndyDevOps/events/bctljrybccblc/) (Indianapolis)
 - 01/30 — [Game Night with IndyPy and IndyAWS](https://www.meetup.com/IndyAWS/events/267323319/) (Indianapolis)
