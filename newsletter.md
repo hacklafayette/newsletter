@@ -13,7 +13,16 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 02/11 — IndyPy [meeting](https://www.meetup.com/indypy/events/bxqbmqybcdbpb/) (Indianapolis)
+- 02/11 — IndyPy [Mixer: Machine Learning & AI](https://www.meetup.com/indypy/events/bxqbmqybcdbpb/) (Indianapolis)
+- 02/12 — Indianapolis Technology Startups [meeting](https://www.meetup.com/Indianapolis-Technology-Startups-Meetup-Group/events/wphrnrybcdbqb/) (Indianapolis)
+- 02/12 — indy.rb [meeting](https://www.meetup.com/indyrb/events/pvzcnrybcdbqb/) (Indianapolis)
+- 02/12 — DataScience Indy [meeting](https://www.meetup.com/dsindy/events/bdkcwlybcdbqb/) (Indianapolis)
+- 02/13 — IndyGCP [meeting](https://www.meetup.com/IndyGCP/events/266789061/) (Indianapolis)
+- 02/18 — IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/mvstlrybcdbxb/) (Indianapolis)
+- 02/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcdbzb/) (Indianapolis)
+- 02/19 — Out in Tech Indy [Coming Out](https://www.eventbrite.com/e/out-in-tech-ind-out-in-tech-indianapolis-is-coming-out-tickets-91204139035) (Indianapolis)
+- 02/25 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcdbhc/) (Indianapolis)
+- 02/25 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcdbkc/) (Indianapolis)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
