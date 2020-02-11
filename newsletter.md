@@ -22,6 +22,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 ## Open CfPs:
 
 - [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
+- [All Things Open](https://2020.allthingsopen.org/call-for-speakers.html) — closes 03/20
 
 ## Member news:
 
