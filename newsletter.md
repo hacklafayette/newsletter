@@ -6,7 +6,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
-- 02/22 -- [Thunder Talks ](https://www.meetup.com/hacklafayette/events/267711894/)
+- 02/22 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/267711894/)
 - 02/23 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcdbfc/)
 
 ## Upcoming nearby events:
