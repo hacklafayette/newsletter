@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2020-02-14
+# HackLafayette newsletter — 2020-02-21
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
 
@@ -11,9 +11,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 02/18 — IndyAWS [Serverless Architecture](https://www.meetup.com/IndyAWS/events/mvstlrybcdbxb/) (Indianapolis)
-- 02/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcdbzb/) (Indianapolis)
-- 02/19 — Out in Tech Indy [Coming Out](https://www.eventbrite.com/e/out-in-tech-ind-out-in-tech-indianapolis-is-coming-out-tickets-91204139035) (Indianapolis)
 - 02/25 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcdbhc/) (Indianapolis)
 - 02/25 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcdbkc/) (Indianapolis)
 - 03/04 — indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpybcfbgb/)
@@ -23,7 +20,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Open CfPs:
 
-- [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/#overview) — closes 02/16
 - [Facebook CentOS Dojo](https://docs.google.com/forms/d/e/1FAIpQLSe7wp5runY05oQwzwD2IgG8ZrKjht1VBQ0CB7XJW6PpOhbZ9g/viewform) — closes 03/16
 - [All Things Open](https://2020.allthingsopen.org/call-for-speakers.html) — closes 03/20
 
