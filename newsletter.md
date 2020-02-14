@@ -11,11 +11,13 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 02/18 — IndyAWS [meeting](https://www.meetup.com/IndyAWS/events/mvstlrybcdbxb/) (Indianapolis)
+- 02/18 — IndyAWS [Serverless Architecture](https://www.meetup.com/IndyAWS/events/mvstlrybcdbxb/) (Indianapolis)
 - 02/19 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcdbzb/) (Indianapolis)
 - 02/19 — Out in Tech Indy [Coming Out](https://www.eventbrite.com/e/out-in-tech-ind-out-in-tech-indianapolis-is-coming-out-tickets-91204139035) (Indianapolis)
 - 02/25 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcdbhc/) (Indianapolis)
 - 02/25 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcdbkc/) (Indianapolis)
+- 03/04 — indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpybcfbgb/)
+- 03/10 — IndyPy [meeting](https://www.meetup.com/indypy/events/hwstlrybcfbnb/)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
