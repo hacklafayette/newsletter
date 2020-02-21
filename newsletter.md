@@ -13,8 +13,14 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 - 02/25 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcdbhc/) (Indianapolis)
 - 02/25 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcdbkc/) (Indianapolis)
-- 03/04 — indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpybcfbgb/)
-- 03/10 — IndyPy [meeting](https://www.meetup.com/indypy/events/hwstlrybcfbnb/)
+- 02/25 — Indy Remote [coffee](https://www.meetup.com/Indy-Remote/events/268758081/) (Fishers)
+- 02/25 — IndyPy [bytes](https://www.meetup.com/indypy/events/sllrlrybcdbhc/) (Indianapolis)
+- 02/28 — Indy Remote [heads down co-working](https://www.meetup.com/Indy-Remote/events/268758149/) (Indianapolis)
+- 03/04 — indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpybcfbgb/) (Indianapolis)
+- 03/04 — Indy .NET Consortium [Microservice Architecture Pattern and the Cloud](https://www.meetup.com/Indy-NET-Consortium/events/268047469/) (Indianapolis)
+- 03/10 — IndyPy [IBM Workshop - Bias in Machine Learning](https://www.meetup.com/indypy/events/hwstlrybcfbnb/) (Indianapolis)
+- 03/11 — indy.rb [meeting](https://www.meetup.com/indyrb/events/pvzcnrybcfbpb/) (Indianapolis)
+- 03/12 — IndyGCP [How to get certified on GCP](https://www.meetup.com/IndyGCP/events/266789074/) (Indianapolis)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
