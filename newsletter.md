@@ -1,4 +1,4 @@
-# HackLafayette newsletter — 2020-02-21
+# HackLafayette newsletter — 2020-02-28
 
 Here's your news and stuff for this week. Have anything that needs to be added? Send it to info@hacklafayette.com or open a pull request on [GitHub](https://github.com/hacklafayette/newsletter). Keep in touch with us via the [Meetup group](https://www.meetup.com/hacklafayette/) or on [Twitter](https://twitter.com/hacklafayette).
 
@@ -6,15 +6,9 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
-- 02/22 -- [Thunder Talks](https://www.meetup.com/hacklafayette/events/267711894/)
-- 02/23 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcdbfc/)
 
 ## Upcoming nearby events:
 
-- 02/25 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcdbhc/) (Indianapolis)
-- 02/25 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcdbkc/) (Indianapolis)
-- 02/25 — Indy Remote [coffee](https://www.meetup.com/Indy-Remote/events/268758081/) (Fishers)
-- 02/25 — IndyPy [bytes](https://www.meetup.com/indypy/events/sllrlrybcdbhc/) (Indianapolis)
 - 02/28 — Indy Remote [heads down co-working](https://www.meetup.com/Indy-Remote/events/268758149/) (Indianapolis)
 - 03/04 — indy.rs [meeting](https://www.meetup.com/indyrs/events/mffbtpybcfbgb/) (Indianapolis)
 - 03/04 — Indy .NET Consortium [Microservice Architecture Pattern and the Cloud](https://www.meetup.com/Indy-NET-Consortium/events/268047469/) (Indianapolis)
