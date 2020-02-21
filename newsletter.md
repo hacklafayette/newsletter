@@ -27,6 +27,8 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
+- Ben Cotton will attend the Southern California Linux Expo (SCaLE) in Pasadena, CA on March 6-8.
+
 
 ## Jobs:
 
