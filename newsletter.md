@@ -22,6 +22,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 - [Facebook CentOS Dojo](https://docs.google.com/forms/d/e/1FAIpQLSe7wp5runY05oQwzwD2IgG8ZrKjht1VBQ0CB7XJW6PpOhbZ9g/viewform) — closes 03/16
 - [All Things Open](https://2020.allthingsopen.org/call-for-speakers.html) — closes 03/20
+- [Community Leadership Summit](https://www.communityleadershipsummit.com/cfp/) — closes 04/10
 - [DevConf.US](http://cfp.devconf.info/) — closes 04/27
 
 ## Member news:
