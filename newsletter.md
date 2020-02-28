@@ -6,6 +6,8 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
+- 03/11 — [All the Slidedecks I've Made Before](https://www.meetup.com/hacklafayette/events/vkwlfpybcfbpb/)
+- 03/22 — [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcfbdc/)
 
 ## Upcoming nearby events:
 
@@ -15,7 +17,12 @@ Ben is looking for someone to adopt the Meetup subscription.
 - 03/10 — IndyPy [IBM Workshop - Bias in Machine Learning](https://www.meetup.com/indypy/events/hwstlrybcfbnb/) (Indianapolis)
 - 03/11 — indy.rb [meeting](https://www.meetup.com/indyrb/events/pvzcnrybcfbpb/) (Indianapolis)
 - 03/12 — IndyGCP [How to get certified on GCP](https://www.meetup.com/IndyGCP/events/266789074/) (Indianapolis)
+- 03/17 — IndyAWS [Machine Learning](https://www.meetup.com/IndyAWS/events/mvstlrybcfbwb/) (Indianapolis)
+- 03/18 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcfbxb/) (Indianapolis)
+- 03/24 — IndyPy [Bytes](https://www.meetup.com/indypy/events/pwjtlrybcfbgc/) (Indianapolis)
+- 03/24 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcfbgc/) (Indianapolis)
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
+- 03/26 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcfbjc/) (Indianapolis)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
 ## Open CfPs:
