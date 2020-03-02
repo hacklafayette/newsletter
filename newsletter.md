@@ -6,8 +6,9 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
-- 03/11 — [All the Slidedecks I've Made Before](https://www.meetup.com/hacklafayette/events/vkwlfpybcfbpb/)
-- 03/22 — [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcfbdc/)
+- 03/11 -- [All the Slidedecks I've Made Before](https://www.meetup.com/hacklafayette/events/vkwlfpybcfbpb/)
+- 03/11 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcfbpb/)
+- 03/22 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcfbdc/)
 
 ## Upcoming nearby events:
 
@@ -34,7 +35,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
 
 - Ben Cotton will attend the Southern California Linux Expo (SCaLE) in Pasadena, CA on March 6-8.
-
 
 ## Jobs:
 
