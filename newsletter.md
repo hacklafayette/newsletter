@@ -15,7 +15,7 @@ Ben is looking for someone to adopt the Meetup subscription.
 - 03/10 — IndyPy [IBM Workshop - Bias in Machine Learning](https://www.meetup.com/indypy/events/hwstlrybcfbnb/) (Indianapolis)
 - 03/11 — indy.rb [meeting](https://www.meetup.com/indyrb/events/pvzcnrybcfbpb/) (Indianapolis)
 - 03/12 — IndyGCP [How to get certified on GCP](https://www.meetup.com/IndyGCP/events/266789074/) (Indianapolis)
-- 03/17 — IndyAWS [Machine Learning](https://www.meetup.com/IndyAWS/events/mvstlrybcfbwb/) (Indianapolis)
+- 03/17 — IndyAWS [Kubernetes architecture](https://www.meetup.com/IndyAWS/events/mvstlrybcfbwb/) (Indianapolis)
 - 03/18 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcfbxb/) (Indianapolis)
 - 03/24 — IndyPy [Bytes](https://www.meetup.com/indypy/events/pwjtlrybcfbgc/) (Indianapolis)
 - 03/24 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcfbgc/) (Indianapolis)
