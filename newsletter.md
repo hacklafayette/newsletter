@@ -10,12 +10,11 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming nearby events:
 
-- 03/17 — IndyAWS [Kubernetes architecture](https://www.meetup.com/IndyAWS/events/mvstlrybcfbwb/) (Indianapolis)
-- 03/18 — indy.js [meeting](https://www.meetup.com/indyjs/events/rfhfjrybcfbxb/) (Indianapolis)
-- 03/24 — IndyPy [Bytes](https://www.meetup.com/indypy/events/pwjtlrybcfbgc/) (Indianapolis)
-- 03/24 — Indy DevOps [meeting](https://www.meetup.com/IndyDevOps/events/bctljrybcfbgc/) (Indianapolis)
-- 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (Fishers)
-- 03/26 — Indy Azure User Group [meeting](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcfbjc/) (Indianapolis)
+*For in-person events, check with meeting organizers to make sure the event is still happening*
+
+- 03/17 — IndyAWS [Kubernetes architecture](https://www.meetup.com/IndyAWS/events/mvstlrybcfbwb/) (online)
+- 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (online)
+- 03/26 — Indy Azure User Group [Metrics are Evil](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcfbjc/) (Indianapolis)
 - 05/18–21 — [php[tek]](https://tek.phparch.com/) (Nashville, TN)
 
 ## Open CfPs:
