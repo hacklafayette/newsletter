@@ -7,10 +7,13 @@ Ben is looking for someone to adopt the Meetup subscription.
 ## Upcoming HackLafayette events:
 
 - 03/22 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcfbdc/)
+- 04/08 -- [Looking around for Regular Expressions](https://www.meetup.com/hacklafayette/events/vkwlfpybcgblb/)
+- 04/08 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcgblb/)
+- 04/26 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcgbjc/)
 
 ## Upcoming nearby events:
 
-*For in-person events, check with meeting organizers to make sure the event is still happening*
+_For in-person events, check with meeting organizers to make sure the event is still happening_
 
 - 03/26–27 — [Indy Cloud Conf](https://2020.indycloudconf.com/) (online)
 - 03/26 — Indy Azure User Group [Metrics are Evil](https://www.meetup.com/Indy-Azure-User-Group/events/gmlzmrybcfbjc/) (Indianapolis)
@@ -25,7 +28,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 ## Member news:
 
 (Have news you want to share? Send us your speaking gigs, conference attendance, new jobs, new projects, etc.)
-
 
 ## Jobs:
 
