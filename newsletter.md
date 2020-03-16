@@ -6,7 +6,6 @@ Ben is looking for someone to adopt the Meetup subscription.
 
 ## Upcoming HackLafayette events:
 
-- 03/22 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcfbdc/)
 - 04/08 -- [Looking around for Regular Expressions](https://www.meetup.com/hacklafayette/events/vkwlfpybcgblb/)
 - 04/08 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcgblb/)
 - 04/26 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcgbjc/)
