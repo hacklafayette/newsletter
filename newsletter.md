@@ -6,9 +6,8 @@ Gizmo adopted the Meetup subscription. Thanks, Gizmo!
 
 ## Upcoming HackLafayette events:
 
-- 04/08 -- [Looking around for Regular Expressions](https://www.meetup.com/hacklafayette/events/vkwlfpybcgblb/)
-- 04/08 -- [Open Source Food & Chat](https://www.meetup.com/hacklafayette/events/fwnpjrybcgblb/)
-- 04/26 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybcgbjc/)
+* 05/13 -- [Gizmo Demos His Talk for Conf in the Cloud](https://www.meetup.com/hacklafayette/events/vkwlfpybchbrb/)
+* 05/24 -- [Open Source Coffee & Chat](https://www.meetup.com/hacklafayette/events/jjppjrybchbgc/)
 
 ## Upcoming nearby events:
 
